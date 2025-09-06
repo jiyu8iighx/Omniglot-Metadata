@@ -1,0 +1,5 @@
+Id	Ref_Name	Reason	Description
+mis	Uncoded languages	Special code (S+S)	Not representing actual language entity
+mul	Multiple languages	Special code (S+S)	Not representing actual language entity
+und	Undetermined	Special code (S+S)	Not representing actual language entity
+zxx	No linguistic content	Special code (S+S)	Not representing actual language entity

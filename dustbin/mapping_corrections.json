@@ -1,0 +1,47 @@
+{
+  "automatic_fixes": [
+    {
+      "entity_id": "latin.htm",
+      "old_mapping": {
+        "iso_code": "Latf",
+        "score": 1.0,
+        "omniglot_label": "Latin",
+        "iso_name": "Latin (Fraktur variant)"
+      },
+      "new_iso_code": "Latn",
+      "new_iso_name": "Latin",
+      "reason": "通用Latin页面被映射到变体Latin (Fraktur variant)"
+    }
+  ],
+  "manual_review": [
+    {
+      "entity_id": "latin.htm",
+      "issue_type": "variant_mismatch",
+      "current_mapping": {
+        "iso_code": "Latf",
+        "score": 1.0,
+        "omniglot_label": "Latin",
+        "iso_name": "Latin (Fraktur variant)"
+      },
+      "reason": "通用标签\"Latin\"被映射到变体\"Latin (Fraktur variant)\""
+    },
+    {
+      "entity_id": "northarabian.htm",
+      "issue_type": "variant_mismatch",
+      "current_mapping": {
+        "iso_code": "Narb",
+        "score": 0.8666666666666667,
+        "omniglot_label": "North Arabian",
+        "iso_name": "Old North Arabian (Ancient North Arabian)"
+      },
+      "reason": "通用标签\"North Arabian\"被映射到变体\"Old North Arabian (Ancient North Arabian)\""
+    }
+  ],
+  "statistics": {
+    "total_problems": 3,
+    "by_type": {
+      "generic_to_variant": 1,
+      "variant_mismatch": 2
+    }
+  }
+}

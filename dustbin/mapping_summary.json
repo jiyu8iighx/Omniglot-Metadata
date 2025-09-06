@@ -1,0 +1,213 @@
+{
+  "statistics": {
+    "total_entities": 2500,
+    "non_fragment_entities": 2469,
+    "conflicts": 155,
+    "clear_languages": 2092,
+    "clear_writing_systems": 222
+  },
+  "sample_entities": {
+    "clear_languages": [
+      "aari.htm",
+      "abaza.htm",
+      "abellen.htm",
+      "abenaki.htm",
+      "abidji.htm",
+      "abkhaz.htm",
+      "aborlantagbanwa.htm",
+      "abua.htm",
+      "abui.htm",
+      "acazulcootomi.htm"
+    ],
+    "clear_writing_systems": [
+      "achiktokbirim.htm",
+      "adinkra.htm",
+      "adlam.htm",
+      "afaka.htm",
+      "aima.htm",
+      "berber.htm",
+      "egyptian_demotic.htm",
+      "egyptian_hieratic.htm",
+      "egyptian.htm",
+      "futhorc.htm"
+    ],
+    "conflicts": [
+      "adaizan.htm",
+      "ahom.htm",
+      "akkadian.htm",
+      "arabic.htm",
+      "aramaic.htm",
+      "armenian.htm",
+      "avestan.htm",
+      "bagatha.htm",
+      "balinese.htm",
+      "bamum.htm"
+    ]
+  },
+  "conflict_analysis": [
+    {
+      "entity_id": "adaizan.htm",
+      "type_hints": [
+        "writing_system",
+        "language"
+      ],
+      "labels": [
+        "Adaizan"
+      ],
+      "sources": [
+        "language_csv",
+        "langalph_map_json",
+        "writing_csv"
+      ]
+    },
+    {
+      "entity_id": "ahom.htm",
+      "type_hints": [
+        "writing_system",
+        "single_lang_writing",
+        "language"
+      ],
+      "labels": [
+        "Ahom"
+      ],
+      "sources": [
+        "langalph_single_csv",
+        "language_csv",
+        "writing_csv"
+      ]
+    },
+    {
+      "entity_id": "akkadian.htm",
+      "type_hints": [
+        "writing_system",
+        "single_lang_writing",
+        "language"
+      ],
+      "labels": [
+        "Akkadian",
+        "Akkadian Cuneiform"
+      ],
+      "sources": [
+        "langalph_single_csv",
+        "language_csv",
+        "langalph_map_json",
+        "writing_csv"
+      ]
+    },
+    {
+      "entity_id": "arabic.htm",
+      "type_hints": [
+        "writing_system",
+        "language",
+        "multi_lang_writing"
+      ],
+      "labels": [
+        "Arabic",
+        "Arabic (Modern Standard)"
+      ],
+      "sources": [
+        "language_csv",
+        "langalph_map_json",
+        "writing_csv"
+      ]
+    },
+    {
+      "entity_id": "aramaic.htm",
+      "type_hints": [
+        "writing_system",
+        "single_lang_writing",
+        "language"
+      ],
+      "labels": [
+        "Aramaic"
+      ],
+      "sources": [
+        "langalph_single_csv",
+        "language_csv",
+        "langalph_map_json",
+        "writing_csv"
+      ]
+    },
+    {
+      "entity_id": "armenian.htm",
+      "type_hints": [
+        "writing_system",
+        "language",
+        "multi_lang_writing"
+      ],
+      "labels": [
+        "Armenian",
+        "Armenian (Eastern and Western)",
+        "Armenian (Western)",
+        "Armenian (Eastern)"
+      ],
+      "sources": [
+        "language_csv",
+        "langalph_map_json",
+        "writing_csv"
+      ]
+    },
+    {
+      "entity_id": "avestan.htm",
+      "type_hints": [
+        "writing_system",
+        "single_lang_writing",
+        "language"
+      ],
+      "labels": [
+        "Avestan"
+      ],
+      "sources": [
+        "langalph_single_csv",
+        "language_csv",
+        "langalph_map_json",
+        "writing_csv"
+      ]
+    },
+    {
+      "entity_id": "bagatha.htm",
+      "type_hints": [
+        "writing_system",
+        "language"
+      ],
+      "labels": [
+        "Bagatha"
+      ],
+      "sources": [
+        "language_csv",
+        "writing_csv"
+      ]
+    },
+    {
+      "entity_id": "balinese.htm",
+      "type_hints": [
+        "writing_system",
+        "language",
+        "multi_lang_writing"
+      ],
+      "labels": [
+        "Balinese"
+      ],
+      "sources": [
+        "language_csv",
+        "langalph_map_json",
+        "writing_csv"
+      ]
+    },
+    {
+      "entity_id": "bamum.htm",
+      "type_hints": [
+        "single_lang_writing",
+        "language"
+      ],
+      "labels": [
+        "Bamum"
+      ],
+      "sources": [
+        "langalph_single_csv",
+        "language_csv",
+        "langalph_map_json"
+      ]
+    }
+  ]
+}

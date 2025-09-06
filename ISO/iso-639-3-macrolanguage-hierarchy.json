@@ -1,0 +1,2658 @@
+[
+  {
+    "macro_id": "aka",
+    "macro_name": "Akan",
+    "member_count": 2,
+    "members": [
+      {
+        "id": "fat",
+        "name": "Fanti",
+        "status": "A"
+      },
+      {
+        "id": "twi",
+        "name": "Twi",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "ara",
+    "macro_name": "Arabic",
+    "member_count": 28,
+    "members": [
+      {
+        "id": "aao",
+        "name": "Algerian Saharan Arabic",
+        "status": "A"
+      },
+      {
+        "id": "abh",
+        "name": "Tajiki Arabic",
+        "status": "A"
+      },
+      {
+        "id": "abv",
+        "name": "Baharna Arabic",
+        "status": "A"
+      },
+      {
+        "id": "acm",
+        "name": "Mesopotamian Arabic",
+        "status": "A"
+      },
+      {
+        "id": "acq",
+        "name": "Ta'izzi-Adeni Arabic",
+        "status": "A"
+      },
+      {
+        "id": "acw",
+        "name": "Hijazi Arabic",
+        "status": "A"
+      },
+      {
+        "id": "acx",
+        "name": "Omani Arabic",
+        "status": "A"
+      },
+      {
+        "id": "acy",
+        "name": "Cypriot Arabic",
+        "status": "A"
+      },
+      {
+        "id": "adf",
+        "name": "Dhofari Arabic",
+        "status": "A"
+      },
+      {
+        "id": "aeb",
+        "name": "Tunisian Arabic",
+        "status": "A"
+      },
+      {
+        "id": "aec",
+        "name": "Saidi Arabic",
+        "status": "A"
+      },
+      {
+        "id": "afb",
+        "name": "Gulf Arabic",
+        "status": "A"
+      },
+      {
+        "id": "apc",
+        "name": "Levantine Arabic",
+        "status": "A"
+      },
+      {
+        "id": "apd",
+        "name": "Sudanese Arabic",
+        "status": "A"
+      },
+      {
+        "id": "arb",
+        "name": "Standard Arabic",
+        "status": "A"
+      },
+      {
+        "id": "arq",
+        "name": "Algerian Arabic",
+        "status": "A"
+      },
+      {
+        "id": "ars",
+        "name": "Najdi Arabic",
+        "status": "A"
+      },
+      {
+        "id": "ary",
+        "name": "Moroccan Arabic",
+        "status": "A"
+      },
+      {
+        "id": "arz",
+        "name": "Egyptian Arabic",
+        "status": "A"
+      },
+      {
+        "id": "auz",
+        "name": "Uzbeki Arabic",
+        "status": "A"
+      },
+      {
+        "id": "avl",
+        "name": "Eastern Egyptian Bedawi Arabic",
+        "status": "A"
+      },
+      {
+        "id": "ayh",
+        "name": "Hadrami Arabic",
+        "status": "A"
+      },
+      {
+        "id": "ayl",
+        "name": "Libyan Arabic",
+        "status": "A"
+      },
+      {
+        "id": "ayn",
+        "name": "Sanaani Arabic",
+        "status": "A"
+      },
+      {
+        "id": "ayp",
+        "name": "North Mesopotamian Arabic",
+        "status": "A"
+      },
+      {
+        "id": "pga",
+        "name": "Sudanese Creole Arabic",
+        "status": "A"
+      },
+      {
+        "id": "shu",
+        "name": "Chadian Arabic",
+        "status": "A"
+      },
+      {
+        "id": "ssh",
+        "name": "Shihhi Arabic",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "aym",
+    "macro_name": "Aymara",
+    "member_count": 2,
+    "members": [
+      {
+        "id": "ayc",
+        "name": "Southern Aymara",
+        "status": "A"
+      },
+      {
+        "id": "ayr",
+        "name": "Central Aymara",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "aze",
+    "macro_name": "Azerbaijani",
+    "member_count": 2,
+    "members": [
+      {
+        "id": "azb",
+        "name": "South Azerbaijani",
+        "status": "A"
+      },
+      {
+        "id": "azj",
+        "name": "North Azerbaijani",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "bal",
+    "macro_name": "Baluchi",
+    "member_count": 3,
+    "members": [
+      {
+        "id": "bcc",
+        "name": "Southern Balochi",
+        "status": "A"
+      },
+      {
+        "id": "bgn",
+        "name": "Western Balochi",
+        "status": "A"
+      },
+      {
+        "id": "bgp",
+        "name": "Eastern Balochi",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "bik",
+    "macro_name": "Bikol",
+    "member_count": 8,
+    "members": [
+      {
+        "id": "bcl",
+        "name": "Central Bikol",
+        "status": "A"
+      },
+      {
+        "id": "bln",
+        "name": "Southern Catanduanes Bikol",
+        "status": "A"
+      },
+      {
+        "id": "bto",
+        "name": "Rinconada Bikol",
+        "status": "A"
+      },
+      {
+        "id": "cts",
+        "name": "Northern Catanduanes Bikol",
+        "status": "A"
+      },
+      {
+        "id": "fbl",
+        "name": "West Albay Bikol",
+        "status": "A"
+      },
+      {
+        "id": "lbl",
+        "name": "Libon Bikol",
+        "status": "A"
+      },
+      {
+        "id": "rbl",
+        "name": "Miraya Bikol",
+        "status": "A"
+      },
+      {
+        "id": "ubl",
+        "name": "Buhi'non Bikol",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "bnc",
+    "macro_name": "Bontok",
+    "member_count": 5,
+    "members": [
+      {
+        "id": "ebk",
+        "name": "Eastern Bontok",
+        "status": "A"
+      },
+      {
+        "id": "lbk",
+        "name": "Central Bontok",
+        "status": "A"
+      },
+      {
+        "id": "obk",
+        "name": "Southern Bontok",
+        "status": "A"
+      },
+      {
+        "id": "rbk",
+        "name": "Northern Bontok",
+        "status": "A"
+      },
+      {
+        "id": "vbk",
+        "name": "Southwestern Bontok",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "bua",
+    "macro_name": "Buriat",
+    "member_count": 3,
+    "members": [
+      {
+        "id": "bxm",
+        "name": "Mongolia Buriat",
+        "status": "A"
+      },
+      {
+        "id": "bxr",
+        "name": "Russia Buriat",
+        "status": "A"
+      },
+      {
+        "id": "bxu",
+        "name": "China Buriat",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "chm",
+    "macro_name": "Mari (Russia)",
+    "member_count": 2,
+    "members": [
+      {
+        "id": "mhr",
+        "name": "Eastern Mari",
+        "status": "A"
+      },
+      {
+        "id": "mrj",
+        "name": "Western Mari",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "cre",
+    "macro_name": "Cree",
+    "member_count": 6,
+    "members": [
+      {
+        "id": "crj",
+        "name": "Southern East Cree",
+        "status": "A"
+      },
+      {
+        "id": "crk",
+        "name": "Plains Cree",
+        "status": "A"
+      },
+      {
+        "id": "crl",
+        "name": "Northern East Cree",
+        "status": "A"
+      },
+      {
+        "id": "crm",
+        "name": "Moose Cree",
+        "status": "A"
+      },
+      {
+        "id": "csw",
+        "name": "Swampy Cree",
+        "status": "A"
+      },
+      {
+        "id": "cwd",
+        "name": "Woods Cree",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "del",
+    "macro_name": "Delaware",
+    "member_count": 2,
+    "members": [
+      {
+        "id": "umu",
+        "name": "Munsee",
+        "status": "A"
+      },
+      {
+        "id": "unm",
+        "name": "Unami",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "den",
+    "macro_name": "Slave (Athapascan)",
+    "member_count": 2,
+    "members": [
+      {
+        "id": "scs",
+        "name": "North Slavey",
+        "status": "A"
+      },
+      {
+        "id": "xsl",
+        "name": "South Slavey",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "din",
+    "macro_name": "Dinka",
+    "member_count": 5,
+    "members": [
+      {
+        "id": "dib",
+        "name": "South Central Dinka",
+        "status": "A"
+      },
+      {
+        "id": "dik",
+        "name": "Southwestern Dinka",
+        "status": "A"
+      },
+      {
+        "id": "dip",
+        "name": "Northeastern Dinka",
+        "status": "A"
+      },
+      {
+        "id": "diw",
+        "name": "Northwestern Dinka",
+        "status": "A"
+      },
+      {
+        "id": "dks",
+        "name": "Southeastern Dinka",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "doi",
+    "macro_name": "Dogri (macrolanguage)",
+    "member_count": 2,
+    "members": [
+      {
+        "id": "dgo",
+        "name": "Dogri (individual language)",
+        "status": "A"
+      },
+      {
+        "id": "xnr",
+        "name": "Kangri",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "est",
+    "macro_name": "Estonian",
+    "member_count": 2,
+    "members": [
+      {
+        "id": "ekk",
+        "name": "Standard Estonian",
+        "status": "A"
+      },
+      {
+        "id": "vro",
+        "name": "Võro",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "fas",
+    "macro_name": "Persian",
+    "member_count": 2,
+    "members": [
+      {
+        "id": "pes",
+        "name": "Iranian Persian",
+        "status": "A"
+      },
+      {
+        "id": "prs",
+        "name": "Dari",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "ful",
+    "macro_name": "Fulah",
+    "member_count": 9,
+    "members": [
+      {
+        "id": "ffm",
+        "name": "Maasina Fulfulde",
+        "status": "A"
+      },
+      {
+        "id": "fub",
+        "name": "Adamawa Fulfulde",
+        "status": "A"
+      },
+      {
+        "id": "fuc",
+        "name": "Pulaar",
+        "status": "A"
+      },
+      {
+        "id": "fue",
+        "name": "Borgu Fulfulde",
+        "status": "A"
+      },
+      {
+        "id": "fuf",
+        "name": "Pular",
+        "status": "A"
+      },
+      {
+        "id": "fuh",
+        "name": "Western Niger Fulfulde",
+        "status": "A"
+      },
+      {
+        "id": "fui",
+        "name": "Bagirmi Fulfulde",
+        "status": "A"
+      },
+      {
+        "id": "fuq",
+        "name": "Central-Eastern Niger Fulfulde",
+        "status": "A"
+      },
+      {
+        "id": "fuv",
+        "name": "Nigerian Fulfulde",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "gba",
+    "macro_name": "Gbaya (Central African Republic)",
+    "member_count": 6,
+    "members": [
+      {
+        "id": "bdt",
+        "name": "Bokoto",
+        "status": "A"
+      },
+      {
+        "id": "gbp",
+        "name": "Gbaya-Bossangoa",
+        "status": "A"
+      },
+      {
+        "id": "gbq",
+        "name": "Gbaya-Bozoum",
+        "status": "A"
+      },
+      {
+        "id": "gmm",
+        "name": "Gbaya-Mbodomo",
+        "status": "A"
+      },
+      {
+        "id": "gso",
+        "name": "Southwest Gbaya",
+        "status": "A"
+      },
+      {
+        "id": "gya",
+        "name": "Northwest Gbaya",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "gon",
+    "macro_name": "Gondi",
+    "member_count": 3,
+    "members": [
+      {
+        "id": "esg",
+        "name": "Aheri Gondi",
+        "status": "A"
+      },
+      {
+        "id": "gno",
+        "name": "Northern Gondi",
+        "status": "A"
+      },
+      {
+        "id": "wsg",
+        "name": "Adilabad Gondi",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "grb",
+    "macro_name": "Grebo",
+    "member_count": 5,
+    "members": [
+      {
+        "id": "gbo",
+        "name": "Northern Grebo",
+        "status": "A"
+      },
+      {
+        "id": "gec",
+        "name": "Gboloo Grebo",
+        "status": "A"
+      },
+      {
+        "id": "grj",
+        "name": "Southern Grebo",
+        "status": "A"
+      },
+      {
+        "id": "grv",
+        "name": "Central Grebo",
+        "status": "A"
+      },
+      {
+        "id": "gry",
+        "name": "Barclayville Grebo",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "grn",
+    "macro_name": "Guarani",
+    "member_count": 5,
+    "members": [
+      {
+        "id": "gnw",
+        "name": "Western Bolivian Guaraní",
+        "status": "A"
+      },
+      {
+        "id": "gug",
+        "name": "Paraguayan Guaraní",
+        "status": "A"
+      },
+      {
+        "id": "gui",
+        "name": "Eastern Bolivian Guaraní",
+        "status": "A"
+      },
+      {
+        "id": "gun",
+        "name": "Mbyá Guaraní",
+        "status": "A"
+      },
+      {
+        "id": "nhd",
+        "name": "Chiripá",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "hai",
+    "macro_name": "Haida",
+    "member_count": 2,
+    "members": [
+      {
+        "id": "hax",
+        "name": "Southern Haida",
+        "status": "A"
+      },
+      {
+        "id": "hdn",
+        "name": "Northern Haida",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "hbs",
+    "macro_name": "Serbo-Croatian",
+    "member_count": 4,
+    "members": [
+      {
+        "id": "bos",
+        "name": "Bosnian",
+        "status": "A"
+      },
+      {
+        "id": "cnr",
+        "name": "Montenegrin",
+        "status": "A"
+      },
+      {
+        "id": "hrv",
+        "name": "Croatian",
+        "status": "A"
+      },
+      {
+        "id": "srp",
+        "name": "Serbian",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "hmn",
+    "macro_name": "Hmong",
+    "member_count": 25,
+    "members": [
+      {
+        "id": "cqd",
+        "name": "Chuanqiandian Cluster Miao",
+        "status": "A"
+      },
+      {
+        "id": "hea",
+        "name": "Northern Qiandong Miao",
+        "status": "A"
+      },
+      {
+        "id": "hma",
+        "name": "Southern Mashan Hmong",
+        "status": "A"
+      },
+      {
+        "id": "hmc",
+        "name": "Central Huishui Hmong",
+        "status": "A"
+      },
+      {
+        "id": "hmd",
+        "name": "Large Flowery Miao",
+        "status": "A"
+      },
+      {
+        "id": "hme",
+        "name": "Eastern Huishui Hmong",
+        "status": "A"
+      },
+      {
+        "id": "hmg",
+        "name": "Southwestern Guiyang Hmong",
+        "status": "A"
+      },
+      {
+        "id": "hmh",
+        "name": "Southwestern Huishui Hmong",
+        "status": "A"
+      },
+      {
+        "id": "hmi",
+        "name": "Northern Huishui Hmong",
+        "status": "A"
+      },
+      {
+        "id": "hmj",
+        "name": "Ge",
+        "status": "A"
+      },
+      {
+        "id": "hml",
+        "name": "Luopohe Hmong",
+        "status": "A"
+      },
+      {
+        "id": "hmm",
+        "name": "Central Mashan Hmong",
+        "status": "A"
+      },
+      {
+        "id": "hmp",
+        "name": "Northern Mashan Hmong",
+        "status": "A"
+      },
+      {
+        "id": "hmq",
+        "name": "Eastern Qiandong Miao",
+        "status": "A"
+      },
+      {
+        "id": "hms",
+        "name": "Southern Qiandong Miao",
+        "status": "A"
+      },
+      {
+        "id": "hmw",
+        "name": "Western Mashan Hmong",
+        "status": "A"
+      },
+      {
+        "id": "hmy",
+        "name": "Southern Guiyang Hmong",
+        "status": "A"
+      },
+      {
+        "id": "hmz",
+        "name": "Hmong Shua",
+        "status": "A"
+      },
+      {
+        "id": "hnj",
+        "name": "Hmong Njua",
+        "status": "A"
+      },
+      {
+        "id": "hrm",
+        "name": "Horned Miao",
+        "status": "A"
+      },
+      {
+        "id": "huj",
+        "name": "Northern Guiyang Hmong",
+        "status": "A"
+      },
+      {
+        "id": "mmr",
+        "name": "Western Xiangxi Miao",
+        "status": "A"
+      },
+      {
+        "id": "muq",
+        "name": "Eastern Xiangxi Miao",
+        "status": "A"
+      },
+      {
+        "id": "mww",
+        "name": "Hmong Daw",
+        "status": "A"
+      },
+      {
+        "id": "sfm",
+        "name": "Small Flowery Miao",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "iku",
+    "macro_name": "Inuktitut",
+    "member_count": 2,
+    "members": [
+      {
+        "id": "ike",
+        "name": "Eastern Canadian Inuktitut",
+        "status": "A"
+      },
+      {
+        "id": "ikt",
+        "name": "Inuinnaqtun",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "ipk",
+    "macro_name": "Inupiaq",
+    "member_count": 2,
+    "members": [
+      {
+        "id": "esi",
+        "name": "North Alaskan Inupiatun",
+        "status": "A"
+      },
+      {
+        "id": "esk",
+        "name": "Northwest Alaska Inupiatun",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "jrb",
+    "macro_name": "Judeo-Arabic",
+    "member_count": 4,
+    "members": [
+      {
+        "id": "aju",
+        "name": "Judeo-Moroccan Arabic",
+        "status": "A"
+      },
+      {
+        "id": "jye",
+        "name": "Judeo-Yemeni Arabic",
+        "status": "A"
+      },
+      {
+        "id": "yhd",
+        "name": "Judeo-Iraqi Arabic",
+        "status": "A"
+      },
+      {
+        "id": "yud",
+        "name": "Judeo-Tripolitanian Arabic",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "kau",
+    "macro_name": "Kanuri",
+    "member_count": 3,
+    "members": [
+      {
+        "id": "kby",
+        "name": "Manga Kanuri",
+        "status": "A"
+      },
+      {
+        "id": "knc",
+        "name": "Central Kanuri",
+        "status": "A"
+      },
+      {
+        "id": "krt",
+        "name": "Tumari Kanuri",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "kln",
+    "macro_name": "Kalenjin",
+    "member_count": 9,
+    "members": [
+      {
+        "id": "enb",
+        "name": "Markweeta",
+        "status": "A"
+      },
+      {
+        "id": "eyo",
+        "name": "Keiyo",
+        "status": "A"
+      },
+      {
+        "id": "niq",
+        "name": "Nandi",
+        "status": "A"
+      },
+      {
+        "id": "oki",
+        "name": "Okiek",
+        "status": "A"
+      },
+      {
+        "id": "pko",
+        "name": "Pökoot",
+        "status": "A"
+      },
+      {
+        "id": "sgc",
+        "name": "Kipsigis",
+        "status": "A"
+      },
+      {
+        "id": "spy",
+        "name": "Sabaot",
+        "status": "A"
+      },
+      {
+        "id": "tec",
+        "name": "Terik",
+        "status": "A"
+      },
+      {
+        "id": "tuy",
+        "name": "Tugen",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "kok",
+    "macro_name": "Konkani (macrolanguage)",
+    "member_count": 2,
+    "members": [
+      {
+        "id": "gom",
+        "name": "Goan Konkani",
+        "status": "A"
+      },
+      {
+        "id": "knn",
+        "name": "Konkani (individual language)",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "kom",
+    "macro_name": "Komi",
+    "member_count": 2,
+    "members": [
+      {
+        "id": "koi",
+        "name": "Komi-Permyak",
+        "status": "A"
+      },
+      {
+        "id": "kpv",
+        "name": "Komi-Zyrian",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "kon",
+    "macro_name": "Kongo",
+    "member_count": 3,
+    "members": [
+      {
+        "id": "kng",
+        "name": "Koongo",
+        "status": "A"
+      },
+      {
+        "id": "kwy",
+        "name": "San Salvador Kongo",
+        "status": "A"
+      },
+      {
+        "id": "ldi",
+        "name": "Laari",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "kpe",
+    "macro_name": "Kpelle",
+    "member_count": 2,
+    "members": [
+      {
+        "id": "gkp",
+        "name": "Guinea Kpelle",
+        "status": "A"
+      },
+      {
+        "id": "xpe",
+        "name": "Liberia Kpelle",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "kur",
+    "macro_name": "Kurdish",
+    "member_count": 3,
+    "members": [
+      {
+        "id": "ckb",
+        "name": "Central Kurdish",
+        "status": "A"
+      },
+      {
+        "id": "kmr",
+        "name": "Northern Kurdish",
+        "status": "A"
+      },
+      {
+        "id": "sdh",
+        "name": "Southern Kurdish",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "lah",
+    "macro_name": "Lahnda",
+    "member_count": 7,
+    "members": [
+      {
+        "id": "hnd",
+        "name": "Southern Hindko",
+        "status": "A"
+      },
+      {
+        "id": "hno",
+        "name": "Northern Hindko",
+        "status": "A"
+      },
+      {
+        "id": "jat",
+        "name": "Jakati",
+        "status": "A"
+      },
+      {
+        "id": "phr",
+        "name": "Pahari-Potwari",
+        "status": "A"
+      },
+      {
+        "id": "pnb",
+        "name": "Western Panjabi",
+        "status": "A"
+      },
+      {
+        "id": "skr",
+        "name": "Saraiki",
+        "status": "A"
+      },
+      {
+        "id": "xhe",
+        "name": "Khetrani",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "lav",
+    "macro_name": "Latvian",
+    "member_count": 2,
+    "members": [
+      {
+        "id": "ltg",
+        "name": "Latgalian",
+        "status": "A"
+      },
+      {
+        "id": "lvs",
+        "name": "Standard Latvian",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "luy",
+    "macro_name": "Luyia",
+    "member_count": 14,
+    "members": [
+      {
+        "id": "bxk",
+        "name": "Bukusu",
+        "status": "A"
+      },
+      {
+        "id": "ida",
+        "name": "Idakho-Isukha-Tiriki",
+        "status": "A"
+      },
+      {
+        "id": "lkb",
+        "name": "Kabras",
+        "status": "A"
+      },
+      {
+        "id": "lko",
+        "name": "Khayo",
+        "status": "A"
+      },
+      {
+        "id": "lks",
+        "name": "Kisa",
+        "status": "A"
+      },
+      {
+        "id": "lri",
+        "name": "Marachi",
+        "status": "A"
+      },
+      {
+        "id": "lrm",
+        "name": "Marama",
+        "status": "A"
+      },
+      {
+        "id": "lsm",
+        "name": "Saamia",
+        "status": "A"
+      },
+      {
+        "id": "lto",
+        "name": "Tsotso",
+        "status": "A"
+      },
+      {
+        "id": "lts",
+        "name": "Tachoni",
+        "status": "A"
+      },
+      {
+        "id": "lwg",
+        "name": "Wanga",
+        "status": "A"
+      },
+      {
+        "id": "nle",
+        "name": "East Nyala",
+        "status": "A"
+      },
+      {
+        "id": "nyd",
+        "name": "Nyore",
+        "status": "A"
+      },
+      {
+        "id": "rag",
+        "name": "Logooli",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "man",
+    "macro_name": "Mandingo",
+    "member_count": 6,
+    "members": [
+      {
+        "id": "emk",
+        "name": "Eastern Maninkakan",
+        "status": "A"
+      },
+      {
+        "id": "mku",
+        "name": "Konyanka Maninka",
+        "status": "A"
+      },
+      {
+        "id": "mlq",
+        "name": "Western Maninkakan",
+        "status": "A"
+      },
+      {
+        "id": "mnk",
+        "name": "Mandinka",
+        "status": "A"
+      },
+      {
+        "id": "msc",
+        "name": "Sankaran Maninka",
+        "status": "A"
+      },
+      {
+        "id": "mwk",
+        "name": "Kita Maninkakan",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "mlg",
+    "macro_name": "Malagasy",
+    "member_count": 11,
+    "members": [
+      {
+        "id": "bhr",
+        "name": "Bara Malagasy",
+        "status": "A"
+      },
+      {
+        "id": "bmm",
+        "name": "Northern Betsimisaraka Malagasy",
+        "status": "A"
+      },
+      {
+        "id": "bzc",
+        "name": "Southern Betsimisaraka Malagasy",
+        "status": "A"
+      },
+      {
+        "id": "msh",
+        "name": "Masikoro Malagasy",
+        "status": "A"
+      },
+      {
+        "id": "plt",
+        "name": "Plateau Malagasy",
+        "status": "A"
+      },
+      {
+        "id": "skg",
+        "name": "Sakalava Malagasy",
+        "status": "A"
+      },
+      {
+        "id": "tdx",
+        "name": "Tandroy-Mahafaly Malagasy",
+        "status": "A"
+      },
+      {
+        "id": "tkg",
+        "name": "Tesaka Malagasy",
+        "status": "A"
+      },
+      {
+        "id": "txy",
+        "name": "Tanosy Malagasy",
+        "status": "A"
+      },
+      {
+        "id": "xmv",
+        "name": "Antankarana Malagasy",
+        "status": "A"
+      },
+      {
+        "id": "xmw",
+        "name": "Tsimihety Malagasy",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "mon",
+    "macro_name": "Mongolian",
+    "member_count": 2,
+    "members": [
+      {
+        "id": "khk",
+        "name": "Halh Mongolian",
+        "status": "A"
+      },
+      {
+        "id": "mvf",
+        "name": "Peripheral Mongolian",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "msa",
+    "macro_name": "Malay (macrolanguage)",
+    "member_count": 36,
+    "members": [
+      {
+        "id": "bjn",
+        "name": "Banjar",
+        "status": "A"
+      },
+      {
+        "id": "btj",
+        "name": "Bacanese Malay",
+        "status": "A"
+      },
+      {
+        "id": "bve",
+        "name": "Berau Malay",
+        "status": "A"
+      },
+      {
+        "id": "bvu",
+        "name": "Bukit Malay",
+        "status": "A"
+      },
+      {
+        "id": "coa",
+        "name": "Cocos Islands Malay",
+        "status": "A"
+      },
+      {
+        "id": "dup",
+        "name": "Duano",
+        "status": "A"
+      },
+      {
+        "id": "hji",
+        "name": "Haji",
+        "status": "A"
+      },
+      {
+        "id": "ind",
+        "name": "Indonesian",
+        "status": "A"
+      },
+      {
+        "id": "jak",
+        "name": "Jakun",
+        "status": "A"
+      },
+      {
+        "id": "jax",
+        "name": "Jambi Malay",
+        "status": "A"
+      },
+      {
+        "id": "kvb",
+        "name": "Kubu",
+        "status": "A"
+      },
+      {
+        "id": "kvr",
+        "name": "Kerinci",
+        "status": "A"
+      },
+      {
+        "id": "kxd",
+        "name": "Brunei",
+        "status": "A"
+      },
+      {
+        "id": "lce",
+        "name": "Loncong",
+        "status": "A"
+      },
+      {
+        "id": "lcf",
+        "name": "Lubu",
+        "status": "A"
+      },
+      {
+        "id": "liw",
+        "name": "Col",
+        "status": "A"
+      },
+      {
+        "id": "max",
+        "name": "North Moluccan Malay",
+        "status": "A"
+      },
+      {
+        "id": "meo",
+        "name": "Kedah Malay",
+        "status": "A"
+      },
+      {
+        "id": "mfa",
+        "name": "Pattani Malay",
+        "status": "A"
+      },
+      {
+        "id": "mfb",
+        "name": "Bangka",
+        "status": "A"
+      },
+      {
+        "id": "min",
+        "name": "Minangkabau",
+        "status": "A"
+      },
+      {
+        "id": "mqg",
+        "name": "Kota Bangun Kutai Malay",
+        "status": "A"
+      },
+      {
+        "id": "msi",
+        "name": "Sabah Malay",
+        "status": "A"
+      },
+      {
+        "id": "mui",
+        "name": "Musi",
+        "status": "A"
+      },
+      {
+        "id": "orn",
+        "name": "Orang Kanaq",
+        "status": "A"
+      },
+      {
+        "id": "ors",
+        "name": "Orang Seletar",
+        "status": "A"
+      },
+      {
+        "id": "pel",
+        "name": "Pekal",
+        "status": "A"
+      },
+      {
+        "id": "pse",
+        "name": "Central Malay",
+        "status": "A"
+      },
+      {
+        "id": "tmw",
+        "name": "Temuan",
+        "status": "A"
+      },
+      {
+        "id": "urk",
+        "name": "Urak Lawoi'",
+        "status": "A"
+      },
+      {
+        "id": "vkk",
+        "name": "Kaur",
+        "status": "A"
+      },
+      {
+        "id": "vkt",
+        "name": "Tenggarong Kutai Malay",
+        "status": "A"
+      },
+      {
+        "id": "xmm",
+        "name": "Manado Malay",
+        "status": "A"
+      },
+      {
+        "id": "zlm",
+        "name": "Malay (individual language)",
+        "status": "A"
+      },
+      {
+        "id": "zmi",
+        "name": "Negeri Sembilan Malay",
+        "status": "A"
+      },
+      {
+        "id": "zsm",
+        "name": "Standard Malay",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "mwr",
+    "macro_name": "Marwari",
+    "member_count": 6,
+    "members": [
+      {
+        "id": "dhd",
+        "name": "Dhundari",
+        "status": "A"
+      },
+      {
+        "id": "mtr",
+        "name": "Mewari",
+        "status": "A"
+      },
+      {
+        "id": "mve",
+        "name": "Marwari (Pakistan)",
+        "status": "A"
+      },
+      {
+        "id": "rwr",
+        "name": "Marwari (India)",
+        "status": "A"
+      },
+      {
+        "id": "swv",
+        "name": "Shekhawati",
+        "status": "A"
+      },
+      {
+        "id": "wry",
+        "name": "Merwari",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "nep",
+    "macro_name": "Nepali (macrolanguage)",
+    "member_count": 2,
+    "members": [
+      {
+        "id": "dty",
+        "name": "Dotyali",
+        "status": "A"
+      },
+      {
+        "id": "npi",
+        "name": "Nepali (individual language)",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "nor",
+    "macro_name": "Norwegian",
+    "member_count": 2,
+    "members": [
+      {
+        "id": "nno",
+        "name": "Norwegian Nynorsk",
+        "status": "A"
+      },
+      {
+        "id": "nob",
+        "name": "Norwegian Bokmål",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "oji",
+    "macro_name": "Ojibwa",
+    "member_count": 7,
+    "members": [
+      {
+        "id": "ciw",
+        "name": "Chippewa",
+        "status": "A"
+      },
+      {
+        "id": "ojb",
+        "name": "Northwestern Ojibwa",
+        "status": "A"
+      },
+      {
+        "id": "ojc",
+        "name": "Central Ojibwa",
+        "status": "A"
+      },
+      {
+        "id": "ojg",
+        "name": "Eastern Ojibwa",
+        "status": "A"
+      },
+      {
+        "id": "ojs",
+        "name": "Severn Ojibwa",
+        "status": "A"
+      },
+      {
+        "id": "ojw",
+        "name": "Western Ojibwa",
+        "status": "A"
+      },
+      {
+        "id": "otw",
+        "name": "Ottawa",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "ori",
+    "macro_name": "Oriya (macrolanguage)",
+    "member_count": 2,
+    "members": [
+      {
+        "id": "ory",
+        "name": "Odia",
+        "status": "A"
+      },
+      {
+        "id": "spv",
+        "name": "Sambalpuri",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "orm",
+    "macro_name": "Oromo",
+    "member_count": 4,
+    "members": [
+      {
+        "id": "gax",
+        "name": "Borana-Arsi-Guji Oromo",
+        "status": "A"
+      },
+      {
+        "id": "gaz",
+        "name": "West Central Oromo",
+        "status": "A"
+      },
+      {
+        "id": "hae",
+        "name": "Eastern Oromo",
+        "status": "A"
+      },
+      {
+        "id": "orc",
+        "name": "Orma",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "pus",
+    "macro_name": "Pushto",
+    "member_count": 3,
+    "members": [
+      {
+        "id": "pbt",
+        "name": "Southern Pashto",
+        "status": "A"
+      },
+      {
+        "id": "pbu",
+        "name": "Northern Pashto",
+        "status": "A"
+      },
+      {
+        "id": "pst",
+        "name": "Central Pashto",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "que",
+    "macro_name": "Quechua",
+    "member_count": 43,
+    "members": [
+      {
+        "id": "qub",
+        "name": "Huallaga Huánuco Quechua",
+        "status": "A"
+      },
+      {
+        "id": "qud",
+        "name": "Calderón Highland Quichua",
+        "status": "A"
+      },
+      {
+        "id": "quf",
+        "name": "Lambayeque Quechua",
+        "status": "A"
+      },
+      {
+        "id": "qug",
+        "name": "Chimborazo Highland Quichua",
+        "status": "A"
+      },
+      {
+        "id": "quh",
+        "name": "South Bolivian Quechua",
+        "status": "A"
+      },
+      {
+        "id": "quk",
+        "name": "Chachapoyas Quechua",
+        "status": "A"
+      },
+      {
+        "id": "qul",
+        "name": "North Bolivian Quechua",
+        "status": "A"
+      },
+      {
+        "id": "qup",
+        "name": "Southern Pastaza Quechua",
+        "status": "A"
+      },
+      {
+        "id": "qur",
+        "name": "Yanahuanca Pasco Quechua",
+        "status": "A"
+      },
+      {
+        "id": "qus",
+        "name": "Santiago del Estero Quichua",
+        "status": "A"
+      },
+      {
+        "id": "quw",
+        "name": "Tena Lowland Quichua",
+        "status": "A"
+      },
+      {
+        "id": "qux",
+        "name": "Yauyos Quechua",
+        "status": "A"
+      },
+      {
+        "id": "quy",
+        "name": "Ayacucho Quechua",
+        "status": "A"
+      },
+      {
+        "id": "quz",
+        "name": "Cusco Quechua",
+        "status": "A"
+      },
+      {
+        "id": "qva",
+        "name": "Ambo-Pasco Quechua",
+        "status": "A"
+      },
+      {
+        "id": "qvc",
+        "name": "Cajamarca Quechua",
+        "status": "A"
+      },
+      {
+        "id": "qve",
+        "name": "Eastern Apurímac Quechua",
+        "status": "A"
+      },
+      {
+        "id": "qvh",
+        "name": "Huamalíes-Dos de Mayo Huánuco Quechua",
+        "status": "A"
+      },
+      {
+        "id": "qvi",
+        "name": "Imbabura Highland Quichua",
+        "status": "A"
+      },
+      {
+        "id": "qvj",
+        "name": "Loja Highland Quichua",
+        "status": "A"
+      },
+      {
+        "id": "qvl",
+        "name": "Cajatambo North Lima Quechua",
+        "status": "A"
+      },
+      {
+        "id": "qvm",
+        "name": "Margos-Yarowilca-Lauricocha Quechua",
+        "status": "A"
+      },
+      {
+        "id": "qvn",
+        "name": "North Junín Quechua",
+        "status": "A"
+      },
+      {
+        "id": "qvo",
+        "name": "Napo Lowland Quechua",
+        "status": "A"
+      },
+      {
+        "id": "qvp",
+        "name": "Pacaraos Quechua",
+        "status": "A"
+      },
+      {
+        "id": "qvs",
+        "name": "San Martín Quechua",
+        "status": "A"
+      },
+      {
+        "id": "qvw",
+        "name": "Huaylla Wanca Quechua",
+        "status": "A"
+      },
+      {
+        "id": "qvz",
+        "name": "Northern Pastaza Quichua",
+        "status": "A"
+      },
+      {
+        "id": "qwa",
+        "name": "Corongo Ancash Quechua",
+        "status": "A"
+      },
+      {
+        "id": "qwc",
+        "name": "Classical Quechua",
+        "status": "A"
+      },
+      {
+        "id": "qwh",
+        "name": "Huaylas Ancash Quechua",
+        "status": "A"
+      },
+      {
+        "id": "qws",
+        "name": "Sihuas Ancash Quechua",
+        "status": "A"
+      },
+      {
+        "id": "qxa",
+        "name": "Chiquián Ancash Quechua",
+        "status": "A"
+      },
+      {
+        "id": "qxc",
+        "name": "Chincha Quechua",
+        "status": "A"
+      },
+      {
+        "id": "qxh",
+        "name": "Panao Huánuco Quechua",
+        "status": "A"
+      },
+      {
+        "id": "qxl",
+        "name": "Salasaca Highland Quichua",
+        "status": "A"
+      },
+      {
+        "id": "qxn",
+        "name": "Northern Conchucos Ancash Quechua",
+        "status": "A"
+      },
+      {
+        "id": "qxo",
+        "name": "Southern Conchucos Ancash Quechua",
+        "status": "A"
+      },
+      {
+        "id": "qxp",
+        "name": "Puno Quechua",
+        "status": "A"
+      },
+      {
+        "id": "qxr",
+        "name": "Cañar Highland Quichua",
+        "status": "A"
+      },
+      {
+        "id": "qxt",
+        "name": "Santa Ana de Tusi Pasco Quechua",
+        "status": "A"
+      },
+      {
+        "id": "qxu",
+        "name": "Arequipa-La Unión Quechua",
+        "status": "A"
+      },
+      {
+        "id": "qxw",
+        "name": "Jauja Wanca Quechua",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "raj",
+    "macro_name": "Rajasthani",
+    "member_count": 6,
+    "members": [
+      {
+        "id": "bgq",
+        "name": "Bagri",
+        "status": "A"
+      },
+      {
+        "id": "gda",
+        "name": "Gade Lohar",
+        "status": "A"
+      },
+      {
+        "id": "gju",
+        "name": "Gujari",
+        "status": "A"
+      },
+      {
+        "id": "hoj",
+        "name": "Hadothi",
+        "status": "A"
+      },
+      {
+        "id": "mup",
+        "name": "Malvi",
+        "status": "A"
+      },
+      {
+        "id": "wbr",
+        "name": "Wagdi",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "rom",
+    "macro_name": "Romany",
+    "member_count": 7,
+    "members": [
+      {
+        "id": "rmc",
+        "name": "Carpathian Romani",
+        "status": "A"
+      },
+      {
+        "id": "rmf",
+        "name": "Kalo Finnish Romani",
+        "status": "A"
+      },
+      {
+        "id": "rml",
+        "name": "Baltic Romani",
+        "status": "A"
+      },
+      {
+        "id": "rmn",
+        "name": "Balkan Romani",
+        "status": "A"
+      },
+      {
+        "id": "rmo",
+        "name": "Sinte Romani",
+        "status": "A"
+      },
+      {
+        "id": "rmw",
+        "name": "Welsh Romani",
+        "status": "A"
+      },
+      {
+        "id": "rmy",
+        "name": "Vlax Romani",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "san",
+    "macro_name": "Sanskrit",
+    "member_count": 2,
+    "members": [
+      {
+        "id": "cls",
+        "name": "Classical Sanskrit",
+        "status": "A"
+      },
+      {
+        "id": "vsn",
+        "name": "Vedic Sanskrit",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "sqi",
+    "macro_name": "Albanian",
+    "member_count": 4,
+    "members": [
+      {
+        "id": "aae",
+        "name": "Arbëreshë Albanian",
+        "status": "A"
+      },
+      {
+        "id": "aat",
+        "name": "Arvanitika Albanian",
+        "status": "A"
+      },
+      {
+        "id": "aln",
+        "name": "Gheg Albanian",
+        "status": "A"
+      },
+      {
+        "id": "als",
+        "name": "Tosk Albanian",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "srd",
+    "macro_name": "Sardinian",
+    "member_count": 4,
+    "members": [
+      {
+        "id": "sdc",
+        "name": "Sassarese Sardinian",
+        "status": "A"
+      },
+      {
+        "id": "sdn",
+        "name": "Gallurese Sardinian",
+        "status": "A"
+      },
+      {
+        "id": "src",
+        "name": "Logudorese Sardinian",
+        "status": "A"
+      },
+      {
+        "id": "sro",
+        "name": "Campidanese Sardinian",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "swa",
+    "macro_name": "Swahili (macrolanguage)",
+    "member_count": 2,
+    "members": [
+      {
+        "id": "swc",
+        "name": "Congo Swahili",
+        "status": "A"
+      },
+      {
+        "id": "swh",
+        "name": "Swahili (individual language)",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "syr",
+    "macro_name": "Syriac",
+    "member_count": 2,
+    "members": [
+      {
+        "id": "aii",
+        "name": "Assyrian Neo-Aramaic",
+        "status": "A"
+      },
+      {
+        "id": "cld",
+        "name": "Chaldean Neo-Aramaic",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "tmh",
+    "macro_name": "Tamashek",
+    "member_count": 4,
+    "members": [
+      {
+        "id": "taq",
+        "name": "Tamasheq",
+        "status": "A"
+      },
+      {
+        "id": "thv",
+        "name": "Tahaggart Tamahaq",
+        "status": "A"
+      },
+      {
+        "id": "thz",
+        "name": "Tayart Tamajeq",
+        "status": "A"
+      },
+      {
+        "id": "ttq",
+        "name": "Tawallammat Tamajaq",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "uzb",
+    "macro_name": "Uzbek",
+    "member_count": 2,
+    "members": [
+      {
+        "id": "uzn",
+        "name": "Northern Uzbek",
+        "status": "A"
+      },
+      {
+        "id": "uzs",
+        "name": "Southern Uzbek",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "yid",
+    "macro_name": "Yiddish",
+    "member_count": 2,
+    "members": [
+      {
+        "id": "ydd",
+        "name": "Eastern Yiddish",
+        "status": "A"
+      },
+      {
+        "id": "yih",
+        "name": "Western Yiddish",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "zap",
+    "macro_name": "Zapotec",
+    "member_count": 58,
+    "members": [
+      {
+        "id": "zaa",
+        "name": "Sierra de Juárez Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zab",
+        "name": "Western Tlacolula Valley Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zac",
+        "name": "Ocotlán Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zad",
+        "name": "Cajonos Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zae",
+        "name": "Yareni Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zaf",
+        "name": "Ayoquesco Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zai",
+        "name": "Isthmus Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zam",
+        "name": "Miahuatlán Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zao",
+        "name": "Ozolotepec Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zaq",
+        "name": "Aloápam Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zar",
+        "name": "Rincón Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zas",
+        "name": "Santo Domingo Albarradas Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zat",
+        "name": "Tabaa Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zav",
+        "name": "Yatzachi Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zaw",
+        "name": "Mitla Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zax",
+        "name": "Xadani Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zca",
+        "name": "Coatecas Altas Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zcd",
+        "name": "Las Delicias Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zoo",
+        "name": "Asunción Mixtepec Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zpa",
+        "name": "Lachiguiri Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zpb",
+        "name": "Yautepec Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zpc",
+        "name": "Choapan Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zpd",
+        "name": "Southeastern Ixtlán Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zpe",
+        "name": "Petapa Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zpf",
+        "name": "San Pedro Quiatoni Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zpg",
+        "name": "Guevea De Humboldt Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zph",
+        "name": "Totomachapan Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zpi",
+        "name": "Santa María Quiegolani Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zpj",
+        "name": "Quiavicuzas Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zpk",
+        "name": "Tlacolulita Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zpl",
+        "name": "Lachixío Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zpm",
+        "name": "Mixtepec Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zpn",
+        "name": "Santa Inés Yatzechi Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zpo",
+        "name": "Amatlán Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zpp",
+        "name": "El Alto Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zpq",
+        "name": "Zoogocho Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zpr",
+        "name": "Santiago Xanica Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zps",
+        "name": "Coatlán Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zpt",
+        "name": "San Vicente Coatlán Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zpu",
+        "name": "Yalálag Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zpv",
+        "name": "Chichicapan Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zpw",
+        "name": "Zaniza Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zpx",
+        "name": "San Baltazar Loxicha Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zpy",
+        "name": "Mazaltepec Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zpz",
+        "name": "Texmelucan Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zsr",
+        "name": "Southern Rincon Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zte",
+        "name": "Elotepec Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "ztg",
+        "name": "Xanaguía Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "ztl",
+        "name": "Lapaguía-Guivini Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "ztm",
+        "name": "San Agustín Mixtepec Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "ztn",
+        "name": "Santa Catarina Albarradas Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "ztp",
+        "name": "Loxicha Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "ztq",
+        "name": "Quioquitani-Quierí Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zts",
+        "name": "Tilquiapan Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "ztt",
+        "name": "Tejalapan Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "ztu",
+        "name": "Güilá Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "ztx",
+        "name": "Zaachila Zapotec",
+        "status": "A"
+      },
+      {
+        "id": "zty",
+        "name": "Yatee Zapotec",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "zha",
+    "macro_name": "Zhuang",
+    "member_count": 16,
+    "members": [
+      {
+        "id": "zch",
+        "name": "Central Hongshuihe Zhuang",
+        "status": "A"
+      },
+      {
+        "id": "zeh",
+        "name": "Eastern Hongshuihe Zhuang",
+        "status": "A"
+      },
+      {
+        "id": "zgb",
+        "name": "Guibei Zhuang",
+        "status": "A"
+      },
+      {
+        "id": "zgm",
+        "name": "Minz Zhuang",
+        "status": "A"
+      },
+      {
+        "id": "zgn",
+        "name": "Guibian Zhuang",
+        "status": "A"
+      },
+      {
+        "id": "zhd",
+        "name": "Dai Zhuang",
+        "status": "A"
+      },
+      {
+        "id": "zhn",
+        "name": "Nong Zhuang",
+        "status": "A"
+      },
+      {
+        "id": "zlj",
+        "name": "Liujiang Zhuang",
+        "status": "A"
+      },
+      {
+        "id": "zln",
+        "name": "Lianshan Zhuang",
+        "status": "A"
+      },
+      {
+        "id": "zlq",
+        "name": "Liuqian Zhuang",
+        "status": "A"
+      },
+      {
+        "id": "zqe",
+        "name": "Qiubei Zhuang",
+        "status": "A"
+      },
+      {
+        "id": "zyb",
+        "name": "Yongbei Zhuang",
+        "status": "A"
+      },
+      {
+        "id": "zyg",
+        "name": "Yang Zhuang",
+        "status": "A"
+      },
+      {
+        "id": "zyj",
+        "name": "Youjiang Zhuang",
+        "status": "A"
+      },
+      {
+        "id": "zyn",
+        "name": "Yongnan Zhuang",
+        "status": "A"
+      },
+      {
+        "id": "zzj",
+        "name": "Zuojiang Zhuang",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "zho",
+    "macro_name": "Chinese",
+    "member_count": 18,
+    "members": [
+      {
+        "id": "cdo",
+        "name": "Min Dong Chinese",
+        "status": "A"
+      },
+      {
+        "id": "cjy",
+        "name": "Jinyu Chinese",
+        "status": "A"
+      },
+      {
+        "id": "cmn",
+        "name": "Mandarin Chinese",
+        "status": "A"
+      },
+      {
+        "id": "cnp",
+        "name": "Northern Ping Chinese",
+        "status": "A"
+      },
+      {
+        "id": "cpx",
+        "name": "Pu-Xian Chinese",
+        "status": "A"
+      },
+      {
+        "id": "csp",
+        "name": "Southern Ping Chinese",
+        "status": "A"
+      },
+      {
+        "id": "czh",
+        "name": "Huizhou Chinese",
+        "status": "A"
+      },
+      {
+        "id": "czo",
+        "name": "Min Zhong Chinese",
+        "status": "A"
+      },
+      {
+        "id": "gan",
+        "name": "Gan Chinese",
+        "status": "A"
+      },
+      {
+        "id": "hak",
+        "name": "Hakka Chinese",
+        "status": "A"
+      },
+      {
+        "id": "hnm",
+        "name": "Hainanese",
+        "status": "A"
+      },
+      {
+        "id": "hsn",
+        "name": "Xiang Chinese",
+        "status": "A"
+      },
+      {
+        "id": "luh",
+        "name": "Leizhou Chinese",
+        "status": "A"
+      },
+      {
+        "id": "lzh",
+        "name": "Literary Chinese",
+        "status": "A"
+      },
+      {
+        "id": "mnp",
+        "name": "Min Bei Chinese",
+        "status": "A"
+      },
+      {
+        "id": "sjc",
+        "name": "Shaojiang Chinese",
+        "status": "A"
+      },
+      {
+        "id": "wuu",
+        "name": "Wu Chinese",
+        "status": "A"
+      },
+      {
+        "id": "yue",
+        "name": "Yue Chinese",
+        "status": "A"
+      }
+    ]
+  },
+  {
+    "macro_id": "zza",
+    "macro_name": "Zaza",
+    "member_count": 2,
+    "members": [
+      {
+        "id": "diq",
+        "name": "Dimli (individual language)",
+        "status": "A"
+      },
+      {
+        "id": "kiu",
+        "name": "Kirmanjki (individual language)",
+        "status": "A"
+      }
+    ]
+  }
+]

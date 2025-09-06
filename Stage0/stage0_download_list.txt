@@ -1,0 +1,15 @@
+# Stage0 Omniglot索引页面下载列表 - aria2c兼容格式
+# 使用方法: aria2c -i stage0_download_list.txt -j 4 --retry-wait=2
+# 仅包含索引页面，解析后再下载详细页面
+
+https://www.omniglot.com/writing/languages.htm
+  out=languages.htm
+
+https://www.omniglot.com/writing/index.htm
+  out=index.htm
+
+https://www.omniglot.com/writing/langalph.htm
+  out=langalph.htm
+
+https://www.omniglot.com/charts/
+  out=charts.html

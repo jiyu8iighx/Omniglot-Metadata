@@ -1,0 +1,64 @@
+Id	Part2b	Part2t	Part1	Scope	Language_Type	Ref_Name	Comment
+aka	aka	aka	ak	M	L	Akan	
+ara	ara	ara	ar	M	L	Arabic	
+aym	aym	aym	ay	M	L	Aymara	
+aze	aze	aze	az	M	L	Azerbaijani	
+bal	bal	bal		M	L	Baluchi	
+bik	bik	bik		M	L	Bikol	
+bnc				M	L	Bontok	
+bua	bua	bua		M	L	Buriat	
+chm	chm	chm		M	L	Mari (Russia)	
+cre	cre	cre	cr	M	L	Cree	
+del	del	del		M	L	Delaware	
+den	den	den		M	L	Slave (Athapascan)	
+din	din	din		M	L	Dinka	
+doi	doi	doi		M	L	Dogri (macrolanguage)	
+est	est	est	et	M	L	Estonian	
+fas	per	fas	fa	M	L	Persian	
+ful	ful	ful	ff	M	L	Fulah	
+gba	gba	gba		M	L	Gbaya (Central African Republic)	
+gon	gon	gon		M	L	Gondi	
+grb	grb	grb		M	L	Grebo	
+grn	grn	grn	gn	M	L	Guarani	
+hai	hai	hai		M	L	Haida	
+hbs			sh	M	L	Serbo-Croatian	Code element for 639-1 has been deprecated
+hmn	hmn	hmn		M	L	Hmong	
+iku	iku	iku	iu	M	L	Inuktitut	
+ipk	ipk	ipk	ik	M	L	Inupiaq	
+jrb	jrb	jrb		M	L	Judeo-Arabic	
+kau	kau	kau	kr	M	L	Kanuri	
+kln				M	L	Kalenjin	
+kok	kok	kok		M	L	Konkani (macrolanguage)	
+kom	kom	kom	kv	M	L	Komi	
+kon	kon	kon	kg	M	L	Kongo	
+kpe	kpe	kpe		M	L	Kpelle	
+kur	kur	kur	ku	M	L	Kurdish	
+lah	lah	lah		M	L	Lahnda	
+lav	lav	lav	lv	M	L	Latvian	
+luy				M	L	Luyia	
+man	man	man		M	L	Mandingo	
+mlg	mlg	mlg	mg	M	L	Malagasy	
+mon	mon	mon	mn	M	L	Mongolian	
+msa	may	msa	ms	M	L	Malay (macrolanguage)	
+mwr	mwr	mwr		M	L	Marwari	
+nep	nep	nep	ne	M	L	Nepali (macrolanguage)	
+nor	nor	nor	no	M	L	Norwegian	
+oji	oji	oji	oj	M	L	Ojibwa	
+ori	ori	ori	or	M	L	Oriya (macrolanguage)	
+orm	orm	orm	om	M	L	Oromo	
+pus	pus	pus	ps	M	L	Pushto	
+que	que	que	qu	M	L	Quechua	
+raj	raj	raj		M	L	Rajasthani	
+rom	rom	rom		M	L	Romany	
+san	san	san	sa	M	H	Sanskrit	
+sqi	alb	sqi	sq	M	L	Albanian	
+srd	srd	srd	sc	M	L	Sardinian	
+swa	swa	swa	sw	M	L	Swahili (macrolanguage)	
+syr	syr	syr		M	L	Syriac	
+tmh	tmh	tmh		M	L	Tamashek	
+uzb	uzb	uzb	uz	M	L	Uzbek	
+yid	yid	yid	yi	M	L	Yiddish	
+zap	zap	zap		M	L	Zapotec	
+zha	zha	zha	za	M	L	Zhuang	
+zho	chi	zho	zh	M	L	Chinese	
+zza	zza	zza		M	L	Zaza	

@@ -1,0 +1,444 @@
+Macro_Id	Macro_Name	Individual_Id	Individual_Name	Status
+aka	Akan	fat	Fanti	A
+aka	Akan	twi	Twi	A
+ara	Arabic	aao	Algerian Saharan Arabic	A
+ara	Arabic	abh	Tajiki Arabic	A
+ara	Arabic	abv	Baharna Arabic	A
+ara	Arabic	acm	Mesopotamian Arabic	A
+ara	Arabic	acq	Ta'izzi-Adeni Arabic	A
+ara	Arabic	acw	Hijazi Arabic	A
+ara	Arabic	acx	Omani Arabic	A
+ara	Arabic	acy	Cypriot Arabic	A
+ara	Arabic	adf	Dhofari Arabic	A
+ara	Arabic	aeb	Tunisian Arabic	A
+ara	Arabic	aec	Saidi Arabic	A
+ara	Arabic	afb	Gulf Arabic	A
+ara	Arabic	apc	Levantine Arabic	A
+ara	Arabic	apd	Sudanese Arabic	A
+ara	Arabic	arb	Standard Arabic	A
+ara	Arabic	arq	Algerian Arabic	A
+ara	Arabic	ars	Najdi Arabic	A
+ara	Arabic	ary	Moroccan Arabic	A
+ara	Arabic	arz	Egyptian Arabic	A
+ara	Arabic	auz	Uzbeki Arabic	A
+ara	Arabic	avl	Eastern Egyptian Bedawi Arabic	A
+ara	Arabic	ayh	Hadrami Arabic	A
+ara	Arabic	ayl	Libyan Arabic	A
+ara	Arabic	ayn	Sanaani Arabic	A
+ara	Arabic	ayp	North Mesopotamian Arabic	A
+ara	Arabic	pga	Sudanese Creole Arabic	A
+ara	Arabic	shu	Chadian Arabic	A
+ara	Arabic	ssh	Shihhi Arabic	A
+aym	Aymara	ayc	Southern Aymara	A
+aym	Aymara	ayr	Central Aymara	A
+aze	Azerbaijani	azb	South Azerbaijani	A
+aze	Azerbaijani	azj	North Azerbaijani	A
+bal	Baluchi	bcc	Southern Balochi	A
+bal	Baluchi	bgn	Western Balochi	A
+bal	Baluchi	bgp	Eastern Balochi	A
+bik	Bikol	bcl	Central Bikol	A
+bik	Bikol	bln	Southern Catanduanes Bikol	A
+bik	Bikol	bto	Rinconada Bikol	A
+bik	Bikol	cts	Northern Catanduanes Bikol	A
+bik	Bikol	fbl	West Albay Bikol	A
+bik	Bikol	lbl	Libon Bikol	A
+bik	Bikol	rbl	Miraya Bikol	A
+bik	Bikol	ubl	Buhi'non Bikol	A
+bnc	Bontok	ebk	Eastern Bontok	A
+bnc	Bontok	lbk	Central Bontok	A
+bnc	Bontok	obk	Southern Bontok	A
+bnc	Bontok	rbk	Northern Bontok	A
+bnc	Bontok	vbk	Southwestern Bontok	A
+bua	Buriat	bxm	Mongolia Buriat	A
+bua	Buriat	bxr	Russia Buriat	A
+bua	Buriat	bxu	China Buriat	A
+chm	Mari (Russia)	mhr	Eastern Mari	A
+chm	Mari (Russia)	mrj	Western Mari	A
+cre	Cree	crj	Southern East Cree	A
+cre	Cree	crk	Plains Cree	A
+cre	Cree	crl	Northern East Cree	A
+cre	Cree	crm	Moose Cree	A
+cre	Cree	csw	Swampy Cree	A
+cre	Cree	cwd	Woods Cree	A
+del	Delaware	umu	Munsee	A
+del	Delaware	unm	Unami	A
+den	Slave (Athapascan)	scs	North Slavey	A
+den	Slave (Athapascan)	xsl	South Slavey	A
+din	Dinka	dib	South Central Dinka	A
+din	Dinka	dik	Southwestern Dinka	A
+din	Dinka	dip	Northeastern Dinka	A
+din	Dinka	diw	Northwestern Dinka	A
+din	Dinka	dks	Southeastern Dinka	A
+doi	Dogri (macrolanguage)	dgo	Dogri (individual language)	A
+doi	Dogri (macrolanguage)	xnr	Kangri	A
+est	Estonian	ekk	Standard Estonian	A
+est	Estonian	vro	Võro	A
+fas	Persian	pes	Iranian Persian	A
+fas	Persian	prs	Dari	A
+ful	Fulah	ffm	Maasina Fulfulde	A
+ful	Fulah	fub	Adamawa Fulfulde	A
+ful	Fulah	fuc	Pulaar	A
+ful	Fulah	fue	Borgu Fulfulde	A
+ful	Fulah	fuf	Pular	A
+ful	Fulah	fuh	Western Niger Fulfulde	A
+ful	Fulah	fui	Bagirmi Fulfulde	A
+ful	Fulah	fuq	Central-Eastern Niger Fulfulde	A
+ful	Fulah	fuv	Nigerian Fulfulde	A
+gba	Gbaya (Central African Republic)	bdt	Bokoto	A
+gba	Gbaya (Central African Republic)	gbp	Gbaya-Bossangoa	A
+gba	Gbaya (Central African Republic)	gbq	Gbaya-Bozoum	A
+gba	Gbaya (Central African Republic)	gmm	Gbaya-Mbodomo	A
+gba	Gbaya (Central African Republic)	gso	Southwest Gbaya	A
+gba	Gbaya (Central African Republic)	gya	Northwest Gbaya	A
+gon	Gondi	esg	Aheri Gondi	A
+gon	Gondi	gno	Northern Gondi	A
+gon	Gondi	wsg	Adilabad Gondi	A
+grb	Grebo	gbo	Northern Grebo	A
+grb	Grebo	gec	Gboloo Grebo	A
+grb	Grebo	grj	Southern Grebo	A
+grb	Grebo	grv	Central Grebo	A
+grb	Grebo	gry	Barclayville Grebo	A
+grn	Guarani	gnw	Western Bolivian Guaraní	A
+grn	Guarani	gug	Paraguayan Guaraní	A
+grn	Guarani	gui	Eastern Bolivian Guaraní	A
+grn	Guarani	gun	Mbyá Guaraní	A
+grn	Guarani	nhd	Chiripá	A
+hai	Haida	hax	Southern Haida	A
+hai	Haida	hdn	Northern Haida	A
+hbs	Serbo-Croatian	bos	Bosnian	A
+hbs	Serbo-Croatian	cnr	Montenegrin	A
+hbs	Serbo-Croatian	hrv	Croatian	A
+hbs	Serbo-Croatian	srp	Serbian	A
+hmn	Hmong	cqd	Chuanqiandian Cluster Miao	A
+hmn	Hmong	hea	Northern Qiandong Miao	A
+hmn	Hmong	hma	Southern Mashan Hmong	A
+hmn	Hmong	hmc	Central Huishui Hmong	A
+hmn	Hmong	hmd	Large Flowery Miao	A
+hmn	Hmong	hme	Eastern Huishui Hmong	A
+hmn	Hmong	hmg	Southwestern Guiyang Hmong	A
+hmn	Hmong	hmh	Southwestern Huishui Hmong	A
+hmn	Hmong	hmi	Northern Huishui Hmong	A
+hmn	Hmong	hmj	Ge	A
+hmn	Hmong	hml	Luopohe Hmong	A
+hmn	Hmong	hmm	Central Mashan Hmong	A
+hmn	Hmong	hmp	Northern Mashan Hmong	A
+hmn	Hmong	hmq	Eastern Qiandong Miao	A
+hmn	Hmong	hms	Southern Qiandong Miao	A
+hmn	Hmong	hmw	Western Mashan Hmong	A
+hmn	Hmong	hmy	Southern Guiyang Hmong	A
+hmn	Hmong	hmz	Hmong Shua	A
+hmn	Hmong	hnj	Hmong Njua	A
+hmn	Hmong	hrm	Horned Miao	A
+hmn	Hmong	huj	Northern Guiyang Hmong	A
+hmn	Hmong	mmr	Western Xiangxi Miao	A
+hmn	Hmong	muq	Eastern Xiangxi Miao	A
+hmn	Hmong	mww	Hmong Daw	A
+hmn	Hmong	sfm	Small Flowery Miao	A
+iku	Inuktitut	ike	Eastern Canadian Inuktitut	A
+iku	Inuktitut	ikt	Inuinnaqtun	A
+ipk	Inupiaq	esi	North Alaskan Inupiatun	A
+ipk	Inupiaq	esk	Northwest Alaska Inupiatun	A
+jrb	Judeo-Arabic	aju	Judeo-Moroccan Arabic	A
+jrb	Judeo-Arabic	jye	Judeo-Yemeni Arabic	A
+jrb	Judeo-Arabic	yhd	Judeo-Iraqi Arabic	A
+jrb	Judeo-Arabic	yud	Judeo-Tripolitanian Arabic	A
+kau	Kanuri	kby	Manga Kanuri	A
+kau	Kanuri	knc	Central Kanuri	A
+kau	Kanuri	krt	Tumari Kanuri	A
+kln	Kalenjin	enb	Markweeta	A
+kln	Kalenjin	eyo	Keiyo	A
+kln	Kalenjin	niq	Nandi	A
+kln	Kalenjin	oki	Okiek	A
+kln	Kalenjin	pko	Pökoot	A
+kln	Kalenjin	sgc	Kipsigis	A
+kln	Kalenjin	spy	Sabaot	A
+kln	Kalenjin	tec	Terik	A
+kln	Kalenjin	tuy	Tugen	A
+kok	Konkani (macrolanguage)	gom	Goan Konkani	A
+kok	Konkani (macrolanguage)	knn	Konkani (individual language)	A
+kom	Komi	koi	Komi-Permyak	A
+kom	Komi	kpv	Komi-Zyrian	A
+kon	Kongo	kng	Koongo	A
+kon	Kongo	kwy	San Salvador Kongo	A
+kon	Kongo	ldi	Laari	A
+kpe	Kpelle	gkp	Guinea Kpelle	A
+kpe	Kpelle	xpe	Liberia Kpelle	A
+kur	Kurdish	ckb	Central Kurdish	A
+kur	Kurdish	kmr	Northern Kurdish	A
+kur	Kurdish	sdh	Southern Kurdish	A
+lah	Lahnda	hnd	Southern Hindko	A
+lah	Lahnda	hno	Northern Hindko	A
+lah	Lahnda	jat	Jakati	A
+lah	Lahnda	phr	Pahari-Potwari	A
+lah	Lahnda	pnb	Western Panjabi	A
+lah	Lahnda	skr	Saraiki	A
+lah	Lahnda	xhe	Khetrani	A
+lav	Latvian	ltg	Latgalian	A
+lav	Latvian	lvs	Standard Latvian	A
+luy	Luyia	bxk	Bukusu	A
+luy	Luyia	ida	Idakho-Isukha-Tiriki	A
+luy	Luyia	lkb	Kabras	A
+luy	Luyia	lko	Khayo	A
+luy	Luyia	lks	Kisa	A
+luy	Luyia	lri	Marachi	A
+luy	Luyia	lrm	Marama	A
+luy	Luyia	lsm	Saamia	A
+luy	Luyia	lto	Tsotso	A
+luy	Luyia	lts	Tachoni	A
+luy	Luyia	lwg	Wanga	A
+luy	Luyia	nle	East Nyala	A
+luy	Luyia	nyd	Nyore	A
+luy	Luyia	rag	Logooli	A
+man	Mandingo	emk	Eastern Maninkakan	A
+man	Mandingo	mku	Konyanka Maninka	A
+man	Mandingo	mlq	Western Maninkakan	A
+man	Mandingo	mnk	Mandinka	A
+man	Mandingo	msc	Sankaran Maninka	A
+man	Mandingo	mwk	Kita Maninkakan	A
+mlg	Malagasy	bhr	Bara Malagasy	A
+mlg	Malagasy	bmm	Northern Betsimisaraka Malagasy	A
+mlg	Malagasy	bzc	Southern Betsimisaraka Malagasy	A
+mlg	Malagasy	msh	Masikoro Malagasy	A
+mlg	Malagasy	plt	Plateau Malagasy	A
+mlg	Malagasy	skg	Sakalava Malagasy	A
+mlg	Malagasy	tdx	Tandroy-Mahafaly Malagasy	A
+mlg	Malagasy	tkg	Tesaka Malagasy	A
+mlg	Malagasy	txy	Tanosy Malagasy	A
+mlg	Malagasy	xmv	Antankarana Malagasy	A
+mlg	Malagasy	xmw	Tsimihety Malagasy	A
+mon	Mongolian	khk	Halh Mongolian	A
+mon	Mongolian	mvf	Peripheral Mongolian	A
+msa	Malay (macrolanguage)	bjn	Banjar	A
+msa	Malay (macrolanguage)	btj	Bacanese Malay	A
+msa	Malay (macrolanguage)	bve	Berau Malay	A
+msa	Malay (macrolanguage)	bvu	Bukit Malay	A
+msa	Malay (macrolanguage)	coa	Cocos Islands Malay	A
+msa	Malay (macrolanguage)	dup	Duano	A
+msa	Malay (macrolanguage)	hji	Haji	A
+msa	Malay (macrolanguage)	ind	Indonesian	A
+msa	Malay (macrolanguage)	jak	Jakun	A
+msa	Malay (macrolanguage)	jax	Jambi Malay	A
+msa	Malay (macrolanguage)	kvb	Kubu	A
+msa	Malay (macrolanguage)	kvr	Kerinci	A
+msa	Malay (macrolanguage)	kxd	Brunei	A
+msa	Malay (macrolanguage)	lce	Loncong	A
+msa	Malay (macrolanguage)	lcf	Lubu	A
+msa	Malay (macrolanguage)	liw	Col	A
+msa	Malay (macrolanguage)	max	North Moluccan Malay	A
+msa	Malay (macrolanguage)	meo	Kedah Malay	A
+msa	Malay (macrolanguage)	mfa	Pattani Malay	A
+msa	Malay (macrolanguage)	mfb	Bangka	A
+msa	Malay (macrolanguage)	min	Minangkabau	A
+msa	Malay (macrolanguage)	mqg	Kota Bangun Kutai Malay	A
+msa	Malay (macrolanguage)	msi	Sabah Malay	A
+msa	Malay (macrolanguage)	mui	Musi	A
+msa	Malay (macrolanguage)	orn	Orang Kanaq	A
+msa	Malay (macrolanguage)	ors	Orang Seletar	A
+msa	Malay (macrolanguage)	pel	Pekal	A
+msa	Malay (macrolanguage)	pse	Central Malay	A
+msa	Malay (macrolanguage)	tmw	Temuan	A
+msa	Malay (macrolanguage)	urk	Urak Lawoi'	A
+msa	Malay (macrolanguage)	vkk	Kaur	A
+msa	Malay (macrolanguage)	vkt	Tenggarong Kutai Malay	A
+msa	Malay (macrolanguage)	xmm	Manado Malay	A
+msa	Malay (macrolanguage)	zlm	Malay (individual language)	A
+msa	Malay (macrolanguage)	zmi	Negeri Sembilan Malay	A
+msa	Malay (macrolanguage)	zsm	Standard Malay	A
+mwr	Marwari	dhd	Dhundari	A
+mwr	Marwari	mtr	Mewari	A
+mwr	Marwari	mve	Marwari (Pakistan)	A
+mwr	Marwari	rwr	Marwari (India)	A
+mwr	Marwari	swv	Shekhawati	A
+mwr	Marwari	wry	Merwari	A
+nep	Nepali (macrolanguage)	dty	Dotyali	A
+nep	Nepali (macrolanguage)	npi	Nepali (individual language)	A
+nor	Norwegian	nno	Norwegian Nynorsk	A
+nor	Norwegian	nob	Norwegian Bokmål	A
+oji	Ojibwa	ciw	Chippewa	A
+oji	Ojibwa	ojb	Northwestern Ojibwa	A
+oji	Ojibwa	ojc	Central Ojibwa	A
+oji	Ojibwa	ojg	Eastern Ojibwa	A
+oji	Ojibwa	ojs	Severn Ojibwa	A
+oji	Ojibwa	ojw	Western Ojibwa	A
+oji	Ojibwa	otw	Ottawa	A
+ori	Oriya (macrolanguage)	ory	Odia	A
+ori	Oriya (macrolanguage)	spv	Sambalpuri	A
+orm	Oromo	gax	Borana-Arsi-Guji Oromo	A
+orm	Oromo	gaz	West Central Oromo	A
+orm	Oromo	hae	Eastern Oromo	A
+orm	Oromo	orc	Orma	A
+pus	Pushto	pbt	Southern Pashto	A
+pus	Pushto	pbu	Northern Pashto	A
+pus	Pushto	pst	Central Pashto	A
+que	Quechua	qub	Huallaga Huánuco Quechua	A
+que	Quechua	qud	Calderón Highland Quichua	A
+que	Quechua	quf	Lambayeque Quechua	A
+que	Quechua	qug	Chimborazo Highland Quichua	A
+que	Quechua	quh	South Bolivian Quechua	A
+que	Quechua	quk	Chachapoyas Quechua	A
+que	Quechua	qul	North Bolivian Quechua	A
+que	Quechua	qup	Southern Pastaza Quechua	A
+que	Quechua	qur	Yanahuanca Pasco Quechua	A
+que	Quechua	qus	Santiago del Estero Quichua	A
+que	Quechua	quw	Tena Lowland Quichua	A
+que	Quechua	qux	Yauyos Quechua	A
+que	Quechua	quy	Ayacucho Quechua	A
+que	Quechua	quz	Cusco Quechua	A
+que	Quechua	qva	Ambo-Pasco Quechua	A
+que	Quechua	qvc	Cajamarca Quechua	A
+que	Quechua	qve	Eastern Apurímac Quechua	A
+que	Quechua	qvh	Huamalíes-Dos de Mayo Huánuco Quechua	A
+que	Quechua	qvi	Imbabura Highland Quichua	A
+que	Quechua	qvj	Loja Highland Quichua	A
+que	Quechua	qvl	Cajatambo North Lima Quechua	A
+que	Quechua	qvm	Margos-Yarowilca-Lauricocha Quechua	A
+que	Quechua	qvn	North Junín Quechua	A
+que	Quechua	qvo	Napo Lowland Quechua	A
+que	Quechua	qvp	Pacaraos Quechua	A
+que	Quechua	qvs	San Martín Quechua	A
+que	Quechua	qvw	Huaylla Wanca Quechua	A
+que	Quechua	qvz	Northern Pastaza Quichua	A
+que	Quechua	qwa	Corongo Ancash Quechua	A
+que	Quechua	qwc	Classical Quechua	A
+que	Quechua	qwh	Huaylas Ancash Quechua	A
+que	Quechua	qws	Sihuas Ancash Quechua	A
+que	Quechua	qxa	Chiquián Ancash Quechua	A
+que	Quechua	qxc	Chincha Quechua	A
+que	Quechua	qxh	Panao Huánuco Quechua	A
+que	Quechua	qxl	Salasaca Highland Quichua	A
+que	Quechua	qxn	Northern Conchucos Ancash Quechua	A
+que	Quechua	qxo	Southern Conchucos Ancash Quechua	A
+que	Quechua	qxp	Puno Quechua	A
+que	Quechua	qxr	Cañar Highland Quichua	A
+que	Quechua	qxt	Santa Ana de Tusi Pasco Quechua	A
+que	Quechua	qxu	Arequipa-La Unión Quechua	A
+que	Quechua	qxw	Jauja Wanca Quechua	A
+raj	Rajasthani	bgq	Bagri	A
+raj	Rajasthani	gda	Gade Lohar	A
+raj	Rajasthani	gju	Gujari	A
+raj	Rajasthani	hoj	Hadothi	A
+raj	Rajasthani	mup	Malvi	A
+raj	Rajasthani	wbr	Wagdi	A
+rom	Romany	rmc	Carpathian Romani	A
+rom	Romany	rmf	Kalo Finnish Romani	A
+rom	Romany	rml	Baltic Romani	A
+rom	Romany	rmn	Balkan Romani	A
+rom	Romany	rmo	Sinte Romani	A
+rom	Romany	rmw	Welsh Romani	A
+rom	Romany	rmy	Vlax Romani	A
+san	Sanskrit	cls	Classical Sanskrit	A
+san	Sanskrit	vsn	Vedic Sanskrit	A
+sqi	Albanian	aae	Arbëreshë Albanian	A
+sqi	Albanian	aat	Arvanitika Albanian	A
+sqi	Albanian	aln	Gheg Albanian	A
+sqi	Albanian	als	Tosk Albanian	A
+srd	Sardinian	sdc	Sassarese Sardinian	A
+srd	Sardinian	sdn	Gallurese Sardinian	A
+srd	Sardinian	src	Logudorese Sardinian	A
+srd	Sardinian	sro	Campidanese Sardinian	A
+swa	Swahili (macrolanguage)	swc	Congo Swahili	A
+swa	Swahili (macrolanguage)	swh	Swahili (individual language)	A
+syr	Syriac	aii	Assyrian Neo-Aramaic	A
+syr	Syriac	cld	Chaldean Neo-Aramaic	A
+tmh	Tamashek	taq	Tamasheq	A
+tmh	Tamashek	thv	Tahaggart Tamahaq	A
+tmh	Tamashek	thz	Tayart Tamajeq	A
+tmh	Tamashek	ttq	Tawallammat Tamajaq	A
+uzb	Uzbek	uzn	Northern Uzbek	A
+uzb	Uzbek	uzs	Southern Uzbek	A
+yid	Yiddish	ydd	Eastern Yiddish	A
+yid	Yiddish	yih	Western Yiddish	A
+zap	Zapotec	zaa	Sierra de Juárez Zapotec	A
+zap	Zapotec	zab	Western Tlacolula Valley Zapotec	A
+zap	Zapotec	zac	Ocotlán Zapotec	A
+zap	Zapotec	zad	Cajonos Zapotec	A
+zap	Zapotec	zae	Yareni Zapotec	A
+zap	Zapotec	zaf	Ayoquesco Zapotec	A
+zap	Zapotec	zai	Isthmus Zapotec	A
+zap	Zapotec	zam	Miahuatlán Zapotec	A
+zap	Zapotec	zao	Ozolotepec Zapotec	A
+zap	Zapotec	zaq	Aloápam Zapotec	A
+zap	Zapotec	zar	Rincón Zapotec	A
+zap	Zapotec	zas	Santo Domingo Albarradas Zapotec	A
+zap	Zapotec	zat	Tabaa Zapotec	A
+zap	Zapotec	zav	Yatzachi Zapotec	A
+zap	Zapotec	zaw	Mitla Zapotec	A
+zap	Zapotec	zax	Xadani Zapotec	A
+zap	Zapotec	zca	Coatecas Altas Zapotec	A
+zap	Zapotec	zcd	Las Delicias Zapotec	A
+zap	Zapotec	zoo	Asunción Mixtepec Zapotec	A
+zap	Zapotec	zpa	Lachiguiri Zapotec	A
+zap	Zapotec	zpb	Yautepec Zapotec	A
+zap	Zapotec	zpc	Choapan Zapotec	A
+zap	Zapotec	zpd	Southeastern Ixtlán Zapotec	A
+zap	Zapotec	zpe	Petapa Zapotec	A
+zap	Zapotec	zpf	San Pedro Quiatoni Zapotec	A
+zap	Zapotec	zpg	Guevea De Humboldt Zapotec	A
+zap	Zapotec	zph	Totomachapan Zapotec	A
+zap	Zapotec	zpi	Santa María Quiegolani Zapotec	A
+zap	Zapotec	zpj	Quiavicuzas Zapotec	A
+zap	Zapotec	zpk	Tlacolulita Zapotec	A
+zap	Zapotec	zpl	Lachixío Zapotec	A
+zap	Zapotec	zpm	Mixtepec Zapotec	A
+zap	Zapotec	zpn	Santa Inés Yatzechi Zapotec	A
+zap	Zapotec	zpo	Amatlán Zapotec	A
+zap	Zapotec	zpp	El Alto Zapotec	A
+zap	Zapotec	zpq	Zoogocho Zapotec	A
+zap	Zapotec	zpr	Santiago Xanica Zapotec	A
+zap	Zapotec	zps	Coatlán Zapotec	A
+zap	Zapotec	zpt	San Vicente Coatlán Zapotec	A
+zap	Zapotec	zpu	Yalálag Zapotec	A
+zap	Zapotec	zpv	Chichicapan Zapotec	A
+zap	Zapotec	zpw	Zaniza Zapotec	A
+zap	Zapotec	zpx	San Baltazar Loxicha Zapotec	A
+zap	Zapotec	zpy	Mazaltepec Zapotec	A
+zap	Zapotec	zpz	Texmelucan Zapotec	A
+zap	Zapotec	zsr	Southern Rincon Zapotec	A
+zap	Zapotec	zte	Elotepec Zapotec	A
+zap	Zapotec	ztg	Xanaguía Zapotec	A
+zap	Zapotec	ztl	Lapaguía-Guivini Zapotec	A
+zap	Zapotec	ztm	San Agustín Mixtepec Zapotec	A
+zap	Zapotec	ztn	Santa Catarina Albarradas Zapotec	A
+zap	Zapotec	ztp	Loxicha Zapotec	A
+zap	Zapotec	ztq	Quioquitani-Quierí Zapotec	A
+zap	Zapotec	zts	Tilquiapan Zapotec	A
+zap	Zapotec	ztt	Tejalapan Zapotec	A
+zap	Zapotec	ztu	Güilá Zapotec	A
+zap	Zapotec	ztx	Zaachila Zapotec	A
+zap	Zapotec	zty	Yatee Zapotec	A
+zha	Zhuang	zch	Central Hongshuihe Zhuang	A
+zha	Zhuang	zeh	Eastern Hongshuihe Zhuang	A
+zha	Zhuang	zgb	Guibei Zhuang	A
+zha	Zhuang	zgm	Minz Zhuang	A
+zha	Zhuang	zgn	Guibian Zhuang	A
+zha	Zhuang	zhd	Dai Zhuang	A
+zha	Zhuang	zhn	Nong Zhuang	A
+zha	Zhuang	zlj	Liujiang Zhuang	A
+zha	Zhuang	zln	Lianshan Zhuang	A
+zha	Zhuang	zlq	Liuqian Zhuang	A
+zha	Zhuang	zqe	Qiubei Zhuang	A
+zha	Zhuang	zyb	Yongbei Zhuang	A
+zha	Zhuang	zyg	Yang Zhuang	A
+zha	Zhuang	zyj	Youjiang Zhuang	A
+zha	Zhuang	zyn	Yongnan Zhuang	A
+zha	Zhuang	zzj	Zuojiang Zhuang	A
+zho	Chinese	cdo	Min Dong Chinese	A
+zho	Chinese	cjy	Jinyu Chinese	A
+zho	Chinese	cmn	Mandarin Chinese	A
+zho	Chinese	cnp	Northern Ping Chinese	A
+zho	Chinese	cpx	Pu-Xian Chinese	A
+zho	Chinese	csp	Southern Ping Chinese	A
+zho	Chinese	czh	Huizhou Chinese	A
+zho	Chinese	czo	Min Zhong Chinese	A
+zho	Chinese	gan	Gan Chinese	A
+zho	Chinese	hak	Hakka Chinese	A
+zho	Chinese	hnm	Hainanese	A
+zho	Chinese	hsn	Xiang Chinese	A
+zho	Chinese	luh	Leizhou Chinese	A
+zho	Chinese	lzh	Literary Chinese	A
+zho	Chinese	mnp	Min Bei Chinese	A
+zho	Chinese	sjc	Shaojiang Chinese	A
+zho	Chinese	wuu	Wu Chinese	A
+zho	Chinese	yue	Yue Chinese	A
+zza	Zaza	diq	Dimli (individual language)	A
+zza	Zaza	kiu	Kirmanjki (individual language)	A
