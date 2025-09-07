@@ -1,0 +1,148 @@
+[
+  {
+    "absolute_url_path": "/writing/bassa.htm",
+    "base_path": "/writing/bassa.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Bassa"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Bassa (Vah)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Bassa_using_Latin / Roman"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Bassa_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/naskapi.php",
+    "base_path": "/writing/naskapi.php",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Naskapi"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Naskapi"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Naskapi_using_Canadian Aboriginal Syllabics"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Naskapi_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/punjabi.htm",
+    "base_path": "/writing/punjabi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Punjabi"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Gurmukhi"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Punjabi_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Punjabi_using_Gurmukhi"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/santali.htm",
+    "base_path": "/writing/santali.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Santali"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Santali"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Santali_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Santali_using_Eastern Nagari(Bengali /Eastern Neo-Brahmic)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Santali_using_Odia (Oriya)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/sindhi.htm",
+    "base_path": "/writing/sindhi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Sindhi"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Sindhi"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Sindhi_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Sindhi_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Sindhi_using_Gurmukhi"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/xibe.htm",
+    "base_path": "/writing/xibe.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Xibe"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Xibe"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Xibe_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Xibe_using_Manchu"
+      }
+    ]
+  }
+]

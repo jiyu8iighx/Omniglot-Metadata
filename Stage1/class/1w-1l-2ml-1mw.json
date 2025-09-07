@@ -1,0 +1,203 @@
+[
+  {
+    "absolute_url_path": "/writing/arabic.htm",
+    "base_path": "/writing/arabic.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Arabic (Modern Standard)"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Arabic_for_107_languages"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Arabic (Modern Standard)_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Arabic_using_Greek"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/greek.htm",
+    "base_path": "/writing/greek.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Greek"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Greek"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Greek_for_17_languages"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Greek_using_Greek"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Greek alphabet_using_Greek"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/hebrew.htm",
+    "base_path": "/writing/hebrew.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Hebrew"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Hebrew"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Hebrew_using_Greek"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Hebrew_for_13_languages"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Hebrew_using_Hebrew"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/japanese.htm",
+    "base_path": "/writing/japanese.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Japanese"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Japanese"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Japanese (kanji)_using_Chinese"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Japanese scripts_for_12_languages"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Japanese_using_Japanese scripts"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/javanese.htm",
+    "base_path": "/writing/javanese.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Javanese"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Javanese"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Javanese_for_2_languages"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Javanese_using_Javanese"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Javanese_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/mongolian.htm",
+    "base_path": "/writing/mongolian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Mongolian"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Mongolian"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Mongolian_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Mongolian_for_9_languages"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Mongolian_using_Mongolian"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Mongolian_using_Phags-pa"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Mongolian_using_Soyombo"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/tibetan.htm",
+    "base_path": "/writing/tibetan.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Tibetan"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Tibetan"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Tibetan_using_Phags-pa"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Tibetan_using_Soyombo"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Tibetan_for_15_languages"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Tibetan_using_Tibetan"
+      }
+    ]
+  }
+]

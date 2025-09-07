@@ -1,0 +1,52 @@
+[
+  {
+    "absolute_url_path": "/writing/iberian.htm",
+    "base_path": "/writing/iberian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Iberian"
+      },
+      {
+        "source": "language.csv",
+        "label": "Lusitanian"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Iberian"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Iberian"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/tangut.htm",
+    "base_path": "/writing/tangut.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Hsihsia"
+      },
+      {
+        "source": "language.csv",
+        "label": "Tangut (Xi-Xia)"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Tangut (Hsihsia)"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Xixia (Tangut)"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Tangut"
+      }
+    ]
+  }
+]

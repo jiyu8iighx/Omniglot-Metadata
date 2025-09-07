@@ -1,0 +1,13 @@
+[
+  {
+    "absolute_url_path": "/writing/gurmukhi.htm",
+    "base_path": "/writing/gurmukhi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "langalphMap.json",
+        "label": "Gurmukhi_for_4_languages"
+      }
+    ]
+  }
+]

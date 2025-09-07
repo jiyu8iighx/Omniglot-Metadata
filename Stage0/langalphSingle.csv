@@ -1,50 +1,130 @@
-#arabic,Arabic
-#armenian,Armenian
-#balinese,Balinese
-#baybayin,Baybayin
-#burmese,Burmese
-#cas,Canadian Aboriginal Syllabics
-#chinese,Chinese
-#coptic,Coptic
-#cuneiform,Cuneiform
-#cyrillic,Cyrillic
-#dev,Devanagari
-#bengali,Eastern Nagari / Bengali
-#fraser,Fraser
-#geez,Ge'ez (Ethiopic)
-#greek,Greek
-#georgian,Georgian
-#gujarati,Gujarati
-#gurmukhi,Gurmukhi
-#hebrew,Hebrew
-#javanese,Javanese
-#japanese,Japanese
-#kannada,Kannada
-#kawi,Kawi
-#kharosthi,Kharosthi
-#kathi,Kathi
-#khojki,Khojki
-#khmer,Khmer
-#lao,Lao
-#latin,Latin
-#lontara,Lontara
-#malayalam,Malayalam
-#manchu,Manchu
-#mongolian,Mongolian
-#mwangwego,Mwangwego
-#nko,N'ko
-#oriya,Odia (Oriya)
-#ogham,Ogham
-#phagspa,Phags-pa
-#pollard,Pollard
-#runic,Runic
-#sharda,Sharda
-#soyombo,Soyombo
-#syriac,Syriac
-#taiviet,Tai Viet
-#takri,Takri
-#tamil,Tamil
-#telugu,Telugu
-#thai,Thai
-#tibetan,Tibetan
-#tifinagh,Tifinagh
+adlam.htm,Adlam
+afaka.htm,Afaka
+ahom.htm,Ahom
+akkadian.htm,Akkadian Cuneiform
+berber.htm,Ancient Berber
+egyptian_demotic.htm,Ancient Egyptian Demotic
+egyptian_hieratic.htm,Ancient Egyptian Hieratic
+egyptian.htm,Ancient Egyptian Hieroglyphic
+olditalic.htm#alatin,Ancient Latin
+aramaic.htm,Aramaic
+avestan.htm,Avestan
+bamum.htm,Bamum
+bassa.htm,Bassa (Vah)
+batak.htm,Batak
+beithakukju.htm,Beitha Kukju
+blackfoot.htm,Blackfoot
+somali.htm#borama,Borama
+brahmi.htm,Brahmi
+buhid.htm,Buhid
+carian.php,Carian
+woleai.htm,Caroline Island Script
+carpathianbasinrovas.htm,Carpathian Basin Rovas
+carrier.htm,Carrier
+caucasianalbanian.htm,Caucasian Albanian
+celtiberian.htm,Celtiberian
+chakma.htm,Chakma
+cham.htm,Cham
+cherokee.htm,Cherokee
+chunom.htm,Chữ-nôm
+coorgicox.htm,Coorgi-Cox
+cree.htm,Cree
+cypriot.htm,Cypriot
+dalecarlianrunes.htm,Dalecarlian Runes
+tainua.htm,Dehong Dai
+deseret.htm,Deseret
+dhivesakuru.htm,Dhives Akuru
+dogra.htm,Dogra
+elbasan.htm,Elbasan
+elamite.htm,Elamite
+eskayan.htm,Eskayan
+etruscan.htm,Etruscan
+dhivesakuru.htm,Evela Akuru
+olditalic.htm#faliscan,Faliscan
+glagolitic.htm,Glagolitic
+gondi.htm,Gondi
+gothic.htm,Gothic
+grantha.htm,Grantha
+hanunoo.htm,Hanunó'o
+iberian.htm,Iberian
+inuktitut.htm,Inutitut
+jurchen.htm,Jurchen
+kayahli.htm,Kayah Li
+khazarianrovas.htm,Khazarian Rovas
+khitan.htm,Khitan
+bantawa.htm,Kirat Rai
+korean.htm,Korean (Hangeul)
+kpelle.htm,Kpelle
+lanna.htm,Lanna
+lepcha.htm,Lepcha
+limbu.htm,Limbu
+lineara.htm,Linear A
+linearb.htm,Linear B
+loma.htm,Loma
+luwian.htm,Luwian
+lycian.php,Lycian
+lydian.php,Lydian
+mandaic.htm,Mandaic
+manipuri.htm,Manipuri
+olditalic.htm#marsiliana,Marsiliana
+mayan.htm,Mayan
+mende.htm,Mende
+meroitic.htm,Meroïtic
+olditalic.htm#messapic,Messapic
+olditalic.htm#spicene,Middle Adriatic / South Picene
+mpersian.htm,Middle Persian
+modi.htm,Modi
+mon.htm,Mon
+nabataean.htm,Nabataean
+naskapi.php,Naskapi
+naxi.htm,Naxi
+tailue.htm,New Tai Lue
+olditalic.htm#npicene,North Picene
+nushu.htm,Nüshu
+kalmyk.htm,Oirat Clear Script
+ojibwa.htm,Ojibwe
+ocslavonic.htm,Old Church Slavonic
+oldpermic.htm,Old Permic
+opcuneiform.htm,Old Persian Cuneiform
+uyghur.htm#uighurvert,Old Uyghur
+orkhon.htm,Orkhon / Old Turkic
+olditalic.htm#oscan,Oscan
+somali.htm#osmanya,Osmanya (Somali)
+pahawhhmong.htm,Pahawh Hmong
+pallava.htm,Pallava
+parthian.htm,Parthian
+phoenician.htm,Phoenician
+phrygian.htm,Phrygian
+psalter.htm,Psalter
+protosinaitc.htm,Proto-Sinaitic / Proto-Canaanite
+punic.htm,Punic
+ranjana.htm,Ranjana
+redjang.htm,Redjang
+rongorongo.htm,Rongo Rongo
+sabaean.htm,Sabaean
+samaritan.htm,Samaritan
+santali.htm,Santali
+sasak.htm,Sasak
+shan.htm,Shan
+siddham.htm,Siddham
+sindhi.htm,Sindhi
+hungarian_runes.htm,Székely-Hungarian Rovás (Hungarian Runes)
+sinhala.htm,Sinhala
+sorangsompeng.htm,Sorang Sompeng
+saurashtra.htm,Saurashtra
+sumerian.htm,Sumerian Cuneiform
+sundanese.php,Sundanese
+syloti.htm,Syloti-Nagri
+tagbanwa.htm,Tagbanwa
+tangut.htm,Tangut
+thaana.htm,Thaana
+tocharian.htm,Tocharian
+todhri.htm,Todhri
+tolongsiki.htm,Tolong Siki
+tulu.htm,Tigalari
+ugaritic.htm,Ugaritic
+olditalic.htm#umbrian,Umbrian
+vai.htm,Vai
+varangkshiti.htm,Varang Kshiti
+yi.htm,Yi
+zaghawa.htm,Zaghawa

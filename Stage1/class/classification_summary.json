@@ -1,0 +1,98 @@
+{
+  "1l-1ml": {
+    "count": 1837,
+    "file": "class/1l-1ml.json"
+  },
+  "1l": {
+    "count": 49,
+    "file": "class/1l.json"
+  },
+  "1w": {
+    "count": 173,
+    "file": "class/1w.json"
+  },
+  "1w-1ml-1mw": {
+    "count": 4,
+    "file": "class/1w-1ml-1mw.json"
+  },
+  "1w-1ml": {
+    "count": 8,
+    "file": "class/1w-1ml.json"
+  },
+  "1l-2ml": {
+    "count": 192,
+    "file": "class/1l-2ml.json"
+  },
+  "1w-1l-1ml": {
+    "count": 21,
+    "file": "class/1w-1l-1ml.json"
+  },
+  "2w": {
+    "count": 42,
+    "file": "class/2w.json"
+  },
+  "2w-1l": {
+    "count": 36,
+    "file": "class/2w-1l.json"
+  },
+  "2w-1l-1ml": {
+    "count": 17,
+    "file": "class/2w-1l-1ml.json"
+  },
+  "1w-1l-2ml-1mw": {
+    "count": 7,
+    "file": "class/1w-1l-2ml-1mw.json"
+  },
+  "1w-2l-1ml-1mw": {
+    "count": 2,
+    "file": "class/1w-2l-1ml-1mw.json"
+  },
+  "1ml": {
+    "count": 21,
+    "file": "class/1ml.json"
+  },
+  "1w-1l": {
+    "count": 33,
+    "file": "class/1w-1l.json"
+  },
+  "1w-1l-1ml-1mw": {
+    "count": 16,
+    "file": "class/1w-1l-1ml-1mw.json"
+  },
+  "1w-1l-2ml": {
+    "count": 6,
+    "file": "class/1w-1l-2ml.json"
+  },
+  "1w-1mw": {
+    "count": 20,
+    "file": "class/1w-1mw.json"
+  },
+  "2w-1l-2ml": {
+    "count": 1,
+    "file": "class/2w-1l-2ml.json"
+  },
+  "2w-1ml": {
+    "count": 2,
+    "file": "class/2w-1ml.json"
+  },
+  "2l-1ml": {
+    "count": 6,
+    "file": "class/2l-1ml.json"
+  },
+  "1mw": {
+    "count": 1,
+    "file": "class/1mw.json"
+  },
+  "2w-2l": {
+    "count": 2,
+    "file": "class/2w-2l.json"
+  },
+  "2w-1l-2ml-1mw": {
+    "count": 1,
+    "file": "class/2w-1l-2ml-1mw.json"
+  },
+  "1w-2l": {
+    "count": 1,
+    "file": "class/1w-2l.json"
+  }
+}

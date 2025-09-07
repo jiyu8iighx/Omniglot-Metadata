@@ -1,0 +1,497 @@
+[
+  {
+    "absolute_url_path": "/writing/bagatha.htm",
+    "base_path": "/writing/bagatha.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Bagatha"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Bagatha"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/bima.htm",
+    "base_path": "/writing/bima.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Bima"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Bima"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/chinookjargon.htm",
+    "base_path": "/writing/chinookjargon.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Chinook Jargon"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Chinuk pipa"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/dhurwa.htm",
+    "base_path": "/writing/dhurwa.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Dhurwa"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Dhurwa"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/faliscan.htm",
+    "base_path": "/writing/faliscan.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Faliscan"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Faliscan"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/gadaba.htm",
+    "base_path": "/writing/gadaba.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Gadaba"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Gadaba"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/goudu.htm",
+    "base_path": "/writing/goudu.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Goudu"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Goudu"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/jatapu.htm",
+    "base_path": "/writing/jatapu.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Jatapu"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Jatapu"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kammara.htm",
+    "base_path": "/writing/kammara.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Kammara"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Kammara"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kolam.htm",
+    "base_path": "/writing/kolam.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Kolam"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Kolam"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/konda.htm",
+    "base_path": "/writing/konda.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Konda-Dora"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Konda-Dora"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kotia.htm",
+    "base_path": "/writing/kotia.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Kotia"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Kotia"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/koya.htm",
+    "base_path": "/writing/koya.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Koya"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Koya"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kupia.htm",
+    "base_path": "/writing/kupia.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Kupia"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Kupia"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/lepontic.htm",
+    "base_path": "/writing/lepontic.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Lepontic"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Lepontic"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/loma.htm",
+    "base_path": "/writing/loma.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Loma"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Loma"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/mali.htm",
+    "base_path": "/writing/mali.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Mali"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Mali"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/mro.htm",
+    "base_path": "/writing/mro.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Mro"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Mro"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/mukhadora.htm",
+    "base_path": "/writing/mukhadora.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Mukha Dora"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Mukha Dora"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/osage.php",
+    "base_path": "/writing/osage.php",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Osage"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Osage"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/oscan.htm",
+    "base_path": "/writing/oscan.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Oscan"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Oscan"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/rana.htm",
+    "base_path": "/writing/rana.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Rana"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Rana"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/redjang.htm",
+    "base_path": "/writing/redjang.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Rejang"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Redjang"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/sogdian.htm",
+    "base_path": "/writing/sogdian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Sogdian"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Sogdian"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/solresol.htm",
+    "base_path": "/writing/solresol.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Solresol"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Solresol"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/southpicene.htm",
+    "base_path": "/writing/southpicene.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "South Picene"
+      },
+      {
+        "source": "writing.csv",
+        "label": "South Picene"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/sugali.htm",
+    "base_path": "/writing/sugali.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Sugali"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Sugali"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/sui.htm",
+    "base_path": "/writing/sui.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Sui"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Sui"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/sundanese.php",
+    "base_path": "/writing/sundanese.php",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Sundanese"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Sundanese"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/tailue.htm",
+    "base_path": "/writing/tailue.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Tai Lue"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "New Tai Lue"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/tainua.htm",
+    "base_path": "/writing/tainua.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Tai Nuea"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Dehong Dai"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/umbrian.htm",
+    "base_path": "/writing/umbrian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Umbrian"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Umbrian"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/yerukula.htm",
+    "base_path": "/writing/yerukula.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Yerukula"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Yerukula"
+      }
+    ]
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "absolute_url_path": "/writing/armenian.htm",
+    "base_path": "/writing/armenian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Armenian (Eastern)"
+      },
+      {
+        "source": "language.csv",
+        "label": "Armenian (Western)"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Armenian"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Armenian_for_2_languages"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Armenian (Eastern and Western)_using_Armenian"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/khmer.htm",
+    "base_path": "/writing/khmer.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Cambodian (Khmer)"
+      },
+      {
+        "source": "language.csv",
+        "label": "Khmer"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Khmer"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Khmer_for_2_languages"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Khmer_using_Khmer"
+      }
+    ]
+  }
+]

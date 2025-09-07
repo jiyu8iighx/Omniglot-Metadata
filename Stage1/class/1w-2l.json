@@ -1,0 +1,25 @@
+[
+  {
+    "absolute_url_path": "/writing/southarabian.htm",
+    "base_path": "/writing/southarabian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Hadhramautic"
+      },
+      {
+        "source": "language.csv",
+        "label": "Himyaritic"
+      },
+      {
+        "source": "language.csv",
+        "label": "Qatabanic"
+      },
+      {
+        "source": "writing.csv",
+        "label": "South Arabian"
+      }
+    ]
+  }
+]

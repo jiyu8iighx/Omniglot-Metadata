@@ -1,0 +1,1905 @@
+[
+  {
+    "absolute_url_path": "/chinese/generalchinese.htm",
+    "base_path": "/chinese/generalchinese.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "General Chinese"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/chinese/zhuyin.htm",
+    "base_path": "/chinese/zhuyin.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Zhùyīn Fúhào (Bopomofo)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/conscripts/coelbren.htm",
+    "base_path": "/conscripts/coelbren.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Coelbren y Beirdd (Welsh Bardic alphabet)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/language/articles/simpel-fonetik.php",
+    "base_path": "/language/articles/simpel-fonetik.php",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Simpel-Fonetik"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/achiktokbirim.htm",
+    "base_path": "/writing/achiktokbirim.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "A-chik Tokbirim"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/adinkra.htm",
+    "base_path": "/writing/adinkra.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Adinkra"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/aima.htm",
+    "base_path": "/writing/aima.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Aima"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/arleng.htm",
+    "base_path": "/writing/arleng.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Arleng"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/asomtavruli.htm",
+    "base_path": "/writing/asomtavruli.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Georgian (Asomtavruli)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/avoiuli.htm",
+    "base_path": "/writing/avoiuli.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Avoiuli"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/badlit.htm",
+    "base_path": "/writing/badlit.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Badlit"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/baltia.htm",
+    "base_path": "/writing/baltia.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Balti-A"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/baltib.htm",
+    "base_path": "/writing/baltib.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Balti-B"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/bamumsyllabary.htm",
+    "base_path": "/writing/bamumsyllabary.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Bamum"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/basahan.htm",
+    "base_path": "/writing/basahan.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Basahan"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/bassavah.htm",
+    "base_path": "/writing/bassavah.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Bassa (Vah)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/beria.htm",
+    "base_path": "/writing/beria.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Beria (Zaghawa)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/bhaiksuki.htm",
+    "base_path": "/writing/bhaiksuki.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Bhaiksuki"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/bhujimol.htm",
+    "base_path": "/writing/bhujimol.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Bhujimol"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/bilangbilang.htm",
+    "base_path": "/writing/bilangbilang.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Bilang-bilang"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/blissymbolics.htm",
+    "base_path": "/writing/blissymbolics.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Blissymbolics"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/borama.htm",
+    "base_path": "/writing/borama.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Borama / Gadabuursi"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/braille.htm",
+    "base_path": "/writing/braille.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Braille"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/carolineislandscript.htm",
+    "base_path": "/writing/carolineislandscript.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Caroline Island (Woleai) Script"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/carolingian.htm",
+    "base_path": "/writing/carolingian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Carolingian Minuscule"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/chisoi.htm",
+    "base_path": "/writing/chisoi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Chisoi"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/classicallatin.htm",
+    "base_path": "/writing/classicallatin.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Classical Latin alphabet"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/clogaelach.htm",
+    "base_path": "/writing/clogaelach.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Gaelic script"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/dehongdai.htm",
+    "base_path": "/writing/dehongdai.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Dehong Dai / Tai Le"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/dham.htm",
+    "base_path": "/writing/dham.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Dham Lipi"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/ditema.htm",
+    "base_path": "/writing/ditema.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Ditema"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/dunging.htm",
+    "base_path": "/writing/dunging.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Dunging (Iban)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/elamite.htm",
+    "base_path": "/writing/elamite.htm",
+    "fragment": "old",
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Old Elamite"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/elamite.htm",
+    "base_path": "/writing/elamite.htm",
+    "fragment": "proto",
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Proto-Elamite"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/elymaic.htm",
+    "base_path": "/writing/elymaic.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Elymaic"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/foxalphabet.htm",
+    "base_path": "/writing/foxalphabet.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Fox"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/fraktur.htm",
+    "base_path": "/writing/fraktur.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Fraktur"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/franklin.htm",
+    "base_path": "/writing/franklin.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Benjamin Franklin's Phonetic Alphabet"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/futhorc.htm",
+    "base_path": "/writing/futhorc.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Anglo-Saxon Runes (Futhorc)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/galik.htm",
+    "base_path": "/writing/galik.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Galik"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/german.htm",
+    "base_path": "/writing/german.htm",
+    "fragment": "suetterlin",
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Sütterlin"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/global.htm",
+    "base_path": "/writing/global.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Global Alphabet"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/gond.htm",
+    "base_path": "/writing/gond.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Gond"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/goykanadi.htm",
+    "base_path": "/writing/goykanadi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Goykanadi"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/gunjalagondi.htm",
+    "base_path": "/writing/gunjalagondi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Gunjala Gondi"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/gupta.htm",
+    "base_path": "/writing/gupta.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Gupta"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/halbilipi.htm",
+    "base_path": "/writing/halbilipi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Halbi Lipi"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/hanifi.htm",
+    "base_path": "/writing/hanifi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Hanifi"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/hatran.htm",
+    "base_path": "/writing/hatran.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Hatran"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/hotcak.htm",
+    "base_path": "/writing/hotcak.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Hočąk"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/hurufimunfasila.htm",
+    "base_path": "/writing/hurufimunfasila.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Hurûf-ı munfasıla"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/imsf.htm",
+    "base_path": "/writing/imsf.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Maritime Signal Flags"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/incung.htm",
+    "base_path": "/writing/incung.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Incung"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/indus.htm",
+    "base_path": "/writing/indus.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Indus/Harappa script"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/ipa.htm",
+    "base_path": "/writing/ipa.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "International Phonetic Alphabet"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/irish.htm",
+    "base_path": "/writing/irish.htm",
+    "fragment": "irishunc",
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Irish (Uncial)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/ita.htm",
+    "base_path": "/writing/ita.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Initial Teaching Alphabet (I.T.A.)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/japanese_hiragana.htm",
+    "base_path": "/writing/japanese_hiragana.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Hiragana (Japanese)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/japanese_kanji.htm",
+    "base_path": "/writing/japanese_kanji.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Kanji (Japanese)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/japanese_katakana.htm",
+    "base_path": "/writing/japanese_katakana.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Katakana (Japanese)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kadamba.htm",
+    "base_path": "/writing/kadamba.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Kadamba"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kaddare.htm",
+    "base_path": "/writing/kaddare.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Kaddare"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kaganga.htm",
+    "base_path": "/writing/kaganga.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Rejang (Kaganga)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kaktoviknumerals.htm",
+    "base_path": "/writing/kaktoviknumerals.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Kaktovik (Iñupiaq) Numerals"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kamarupi.htm",
+    "base_path": "/writing/kamarupi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Kamarupi"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kapat.htm",
+    "base_path": "/writing/kapat.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Tanchangya (Ka-Pat)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kayahli.htm",
+    "base_path": "/writing/kayahli.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "langalphSingle.csv",
+        "label": "Kayah Li"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/khattibadi.htm",
+    "base_path": "/writing/khattibadi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Khatt-i-Badíʼ"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/khema.htm",
+    "base_path": "/writing/khema.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Khema"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kheprih.htm",
+    "base_path": "/writing/kheprih.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Khe Prih"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/khomthai.htm",
+    "base_path": "/writing/khomthai.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Khom Thai"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/khudabadi.htm",
+    "base_path": "/writing/khudabadi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Khudabadi"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kiratrai.htm",
+    "base_path": "/writing/kiratrai.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Kirat Rai"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kochi.htm",
+    "base_path": "/writing/kochi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Kōchi"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kochscript.htm",
+    "base_path": "/writing/kochscript.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Koch"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kodavalipi.htm",
+    "base_path": "/writing/kodavalipi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Kodava Lipi"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/komeringscript.htm",
+    "base_path": "/writing/komeringscript.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Komering"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kulitan.htm",
+    "base_path": "/writing/kulitan.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Kulitan"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kurukhbanna.htm",
+    "base_path": "/writing/kurukhbanna.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Kurukh Banna"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/laitay.htm",
+    "base_path": "/writing/laitay.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Lai Tay"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/lampungscript.htm",
+    "base_path": "/writing/lampungscript.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Lampung"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/latin.htm",
+    "base_path": "/writing/latin.htm",
+    "fragment": "archaic",
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Archaic Latin"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/leke.htm",
+    "base_path": "/writing/leke.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Leke"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/lomasyllabary.htm",
+    "base_path": "/writing/lomasyllabary.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Loma"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/lota.htm",
+    "base_path": "/writing/lota.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Lota Ende"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/luo.htm",
+    "base_path": "/writing/luo.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Luo Lakeside Script"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/mahajani.htm",
+    "base_path": "/writing/mahajani.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Mahajani"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/mandombe.htm",
+    "base_path": "/writing/mandombe.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Mandombe"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/manichaean.php",
+    "base_path": "/writing/manichaean.php",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Manichaean"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/marchen.htm",
+    "base_path": "/writing/marchen.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Marchen"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/masaramgondi.htm",
+    "base_path": "/writing/masaramgondi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Masarm Gondi"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/medefaidrin.htm",
+    "base_path": "/writing/medefaidrin.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Medefaidrin"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/meitei.htm",
+    "base_path": "/writing/meitei.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Manpuri / Meitei (Modern)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/merovingian.htm",
+    "base_path": "/writing/merovingian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Merovingian"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/messapic.htm",
+    "base_path": "/writing/messapic.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Messapic"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/mhss.htm",
+    "base_path": "/writing/mhss.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Mongolian Horizontal Square Script"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/moon.htm",
+    "base_path": "/writing/moon.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Moon"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/morsecode.htm",
+    "base_path": "/writing/morsecode.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Morse code"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/multani.htm",
+    "base_path": "/writing/multani.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Multani"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/mundaribani.htm",
+    "base_path": "/writing/mundaribani.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Mundari Bani"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/nagchiki.htm",
+    "base_path": "/writing/nagchiki.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Nag Chiki"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/nandinagari.htm",
+    "base_path": "/writing/nandinagari.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Nandinagari"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/newa.htm",
+    "base_path": "/writing/newa.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Newa (Prachalit Nepal)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/newtailue.htm",
+    "base_path": "/writing/newtailue.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "New Tai Lue"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/northarabian.htm",
+    "base_path": "/writing/northarabian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "North Arabian"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/northpicene.htm",
+    "base_path": "/writing/northpicene.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "North Picene"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/nuskhuri.htm",
+    "base_path": "/writing/nuskhuri.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Georgian (Nuskhuri)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/nwaguaneke.htm",
+    "base_path": "/writing/nwaguaneke.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Nwagụ Aneke"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/nyiakengpuachuehmong.htm",
+    "base_path": "/writing/nyiakengpuachuehmong.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Nyiakeng Puachue Hmong"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/oduduwa.htm",
+    "base_path": "/writing/oduduwa.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Odùduwà"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/oganscript.htm",
+    "base_path": "/writing/oganscript.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Ogan"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/ojibwa.htm",
+    "base_path": "/writing/ojibwa.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "langalphSingle.csv",
+        "label": "Ojibwe"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/olchiki.htm",
+    "base_path": "/writing/olchiki.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Ol Chiki (Ol Cemet' / Santali)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/oldenglish.htm",
+    "base_path": "/writing/oldenglish.htm",
+    "fragment": "oe",
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Old English"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/olditalic.htm",
+    "base_path": "/writing/olditalic.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Old Italic"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/olditalic.htm",
+    "base_path": "/writing/olditalic.htm",
+    "fragment": "alatin",
+    "sources": [
+      {
+        "source": "langalphSingle.csv",
+        "label": "Ancient Latin"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/olditalic.htm",
+    "base_path": "/writing/olditalic.htm",
+    "fragment": "faliscan",
+    "sources": [
+      {
+        "source": "langalphSingle.csv",
+        "label": "Faliscan"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/olditalic.htm",
+    "base_path": "/writing/olditalic.htm",
+    "fragment": "messapic",
+    "sources": [
+      {
+        "source": "langalphSingle.csv",
+        "label": "Messapic"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/olditalic.htm",
+    "base_path": "/writing/olditalic.htm",
+    "fragment": "spicene",
+    "sources": [
+      {
+        "source": "langalphSingle.csv",
+        "label": "Middle Adriatic / South Picene"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/olditalic.htm",
+    "base_path": "/writing/olditalic.htm",
+    "fragment": "npicene",
+    "sources": [
+      {
+        "source": "langalphSingle.csv",
+        "label": "North Picene"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/olditalic.htm",
+    "base_path": "/writing/olditalic.htm",
+    "fragment": "oscan",
+    "sources": [
+      {
+        "source": "langalphSingle.csv",
+        "label": "Oscan"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/olditalic.htm",
+    "base_path": "/writing/olditalic.htm",
+    "fragment": "umbrian",
+    "sources": [
+      {
+        "source": "langalphSingle.csv",
+        "label": "Umbrian"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/oldmanipuri.htm",
+    "base_path": "/writing/oldmanipuri.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Manpuri (Old)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/olduyghur.htm",
+    "base_path": "/writing/olduyghur.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "(Old) Uyghur"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/olonal.htm",
+    "base_path": "/writing/olonal.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Ol Onal"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/osmanya.htm",
+    "base_path": "/writing/osmanya.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Osmanya (Somali)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/otomaung.htm",
+    "base_path": "/writing/otomaung.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Naasioi Otomaung"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/palawano.htm",
+    "base_path": "/writing/palawano.htm",
+    "fragment": "ibalnan",
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Ibalnan"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/paleohebrew.htm",
+    "base_path": "/writing/paleohebrew.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Paleo-Hebrew"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/paleotype.htm",
+    "base_path": "/writing/paleotype.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Dialectal Paleotype"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/palmyrene.htm",
+    "base_path": "/writing/palmyrene.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Palmyrene"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/paucinhau.htm",
+    "base_path": "/writing/paucinhau.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Pau Cin Hau"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/phaistos.htm",
+    "base_path": "/writing/phaistos.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Phaistos Disc script"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/purvalicchavi.htm",
+    "base_path": "/writing/purvalicchavi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Purva Licchavi"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/quikscript.htm",
+    "base_path": "/writing/quikscript.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Quikscript/Read Alphabet"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/rma.htm",
+    "base_path": "/writing/rma.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Qiang / Rma"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/romancursive.htm",
+    "base_path": "/writing/romancursive.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Roman Cursive"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/runic.htm",
+    "base_path": "/writing/runic.htm",
+    "fragment": "elder",
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Elder Futhark"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/runic.htm",
+    "base_path": "/writing/runic.htm",
+    "fragment": "medieval",
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Medieval (Latinised) Futhark"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/runic.htm",
+    "base_path": "/writing/runic.htm",
+    "fragment": "yngrfuthark",
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Younger Futhark"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/rusticcaptials.htm",
+    "base_path": "/writing/rusticcaptials.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Rustic Capitals"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/sapalo.htm",
+    "base_path": "/writing/sapalo.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Sapalo"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/savara.htm",
+    "base_path": "/writing/savara.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Savara"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/semaphore.htm",
+    "base_path": "/writing/semaphore.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Semaphore"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/shavian.htm",
+    "base_path": "/writing/shavian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Shavian"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/shorthand.htm",
+    "base_path": "/writing/shorthand.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Shorthand"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/signwriting.htm",
+    "base_path": "/writing/signwriting.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Sutton SignWriting"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/somali.htm",
+    "base_path": "/writing/somali.htm",
+    "fragment": "borama",
+    "sources": [
+      {
+        "source": "langalphSingle.csv",
+        "label": "Borama"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/somali.htm",
+    "base_path": "/writing/somali.htm",
+    "fragment": "osmanya",
+    "sources": [
+      {
+        "source": "langalphSingle.csv",
+        "label": "Osmanya (Somali)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/sukhothai.htm",
+    "base_path": "/writing/sukhothai.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Sukhothai"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/sundanesescript.htm",
+    "base_path": "/writing/sundanesescript.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Sundanese"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/sunuwar.htm",
+    "base_path": "/writing/sunuwar.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Sunuwar"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/tainoi.htm",
+    "base_path": "/writing/tainoi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Tai Noi"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/tani.htm",
+    "base_path": "/writing/tani.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Tani"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/thirke.htm",
+    "base_path": "/writing/thirke.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Thirke"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/tigalari.htm",
+    "base_path": "/writing/tigalari.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Tigalari"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/tikamuli.htm",
+    "base_path": "/writing/tikamuli.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Tikamuli"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/tirhuta.htm",
+    "base_path": "/writing/tirhuta.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Tirhuta"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/toto2.htm",
+    "base_path": "/writing/toto2.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Toto"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/uyghur.htm",
+    "base_path": "/writing/uyghur.htm",
+    "fragment": "uighurvert",
+    "sources": [
+      {
+        "source": "langalphSingle.csv",
+        "label": "Old Uyghur"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/vaisyllabary.htm",
+    "base_path": "/writing/vaisyllabary.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Vai"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/vatteluttu.htm",
+    "base_path": "/writing/vatteluttu.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Vatteluttu"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/vinca.htm",
+    "base_path": "/writing/vinca.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Vinča script"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/visiblespeech.htm",
+    "base_path": "/writing/visiblespeech.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Visible Speech"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/visigothic.htm",
+    "base_path": "/writing/visigothic.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Visigothic Script"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/vniverallalphabet.htm",
+    "base_path": "/writing/vniverallalphabet.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Vniverall Alphabet"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/welshbraille.htm",
+    "base_path": "/writing/welshbraille.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Welsh Braille"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/woleai.htm",
+    "base_path": "/writing/woleai.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "langalphSingle.csv",
+        "label": "Caroline Island Script"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/yezidi.htm",
+    "base_path": "/writing/yezidi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Yezidi"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/yijing.htm",
+    "base_path": "/writing/yijing.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Yi Jing Hexagrams"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/yonaguni.htm",
+    "base_path": "/writing/yonaguni.htm",
+    "fragment": "kaida",
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Kaida"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/yugtun.htm",
+    "base_path": "/writing/yugtun.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Yugtun"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/zoulai.htm",
+    "base_path": "/writing/zoulai.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Zoulai"
+      }
+    ]
+  }
+]

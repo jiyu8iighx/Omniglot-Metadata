@@ -1,0 +1,644 @@
+[
+  {
+    "absolute_url_path": "/writing/adlam.htm",
+    "base_path": "/writing/adlam.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "ADLaM"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Adlam"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/afaka.htm",
+    "base_path": "/writing/afaka.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Afaka"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Afaka"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/batak.htm",
+    "base_path": "/writing/batak.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Batak"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Batak"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/beithakukju.htm",
+    "base_path": "/writing/beithakukju.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Beitha Kukju"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Beitha Kukju"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/berber.htm",
+    "base_path": "/writing/berber.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Ancient Berber"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Ancient Berber"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/brahmi.htm",
+    "base_path": "/writing/brahmi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Brahmi"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Brahmi"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/carpathianbasinrovas.htm",
+    "base_path": "/writing/carpathianbasinrovas.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Carpathian Basin Rovas"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Carpathian Basin Rovas"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/coorgicox.htm",
+    "base_path": "/writing/coorgicox.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Coorgi-Cox"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Coorgi-Cox"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/cree.htm",
+    "base_path": "/writing/cree.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Cree"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Cree"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/cypriot.htm",
+    "base_path": "/writing/cypriot.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Cypriot Syllabary"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Cypriot"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/dalecarlianrunes.htm",
+    "base_path": "/writing/dalecarlianrunes.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Dalecarlian runes"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Dalecarlian Runes"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/deseret.htm",
+    "base_path": "/writing/deseret.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Deseret"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Deseret"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/dhivesakuru.htm",
+    "base_path": "/writing/dhivesakuru.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Dives Akuru"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Evēla Akuru"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Dhives Akuru"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Evela Akuru"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/dogra.htm",
+    "base_path": "/writing/dogra.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Dogra"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Dogra"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/egyptian.htm",
+    "base_path": "/writing/egyptian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Ancient Egyptian (Hieroglyphs)"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Hieroglyphs (Egyptian)"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Ancient Egyptian Hieroglyphic"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/egyptian_demotic.htm",
+    "base_path": "/writing/egyptian_demotic.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Ancient Egyptian (Demotic)"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Ancient Egyptian Demotic"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/egyptian_hieratic.htm",
+    "base_path": "/writing/egyptian_hieratic.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Ancient Egyptian (Hieratic)"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Ancient Egyptian Hieratic"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/elbasan.htm",
+    "base_path": "/writing/elbasan.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Elbasan"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Elbasan"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/eskayan.htm",
+    "base_path": "/writing/eskayan.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Eskayan"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Eskayan"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/glagolitic.htm",
+    "base_path": "/writing/glagolitic.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Glagolitic"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Glagolitic"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/grantha.htm",
+    "base_path": "/writing/grantha.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Grantha"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Grantha"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/hungarian_runes.htm",
+    "base_path": "/writing/hungarian_runes.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Székely-Hungarian Rovás (Hungarian Runes)"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Székely-Hungarian Rovás (Hungarian Runes)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/khazarianrovas.htm",
+    "base_path": "/writing/khazarianrovas.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Khazarian Rovas"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Khazarian Rovas"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/lineara.htm",
+    "base_path": "/writing/lineara.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Linear A"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Linear A"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/linearb.htm",
+    "base_path": "/writing/linearb.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Linear B"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Linear B"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/mayan.htm",
+    "base_path": "/writing/mayan.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Mayan"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Mayan"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/modi.htm",
+    "base_path": "/writing/modi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Modi"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Modi"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/mpersian.htm",
+    "base_path": "/writing/mpersian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Pahlavi"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Middle Persian"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/olditalic.htm",
+    "base_path": "/writing/olditalic.htm",
+    "fragment": "marsiliana",
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Marsiliana"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Marsiliana"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/oldpermic.htm",
+    "base_path": "/writing/oldpermic.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Old Permic"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Old Permic"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/pahawhhmong.htm",
+    "base_path": "/writing/pahawhhmong.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Pahawh Hmong"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Pahawh Hmong"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/pallava.htm",
+    "base_path": "/writing/pallava.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Pallava"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Pallava"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/psalter.htm",
+    "base_path": "/writing/psalter.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Psalter"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Psalter"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/punic.htm",
+    "base_path": "/writing/punic.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Punic"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Punic"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/ranjana.htm",
+    "base_path": "/writing/ranjana.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Ranjana"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Ranjana"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/rongorongo.htm",
+    "base_path": "/writing/rongorongo.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Rongo Rongo"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Rongo Rongo"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/siddham.htm",
+    "base_path": "/writing/siddham.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Siddham"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Siddham"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/sorangsompeng.htm",
+    "base_path": "/writing/sorangsompeng.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Sorang Sompeng"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Sorang Sompeng"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/todhri.htm",
+    "base_path": "/writing/todhri.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Todhri"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Todhri"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/tolongsiki.htm",
+    "base_path": "/writing/tolongsiki.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Tolong Siki"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Tolong Siki"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/varangkshiti.htm",
+    "base_path": "/writing/varangkshiti.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Warang Citi"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Varang Kshiti"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/yi.htm",
+    "base_path": "/writing/yi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Yi"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Yi"
+      }
+    ]
+  }
+]

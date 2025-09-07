@@ -1,0 +1,302 @@
+[
+  {
+    "absolute_url_path": "/writing/baybayin.htm",
+    "base_path": "/writing/baybayin.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Baybayin"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Baybayin_for_3_languages"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/cuneiform.htm",
+    "base_path": "/writing/cuneiform.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Cuneiform"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Cuneiform scripts_for_6_languages"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/cyrillic.htm",
+    "base_path": "/writing/cyrillic.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Cyrillic_for_143_languages"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/devanagari.htm",
+    "base_path": "/writing/devanagari.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Devanagari_for_100_languages"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kaithi.htm",
+    "base_path": "/writing/kaithi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Kaithi"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kaithi_for_1_languages"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kawi.htm",
+    "base_path": "/writing/kawi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Kawi"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kawi_for_0_languages"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/khojki.htm",
+    "base_path": "/writing/khojki.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Khojki"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Khojki_for_0_languages"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/latin.htm",
+    "base_path": "/writing/latin.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Latin"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Latin / Roman_for_1774_languages"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/lontara.htm",
+    "base_path": "/writing/lontara.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Lontara/Makasar"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Lontara_for_3_languages"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/mkhedruli.htm",
+    "base_path": "/writing/mkhedruli.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Georgian (Mkhedruli)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Georgian (Mkhedruli)_for_6_languages"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/mwangwego.htm",
+    "base_path": "/writing/mwangwego.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Mwangwego"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Mwangwego_for_0_languages"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/nko.htm",
+    "base_path": "/writing/nko.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "N'Ko"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "N'ko_for_2_languages"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/ogham.htm",
+    "base_path": "/writing/ogham.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Ogham"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Ogham_for_3_languages"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/phagspa.htm",
+    "base_path": "/writing/phagspa.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Phags-pa"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Phags-pa_for_4_languages"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/pollardmiao.htm",
+    "base_path": "/writing/pollardmiao.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Pollard script"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Pollard_for_3_languages"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/sharda.htm",
+    "base_path": "/writing/sharda.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Sharda"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Sharda_for_2_languages"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/soyombo.htm",
+    "base_path": "/writing/soyombo.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Soyombo"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Soyombo_for_3_languages"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/taiviet.htm",
+    "base_path": "/writing/taiviet.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Tai Viet"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Tai Viet_for_3_languages"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/takri.htm",
+    "base_path": "/writing/takri.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Takri"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Takri_for_8_languages"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/ucas.htm",
+    "base_path": "/writing/ucas.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Canadian Aboriginal Syllabics"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Canadian Aboriginal Syllabics_for_13_languages"
+      }
+    ]
+  }
+]

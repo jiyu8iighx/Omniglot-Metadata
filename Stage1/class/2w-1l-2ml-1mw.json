@@ -1,0 +1,37 @@
+[
+  {
+    "absolute_url_path": "/writing/korean.htm",
+    "base_path": "/writing/korean.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Korean"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Hangeul (Korean)"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Korean (Hangeul)"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Korean (Hangeul)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Korean (hanja)_using_Chinese"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Hangeul_for_3_languages"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Korean_using_Hangeul"
+      }
+    ]
+  }
+]

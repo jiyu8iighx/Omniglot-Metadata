@@ -1,0 +1,233 @@
+[
+  {
+    "absolute_url_path": "/writing/arwi.htm",
+    "base_path": "/writing/arwi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "langalphMap.json",
+        "label": "Arwi_using_Arabic"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/beary.htm",
+    "base_path": "/writing/beary.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "langalphMap.json",
+        "label": "Beary_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/bukhori.htm",
+    "base_path": "/writing/bukhori.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "langalphMap.json",
+        "label": "Bukhori_using_Hebrew"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/centraltagbanwa.htm",
+    "base_path": "/writing/centraltagbanwa.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "langalphMap.json",
+        "label": "Central Tagbanwa_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/elamite.htm",
+    "base_path": "/writing/elamite.htm",
+    "fragment": "cuneiform",
+    "sources": [
+      {
+        "source": "langalphMap.json",
+        "label": "Elamite_using_Cuneiform scripts"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/gen.htm",
+    "base_path": "/writing/gen.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "langalphMap.json",
+        "label": "Gen_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/lowertanana.htm",
+    "base_path": "/writing/lowertanana.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "langalphMap.json",
+        "label": "Lower Tanana_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/luang.htm",
+    "base_path": "/writing/luang.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "langalphMap.json",
+        "label": "Luang_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/maidu.htm",
+    "base_path": "/writing/maidu.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "langalphMap.json",
+        "label": "Northwest Maidu / Konkow_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/mari.htm",
+    "base_path": "/writing/mari.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "langalphMap.json",
+        "label": "Mari_using_Cyrillic"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/mbugu.php",
+    "base_path": "/writing/mbugu.php",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "langalphMap.json",
+        "label": "Mbugu_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/nusu.htm",
+    "base_path": "/writing/nusu.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "langalphMap.json",
+        "label": "Nusu_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/pali.htm",
+    "base_path": "/writing/pali.htm",
+    "fragment": "burmese",
+    "sources": [
+      {
+        "source": "langalphMap.json",
+        "label": "Pali_using_Burmese / Myanmar"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/pali.htm",
+    "base_path": "/writing/pali.htm",
+    "fragment": "dev",
+    "sources": [
+      {
+        "source": "langalphMap.json",
+        "label": "Pali_using_Devanagari"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/pali.htm",
+    "base_path": "/writing/pali.htm",
+    "fragment": "lao",
+    "sources": [
+      {
+        "source": "langalphMap.json",
+        "label": "Pali_using_Lao"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/pali.htm",
+    "base_path": "/writing/pali.htm",
+    "fragment": "thai",
+    "sources": [
+      {
+        "source": "langalphMap.json",
+        "label": "Pali_using_Thai"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/sorbian.htm",
+    "base_path": "/writing/sorbian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "langalphMap.json",
+        "label": "Sorbian_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/sylheti.htm",
+    "base_path": "/writing/sylheti.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "langalphMap.json",
+        "label": "Sylheti_using_Devanagari"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/tsuutina.htm",
+    "base_path": "/writing/tsuutina.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "langalphMap.json",
+        "label": "Tsuut'ina (Sarcee)_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/tuareg.htm",
+    "base_path": "/writing/tuareg.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "langalphMap.json",
+        "label": "Tuareg_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/yelmel.htm",
+    "base_path": "/writing/yelmel.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "langalphMap.json",
+        "label": "Yelmek_using_Latin / Roman"
+      }
+    ]
+  }
+]

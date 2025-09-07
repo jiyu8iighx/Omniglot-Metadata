@@ -1,0 +1,78 @@
+[
+  {
+    "absolute_url_path": "/chinese/index.htm",
+    "base_path": "/chinese/index.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Chinese"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Chinese_for_5_languages"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Chinese (hanzi)_using_Chinese"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/fraser.htm",
+    "base_path": "/writing/fraser.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Fraser"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Fraser_for_2_languages"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Lisu_using_Pollard"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/runic.htm",
+    "base_path": "/writing/runic.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Runic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Runic_for_1_languages"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Germanic languages & Latin_using_Runic"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/tifinagh.htm",
+    "base_path": "/writing/tifinagh.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Tifinagh"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Tifinagh_for_7_languages"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Tamazight_using_Tifinagh"
+      }
+    ]
+  }
+]

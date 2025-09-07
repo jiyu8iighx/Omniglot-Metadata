@@ -1,0 +1,690 @@
+[
+  {
+    "absolute_url_path": "/writing/ahom.htm",
+    "base_path": "/writing/ahom.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Ahom"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Ahom"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Ahom"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/buhid.htm",
+    "base_path": "/writing/buhid.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Buhid"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Buhid"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Buhid"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/carian.php",
+    "base_path": "/writing/carian.php",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Carian"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Carian"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Carian"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/caucasianalbanian.htm",
+    "base_path": "/writing/caucasianalbanian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Caucasian Albanian (Old Udi)"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Caucasian Albanian"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Caucasian Albanian"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/celtiberian.htm",
+    "base_path": "/writing/celtiberian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Celtiberian"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Celtiberian"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Celtiberian"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/chakma.htm",
+    "base_path": "/writing/chakma.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Chakma"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Chakma"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Chakma"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/cham.htm",
+    "base_path": "/writing/cham.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Cham"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Cham"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Cham"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/cherokee.htm",
+    "base_path": "/writing/cherokee.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Cherokee"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Cherokee"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Cherokee"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/elamite.htm",
+    "base_path": "/writing/elamite.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Elamite"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Elamite"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Elamite"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/etruscan.htm",
+    "base_path": "/writing/etruscan.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Etruscan"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Etruscan"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Etruscan"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/gothic.htm",
+    "base_path": "/writing/gothic.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Gothic"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Gothic"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Gothic"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/hanunoo.htm",
+    "base_path": "/writing/hanunoo.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Hanuno'o"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Hanuno'o"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Hanunó'o"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/jurchen.htm",
+    "base_path": "/writing/jurchen.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Jurchen"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Jurchen"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Jurchen"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/khitan.htm",
+    "base_path": "/writing/khitan.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Khitan"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Khitan"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Khitan"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kpelle.htm",
+    "base_path": "/writing/kpelle.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Kpelle"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Kpelle"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Kpelle"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/lanna.htm",
+    "base_path": "/writing/lanna.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Lanna"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Lanna"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Lanna"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/lepcha.htm",
+    "base_path": "/writing/lepcha.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Lepcha"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Lepcha"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Lepcha"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/luwian.htm",
+    "base_path": "/writing/luwian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Luwian"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Luwian"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Luwian"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/lycian.php",
+    "base_path": "/writing/lycian.php",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Lycian"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Lycian"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Lycian"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/mandaic.htm",
+    "base_path": "/writing/mandaic.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Mandaic"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Mandaic"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Mandaic"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/mende.htm",
+    "base_path": "/writing/mende.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Mende"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Mende"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Mende"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/meroitic.htm",
+    "base_path": "/writing/meroitic.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Meroïtic"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Meroïtic"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Meroïtic"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/mon.htm",
+    "base_path": "/writing/mon.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Mon"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Mon"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Mon"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/nabataean.htm",
+    "base_path": "/writing/nabataean.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Nabataean"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Nabataean"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Nabataean"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/nushu.htm",
+    "base_path": "/writing/nushu.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Nushu"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Nüshu"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Nüshu"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/orkhon.htm",
+    "base_path": "/writing/orkhon.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Old Turkic / Orkhon"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Old Turkic (Orkhon / Yenisei)"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Yenisei (Old Turkic)"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Orkhon / Old Turkic"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/parthian.htm",
+    "base_path": "/writing/parthian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Parthian"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Parthian"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Parthian"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/phoenician.htm",
+    "base_path": "/writing/phoenician.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Phoenician"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Phoenician"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Phoenician"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/protosinaitc.htm",
+    "base_path": "/writing/protosinaitc.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Canaanite"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Proto-Sinaitic / Proto-Canaanite"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Proto-Sinaitic / Proto-Canaanite"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/sabaean.htm",
+    "base_path": "/writing/sabaean.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Sabaean"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Sabaean"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Sabaean"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/samaritan.htm",
+    "base_path": "/writing/samaritan.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Samaritan (Aramaic / Hebrew)"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Samaritan"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Samaritan"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/saurashtra.htm",
+    "base_path": "/writing/saurashtra.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Saurashtra"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Saurashtra"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Saurashtra"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/shan.htm",
+    "base_path": "/writing/shan.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Shan"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Shan"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Shan"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/sinhala.htm",
+    "base_path": "/writing/sinhala.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Sinhala"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Sinhala"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Sinhala"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/tagbanwa.htm",
+    "base_path": "/writing/tagbanwa.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Tagbanwa (Central)"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Tagbanwa"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Tagbanwa"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/tocharian.htm",
+    "base_path": "/writing/tocharian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Tocharian"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Tocharian"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Tocharian"
+      }
+    ]
+  }
+]

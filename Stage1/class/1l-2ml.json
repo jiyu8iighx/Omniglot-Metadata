@@ -1,0 +1,3830 @@
+[
+  {
+    "absolute_url_path": "/writing/aari.htm",
+    "base_path": "/writing/aari.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Aari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Aari_using_Ge'ez (Ethiopic)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Aari_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/abaza.htm",
+    "base_path": "/writing/abaza.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Abaza"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Abaza_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Abaza_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/abkhaz.htm",
+    "base_path": "/writing/abkhaz.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Abkhaz"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Abkhaz_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Abkhaz_using_Georgian (Mkhedruli)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Abkhaz_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/adamaua.htm",
+    "base_path": "/writing/adamaua.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Adamaua Fulfulde"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Adamaua Fulfulde_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Adamaua Fulfulde_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/afrikaans.htm",
+    "base_path": "/writing/afrikaans.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Afrikaans"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Afrikaans_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Afrikaans_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/ahmao.htm",
+    "base_path": "/writing/ahmao.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "A-Hmao"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "A-Hmao_using_Latin / Roman"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "A-Hmao_using_Pollard"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/ainu.htm",
+    "base_path": "/writing/ainu.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Ainu"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Ainu_using_Japanese scripts"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Ainu_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/akha.htm",
+    "base_path": "/writing/akha.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Akha"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Akha_using_Burmese / Myanmar"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Akha_using_Latin / Roman"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Akha_using_Thai"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/albanian.htm",
+    "base_path": "/writing/albanian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Albanian"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Albanian_using_Greek"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Albanian_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/aleut.htm",
+    "base_path": "/writing/aleut.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Aleut"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Aleut_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Aleut_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/altay.htm",
+    "base_path": "/writing/altay.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Altay"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Altay_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Altay_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/aromanian.htm",
+    "base_path": "/writing/aromanian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Aromanian"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Aromanian_using_Greek"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Aromanian_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/arvanitic.php",
+    "base_path": "/writing/arvanitic.php",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Arvanitic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Arvanitic_using_Greek"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Arvanitic_using_Greek"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Arvanitic_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/assyrianneoaramaic.htm",
+    "base_path": "/writing/assyrianneoaramaic.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Assyrian / Neo-Assyrian"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Assyrian / Neo-Assyrian_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Assyrian / Neo-Assyrian_using_Syriac"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/atong.htm",
+    "base_path": "/writing/atong.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Atong"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Atong_using_Eastern Nagari(Bengali /Eastern Neo-Brahmic)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Atong_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/azeri.htm",
+    "base_path": "/writing/azeri.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Azerbaijani"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Azeri_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Azeri_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Azeri_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/balantaganja.htm",
+    "base_path": "/writing/balantaganja.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Balanta-Ganja"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Balanta-Ganja_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Balanta-Ganja_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/balkar.htm",
+    "base_path": "/writing/balkar.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Karachay-Balkar"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Karachay-Balkar_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Balkar_using_Cyrillic"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/balti.htm",
+    "base_path": "/writing/balti.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Balti"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Balti_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Balti_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Balti_using_Tibetan"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/bambara.htm",
+    "base_path": "/writing/bambara.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Bambara"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Bambara_using_Latin / Roman"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Bambara_using_N'ko"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/bashkir.htm",
+    "base_path": "/writing/bashkir.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Bashkir"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Bashkir_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Bashkir_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/beaver.htm",
+    "base_path": "/writing/beaver.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Dane-zaa (Beaver)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Beaver_using_Latin / Roman"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Dane-zaa (Beaver)_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/belarusian.htm",
+    "base_path": "/writing/belarusian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Belarusian"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Belarusian_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Belarusian_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Belarusian_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/belhare.htm",
+    "base_path": "/writing/belhare.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Belhare"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Belhare_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Belhare_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/bench.htm",
+    "base_path": "/writing/bench.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Bench"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Bench_using_Ge'ez (Ethiopic)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Bench_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/bhili.htm",
+    "base_path": "/writing/bhili.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Bhili"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Bhili_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Bhili_using_Gujarati"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/bhojpuri.htm",
+    "base_path": "/writing/bhojpuri.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Bhojpuri"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Bhojpuri_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Bhojpuri_using_Kaithi"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/bhumij.htm",
+    "base_path": "/writing/bhumij.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Bhumij"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Bhumij_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Bhumij_using_Eastern Nagari(Bengali /Eastern Neo-Brahmic)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Bhumij_using_Odia (Oriya)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/bilaspuri.htm",
+    "base_path": "/writing/bilaspuri.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Bilaspuri"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Bilaspuri_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Bilaspuri_using_Takri"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/blin.htm",
+    "base_path": "/writing/blin.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Blin"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Blin_using_Ge'ez (Ethiopic)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Blin_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/bodo.htm",
+    "base_path": "/writing/bodo.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Bodo"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Bodo_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Bodo_using_Eastern Nagari(Bengali /Eastern Neo-Brahmic)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Bodo_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/bokar.htm",
+    "base_path": "/writing/bokar.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Bokar"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Bokar_using_Latin / Roman"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Bokar_using_Tibetan"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/bosnian.htm",
+    "base_path": "/writing/bosnian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Bosnian"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Bosnian_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Bosnian_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Bosnian_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/brahui.htm",
+    "base_path": "/writing/brahui.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Brahui"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Brahui_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Brahui_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/bugis.htm",
+    "base_path": "/writing/bugis.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Bugis"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Bugis_using_Latin / Roman"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Bugis_using_Lontara"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/buryat.htm",
+    "base_path": "/writing/buryat.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Buryat"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Buryat_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Buryat_using_Mongolian"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/car.htm",
+    "base_path": "/writing/car.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Car"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Car_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Car_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/chambeali.htm",
+    "base_path": "/writing/chambeali.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Chambeali"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Chambeali_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Chambeali_using_Takri"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/chechen.htm",
+    "base_path": "/writing/chechen.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Chechen"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Chechen_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Chechen_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Chechen_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/chhattisgarhi.htm",
+    "base_path": "/writing/chhattisgarhi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Chhattisgarhi"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Chhattisgarhi_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Chhattisgarhi_using_Odia (Oriya)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/chipewyan.htm",
+    "base_path": "/writing/chipewyan.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Chipewyan"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Chipewyan_using_Canadian Aboriginal Syllabics"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Chipewyan_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/chittagonian.htm",
+    "base_path": "/writing/chittagonian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Chittagonian"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Chittagonian_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Chittagonian_using_Eastern Nagari(Bengali /Eastern Neo-Brahmic)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Chittagonian_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/comorian.htm",
+    "base_path": "/writing/comorian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Comorian"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Comorian_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Comorian_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/crimeantatar.php",
+    "base_path": "/writing/crimeantatar.php",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Crimean Tatar"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Crimean Tatar_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Crimean Tatar_using_Cyrillic"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/cypriotarabic.htm",
+    "base_path": "/writing/cypriotarabic.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Arabic (Cypriot)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Cypriot Arabic_using_Greek"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Cypriot Arabic_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/dargwa.htm",
+    "base_path": "/writing/dargwa.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Dargwa"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Dargwa_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Dargwa_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Dargwa_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/daur.htm",
+    "base_path": "/writing/daur.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Daur"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Daur_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Daur_using_Latin / Roman"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Daur_using_Manchu"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/dhatki.htm",
+    "base_path": "/writing/dhatki.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Dhatki"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Dhatki_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Dhatki_using_Devanagari"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/digaro.htm",
+    "base_path": "/writing/digaro.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Digaro Mishmi"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Digaro Mishmi_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Digaro Mishmi_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/dioula.htm",
+    "base_path": "/writing/dioula.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Dioula"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Dioula_using_Latin / Roman"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Dioula_using_N'ko"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/dogri.htm",
+    "base_path": "/writing/dogri.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Dogri"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Dogri_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Dogri_using_Devanagari"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/domari.htm",
+    "base_path": "/writing/domari.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Domari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Domari_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Domari_using_Hebrew"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Domari_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/evenki.htm",
+    "base_path": "/writing/evenki.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Evenki"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Evenki_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Evenki_using_Mongolian"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/gaddi.htm",
+    "base_path": "/writing/gaddi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Gaddi"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Gaddi_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Gaddi_using_Takri"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/gagauz.htm",
+    "base_path": "/writing/gagauz.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Gagauz"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Gagauz_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Gagauz_using_Greek"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Gagauz_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/garo.htm",
+    "base_path": "/writing/garo.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Garo"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Garo_using_Eastern Nagari(Bengali /Eastern Neo-Brahmic)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Garo_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/griko.htm",
+    "base_path": "/writing/griko.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Griko"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Griko_using_Greek"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Griko_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/gumuz.htm",
+    "base_path": "/writing/gumuz.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Gumuz"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Gumuz_using_Ge'ez (Ethiopic)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Gumuz_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/halbi.htm",
+    "base_path": "/writing/halbi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Halbi"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Halbi_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Halbi_using_Odia (Oriya)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/hamer.htm",
+    "base_path": "/writing/hamer.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Hamer(-Banna)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Hamer(-Banna)_using_Ge'ez (Ethiopic)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Hamer(-Banna)_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/hausa.htm",
+    "base_path": "/writing/hausa.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Hausa"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Hausa_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Hausa_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/hillmiri.htm",
+    "base_path": "/writing/hillmiri.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Hill Miri"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Hill Miri_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Hill Miri_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/ho.htm",
+    "base_path": "/writing/ho.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Ho"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Ho_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Ho_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/ilocano.htm",
+    "base_path": "/writing/ilocano.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Ilocano"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Iloko (Ilocano)_using_Baybayin"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Ilocano_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/ingush.htm",
+    "base_path": "/writing/ingush.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Ingush"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Ingush_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Ingush_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/interslavic.htm",
+    "base_path": "/writing/interslavic.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Interslavic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Interslavic_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Interslavic_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/inuinnaqtun.htm",
+    "base_path": "/writing/inuinnaqtun.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Inuinnaqtun"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Inuinnaqtun_using_Canadian Aboriginal Syllabics"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Inuinnaqtun_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/irish.htm",
+    "base_path": "/writing/irish.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Irish"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Irish_using_Latin / Roman"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Irish_using_Ogham"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/jarawa.htm",
+    "base_path": "/writing/jarawa.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Jarawa"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Jarawa_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Jarawa_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/jirel.htm",
+    "base_path": "/writing/jirel.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Jirel"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Jirel_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Jirel_using_Tibetan"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/juhuri.htm",
+    "base_path": "/writing/juhuri.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Juhuri"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Juhuri_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Juhuri_using_Hebrew"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Juhuri_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kabyle.php",
+    "base_path": "/writing/kabyle.php",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Kabyle"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kabyle_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kabyle_using_Latin / Roman"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kabyle_using_Tifinagh"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kagate.htm",
+    "base_path": "/writing/kagate.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Kagate"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kagate_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kagate_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kalderash.htm",
+    "base_path": "/writing/kalderash.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Kalderash Romani"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kalderash Romani_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kalderash Romani_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kapampangan.php",
+    "base_path": "/writing/kapampangan.php",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Kapampangan"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kapampangan_using_Baybayin"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kapampangan_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/karaim.htm",
+    "base_path": "/writing/karaim.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Karaim"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Karaim_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Karaim_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/karakalpak.php",
+    "base_path": "/writing/karakalpak.php",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Karakalpak"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Karakalpak_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Karakalpak_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Karakalpak_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/karbi.htm",
+    "base_path": "/writing/karbi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Karbi"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Karbi_using_Eastern Nagari(Bengali /Eastern Neo-Brahmic)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Karbi_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/karelian.htm",
+    "base_path": "/writing/karelian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Karelian"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Karelian_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Karelian_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/karen.htm",
+    "base_path": "/writing/karen.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Karen (S'gaw)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "S'gaw Karen_using_Burmese / Myanmar"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Karen (S'gaw)_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kashmiri.htm",
+    "base_path": "/writing/kashmiri.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Kashmiri"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kashmiri_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kashmiri_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kashmiri_using_Sharda"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/katu.htm",
+    "base_path": "/writing/katu.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Katu"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Katu_using_Lao"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Katu_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kazakh.htm",
+    "base_path": "/writing/kazakh.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Kazakh"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kazakh_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kazakh_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kazakh_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/ket.htm",
+    "base_path": "/writing/ket.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Ket"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Ket_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Ket_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/khakas.htm",
+    "base_path": "/writing/khakas.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Khakas"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Khakas_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Khakas_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kharia.htm",
+    "base_path": "/writing/kharia.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Kharia"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kharia_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kharia_using_Eastern Nagari(Bengali /Eastern Neo-Brahmic)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kharia_using_Odia (Oriya)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/khasi.htm",
+    "base_path": "/writing/khasi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Khasi"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Khasi_using_Eastern Nagari(Bengali /Eastern Neo-Brahmic)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Khasi_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/khinalug.htm",
+    "base_path": "/writing/khinalug.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Khinalug"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Khinalug_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Khinalug_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/khorasaniturkic.htm",
+    "base_path": "/writing/khorasaniturkic.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Khorasani Turkic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Khorasani Turkic_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Khorasani Turkic_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Khorasani Turkic_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kirghiz.htm",
+    "base_path": "/writing/kirghiz.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Kyrgyz"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kyrgyz_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kyrgyz_using_Cyrillic"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/koch.htm",
+    "base_path": "/writing/koch.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Koch"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Koch_using_Eastern Nagari(Bengali /Eastern Neo-Brahmic)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Koch_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kodava.htm",
+    "base_path": "/writing/kodava.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Kodava"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kodava_using_Kannada"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kodava_using_Malayalam"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kokborok.htm",
+    "base_path": "/writing/kokborok.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Kokborok"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kokborok_using_Eastern Nagari(Bengali /Eastern Neo-Brahmic)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kokborok_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/komi.htm",
+    "base_path": "/writing/komi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Komi"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Komi_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Komi_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/komo.htm",
+    "base_path": "/writing/komo.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Komo (Nilo-Saharan)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Komo (Nilo-Saharan)_using_Latin / Roman"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Komo_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/konkani.htm",
+    "base_path": "/writing/konkani.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Konkani"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Konkani_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Konkani_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Konkani_using_Kannada"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Konkani_using_Malayalam"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/koryak.htm",
+    "base_path": "/writing/koryak.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Koryak"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Koryak_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Koryak_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/krymchak.htm",
+    "base_path": "/writing/krymchak.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Krymchak"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Krymchak_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Krymchak_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kullui.htm",
+    "base_path": "/writing/kullui.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Kullui"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kullui_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kullui_using_Takri"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kumandy.htm",
+    "base_path": "/writing/kumandy.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Kumandy"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kumandy_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kumandy_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kumyk.php",
+    "base_path": "/writing/kumyk.php",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Kumyk"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kumyk_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kumyk_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kurdish.htm",
+    "base_path": "/writing/kurdish.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Kurdish"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kurdish_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kurdish_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kurdish_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kurmali.htm",
+    "base_path": "/writing/kurmali.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Kurmali"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kurmali_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kurmali_using_Eastern Nagari(Bengali /Eastern Neo-Brahmic)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kurmali_using_Odia (Oriya)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kuy.htm",
+    "base_path": "/writing/kuy.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Kuy"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kuy_using_Lao"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kuy_using_Thai"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/lambadi.htm",
+    "base_path": "/writing/lambadi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Lambadi"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Lambadi_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Lambadi_using_Kannada"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Lambadi_using_Telugu"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/latin2.htm",
+    "base_path": "/writing/latin2.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Latin"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Latin_using_Latin / Roman"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Latin_using_Ogham"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/lezgi.htm",
+    "base_path": "/writing/lezgi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Lezgi"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Lezgi_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Lezgi_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Lezgi_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/lfn.htm",
+    "base_path": "/writing/lfn.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Lingua Franca Nova"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Lingua Franca Nova_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Lingua Franca Nova_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/lithuanian.htm",
+    "base_path": "/writing/lithuanian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Lithuanian"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Lithuanian_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Lithuanian_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/lop.htm",
+    "base_path": "/writing/lop.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Lop"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Lop_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Lop_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/ludic.htm",
+    "base_path": "/writing/ludic.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Ludic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Ludic_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Ludic_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/maba.htm",
+    "base_path": "/writing/maba.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Maba"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Maba_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Maba_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/madurese.htm",
+    "base_path": "/writing/madurese.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Madurese"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Madurese_using_Javanese"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Madurese_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/maguindanao.htm",
+    "base_path": "/writing/maguindanao.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Maguindanao"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Maguindanao_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Maguindanao_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/makassarese.htm",
+    "base_path": "/writing/makassarese.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Makasarese"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Makasarese_using_Latin / Roman"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Makasarese_using_Lontara"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/malay.htm",
+    "base_path": "/writing/malay.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Malay"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Malay_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Malay_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/malto.htm",
+    "base_path": "/writing/malto.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Malto"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Malto_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Malto_using_Eastern Nagari(Bengali /Eastern Neo-Brahmic)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Malto_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/mandar.htm",
+    "base_path": "/writing/mandar.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Mandar"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Mandar_using_Latin / Roman"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Mandar_using_Lontara"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/mandeali.htm",
+    "base_path": "/writing/mandeali.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Mandeali"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Mandeali_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Mandeali_using_Takri"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/mandinka.htm",
+    "base_path": "/writing/mandinka.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Mandinka"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Mandinka_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Mandinka_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/marwari.htm",
+    "base_path": "/writing/marwari.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Marwari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Marwari_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Marwari_using_Devanagari"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/mnong.htm",
+    "base_path": "/writing/mnong.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Mnong"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Mnong_using_Khmer"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Mnong_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/montenegrin.htm",
+    "base_path": "/writing/montenegrin.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Montenegrin"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Montenegrin_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Montenegrin_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/moosecree.htm",
+    "base_path": "/writing/moosecree.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Cree (Moose)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Cree (Moose)_using_Canadian Aboriginal Syllabics"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Cree (Moose)_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/mozarabic.htm",
+    "base_path": "/writing/mozarabic.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Mozarabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Mozarabic_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Mozarabic_using_Hebrew"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Mozarabic_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/mundari.htm",
+    "base_path": "/writing/mundari.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Mundari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Mundari_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Mundari_using_Eastern Nagari(Bengali /Eastern Neo-Brahmic)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Mundari_using_Latin / Roman"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Mundari_using_Odia (Oriya)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/nancowry.htm",
+    "base_path": "/writing/nancowry.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Nancowry"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Nancowry_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Nancowry_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/nenets.htm",
+    "base_path": "/writing/nenets.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Nenets"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Nenets_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Nenets_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/nishi.htm",
+    "base_path": "/writing/nishi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Nishi"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Nishi_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Nishi_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/noakhailla.htm",
+    "base_path": "/writing/noakhailla.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Noakhailla"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Noakhailla_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Noakhailla_using_Eastern Nagari(Bengali /Eastern Neo-Brahmic)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Noakhailla_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/nogai.htm",
+    "base_path": "/writing/nogai.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Nogai"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Nogai_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Nogai_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/okinawan.php",
+    "base_path": "/writing/okinawan.php",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Okinawan"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Okinawan_using_Japanese scripts"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Okinawan_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/onge.htm",
+    "base_path": "/writing/onge.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Onge"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Onge_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Onge_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/ossetian.htm",
+    "base_path": "/writing/ossetian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Ossetian"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Ossetian_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Ossetian_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/pangwali.htm",
+    "base_path": "/writing/pangwali.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Pangwali"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Pangwali_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Pangwali_using_Takri"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/plainscree.htm",
+    "base_path": "/writing/plainscree.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Cree (Plains)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Cree (Plains)_using_Canadian Aboriginal Syllabics"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Cree (Plains)_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/pontic.htm",
+    "base_path": "/writing/pontic.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Pontic Greek"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Pontic Greek_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Pontic Greek_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/rajasthani.htm",
+    "base_path": "/writing/rajasthani.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Rajasthani"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Rajasthani_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Rajasthani_using_Devanagari"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/rangpuri.htm",
+    "base_path": "/writing/rangpuri.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Rangpuri"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Rangpuri_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Rangpuri_using_Eastern Nagari(Bengali /Eastern Neo-Brahmic)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/riffian.htm",
+    "base_path": "/writing/riffian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Riffian"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Riffian_using_Latin / Roman"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Riffian_using_Tifinagh"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/rohingya.htm",
+    "base_path": "/writing/rohingya.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Rohingya"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Rohingya_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Rohingya_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/romanian.htm",
+    "base_path": "/writing/romanian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Romanian"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Romanian_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Romanian_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/rushani.htm",
+    "base_path": "/writing/rushani.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Rushani"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Rushani_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Rushani_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/sadri.htm",
+    "base_path": "/writing/sadri.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Sadri"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Sadri_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Sadri_using_Eastern Nagari(Bengali /Eastern Neo-Brahmic)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Sadri_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/salar.htm",
+    "base_path": "/writing/salar.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Salar"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Salar_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Salar_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/sanskrit.htm",
+    "base_path": "/writing/sanskrit.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Sanskrit"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Sanskrit_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Sanskrit_using_Gurmukhi"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Sanskrit_using_Phags-pa"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Sanskrit_using_Sharda"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Sanskrit_using_Soyombo"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/saraiki.htm",
+    "base_path": "/writing/saraiki.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Saraiki"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Saraiki_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Saraiki_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Saraiki_using_Gurmukhi"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/serbian.htm",
+    "base_path": "/writing/serbian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Serbian"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Serbian_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Serbian_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/serer.htm",
+    "base_path": "/writing/serer.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Serer"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Serer_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Serer_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/sherpa.htm",
+    "base_path": "/writing/sherpa.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Sherpa"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Sherpa_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Sherpa_using_Tibetan"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/shilha.htm",
+    "base_path": "/writing/shilha.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Shilha (Tashelhit)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Shilha (Tashelhit)_using_Latin / Roman"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Shilha (Tashelhit)_using_Tifinagh"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/shina.htm",
+    "base_path": "/writing/shina.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Shina"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Shina_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Shina_using_Devanagari"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/shughni.htm",
+    "base_path": "/writing/shughni.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Shughni"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Shughni_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Shughni_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Shughni_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/siberiantatar.htm",
+    "base_path": "/writing/siberiantatar.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Siberian Tatar"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Siberian Tatar_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Siberian Tatar_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/sidama.htm",
+    "base_path": "/writing/sidama.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Sidama"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Sidama_using_Ge'ez (Ethiopic)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Sidama_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/slovio.htm",
+    "base_path": "/writing/slovio.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Slovio"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Slovio_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Slovio_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/somali.htm",
+    "base_path": "/writing/somali.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Somali"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Somali_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Somali_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/soninke.htm",
+    "base_path": "/writing/soninke.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Soninke"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Soninke_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Soninke_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/swampycree.htm",
+    "base_path": "/writing/swampycree.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Cree (Swampy)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Cree (Swampy)_using_Canadian Aboriginal Syllabics"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Cree (Swampy)_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/tagalog.htm",
+    "base_path": "/writing/tagalog.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Tagalog"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Tagalog_using_Baybayin"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Tagalog_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/taidon.htm",
+    "base_path": "/writing/taidon.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Tai Dón"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Tai Dón_using_Latin / Roman"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Tai Dón_using_Tai Viet"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/taiyo.htm",
+    "base_path": "/writing/taiyo.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Tai Yo"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Tai Yo_using_Latin / Roman"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Tai Yo_using_Thai"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/talysh.htm",
+    "base_path": "/writing/talysh.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Talysh"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Talysh_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Talysh_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/tamang.htm",
+    "base_path": "/writing/tamang.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Tamang"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Tamang_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Tamang_using_Tibetan"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/tamasheq.htm",
+    "base_path": "/writing/tamasheq.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Tamasheq"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Tamasheq_using_Latin / Roman"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Tamasheq_using_Tifinagh"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/tatar.htm",
+    "base_path": "/writing/tatar.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Tatar"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Tatar_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Tatar_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Tatar_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/tausug.htm",
+    "base_path": "/writing/tausug.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Tausūg"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Tausūg_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Tausūg_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/tawallammattamajaq.htm",
+    "base_path": "/writing/tawallammattamajaq.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Tawallammat Tamajaq"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Tawallammat Tamajaq_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Tawallammat Tamajaq_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/tayarttamajeq.htm",
+    "base_path": "/writing/tayarttamajeq.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Tayart Tamajeq"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Tayart Tamajeq_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Tayart Tamajeq_using_Latin / Roman"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Tayart Tamajeq_using_Tifinagh"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/terengganumalay.htm",
+    "base_path": "/writing/terengganumalay.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Malay (Terengganu)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Malay (Terengganu)_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Malay (Terengganu)_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/ternate.htm",
+    "base_path": "/writing/ternate.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Ternate"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Ternate_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Ternate_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/tersami.htm",
+    "base_path": "/writing/tersami.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Sámi (Ter)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Ter Sámi_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Ter Sámi_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/thaisong.htm",
+    "base_path": "/writing/thaisong.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Thai Song"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Thai Song_using_Tai Viet"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Thai Song_using_Thai"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/turkish.htm",
+    "base_path": "/writing/turkish.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Turkish"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Turkish_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Turkish_using_Greek"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Turkish_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/turkmen.htm",
+    "base_path": "/writing/turkmen.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Turkmen"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Turkmen_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Turkmen_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/turoyo.htm",
+    "base_path": "/writing/turoyo.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Turoyo"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Turoyo_using_Latin / Roman"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Turoyo_using_Syriac"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/tuvan.php",
+    "base_path": "/writing/tuvan.php",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Tuvan"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Tuvan_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Tuvan_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/udege.htm",
+    "base_path": "/writing/udege.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Udege"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Udege_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Udege_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/udi.htm",
+    "base_path": "/writing/udi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Udi"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Udi_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Udi_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/uyghur.htm",
+    "base_path": "/writing/uyghur.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Uyghur"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Uyghur_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Uyghur_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Uyghur_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/uzbek.htm",
+    "base_path": "/writing/uzbek.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Uzbek"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Uzbek_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Uzbek_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Uzbek_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/veps.htm",
+    "base_path": "/writing/veps.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Veps"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Veps_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Veps_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/wakhi.php",
+    "base_path": "/writing/wakhi.php",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Wakhi"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Wakhi_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Wakhi_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Wakhi_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/wancho.htm",
+    "base_path": "/writing/wancho.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Wancho"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Wancho_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Wancho_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/welsh.htm",
+    "base_path": "/writing/welsh.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Welsh"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Welsh_using_Latin / Roman"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Welsh_using_Ogham"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/westfrisian.htm",
+    "base_path": "/writing/westfrisian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Frisian (West)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Frisian (West)_using_Latin / Roman"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "West Frisian_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/wolof.htm",
+    "base_path": "/writing/wolof.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Wolof"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Wolof_using_Arabic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Wolof_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/woodscree.htm",
+    "base_path": "/writing/woodscree.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Cree (Woods)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Cree (Woods)_using_Canadian Aboriginal Syllabics"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Cree (Woods)_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/yaghnobi.htm",
+    "base_path": "/writing/yaghnobi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Yaghnobi"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Yaghnobi_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Yaghnobi_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/yazghulami.htm",
+    "base_path": "/writing/yazghulami.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Yazghulami"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Yazghulami_using_Cyrillic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Yazghulami_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/yolmo.htm",
+    "base_path": "/writing/yolmo.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Yolmo"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Yolmo_using_Devanagari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Yolmo_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/zaiwa.htm",
+    "base_path": "/writing/zaiwa.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Zaiwa"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Zaiwa_using_Fraser"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Zaiwa_using_Latin / Roman"
+      }
+    ]
+  }
+]

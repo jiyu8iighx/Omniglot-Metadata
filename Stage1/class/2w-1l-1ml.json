@@ -1,0 +1,393 @@
+[
+  {
+    "absolute_url_path": "/writing/akkadian.htm",
+    "base_path": "/writing/akkadian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Akkadian"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Akkadian Cuneiform"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Akkadian Cuneiform"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Akkadian_using_Cuneiform scripts"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/aramaic.htm",
+    "base_path": "/writing/aramaic.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Aramaic"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Aramaic"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Aramaic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Aramaic_using_Hebrew"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/avestan.htm",
+    "base_path": "/writing/avestan.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Avestan"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Avestan"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Avestan"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Avestan_using_Devanagari"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/carrier.htm",
+    "base_path": "/writing/carrier.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Carrier"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Carrier"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Carrier"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Carrier_using_Canadian Aboriginal Syllabics"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/inuktitut.htm",
+    "base_path": "/writing/inuktitut.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Inuktitut"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Inuktitut"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Inutitut"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Inuktitut_using_Canadian Aboriginal Syllabics"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kalmyk.htm",
+    "base_path": "/writing/kalmyk.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Kalmyk"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Oirat Clear Script"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Oirat Clear Script"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kalmyk_using_Cyrillic"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/limbu.htm",
+    "base_path": "/writing/limbu.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Limbu"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Limbu"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Limbu"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Limbu_using_Devanagari"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/lydian.php",
+    "base_path": "/writing/lydian.php",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Lydian"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Lydian"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Lydian"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Lydian_using_Greek"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/naxi.htm",
+    "base_path": "/writing/naxi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Naxi"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Naxi"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Naxi"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Naxi_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/ocslavonic.htm",
+    "base_path": "/writing/ocslavonic.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Old Church Slavonic"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Old Church Slavonic"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Old Church Slavonic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Old Church Slavonic_using_Cyrillic"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/phrygian.htm",
+    "base_path": "/writing/phrygian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Phrygian"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Phrygian"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Phrygian"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Phrygia_using_Greek"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/sasak.htm",
+    "base_path": "/writing/sasak.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Sasak"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Sasak"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Sasak"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Sasak_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/sumerian.htm",
+    "base_path": "/writing/sumerian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Sumerian"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Sumerian Cuneiform"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Sumerian Cuneiform"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Sumerian_using_Cuneiform scripts"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/syloti.htm",
+    "base_path": "/writing/syloti.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Sylheti"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Syloti Nagri"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Syloti-Nagri"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Sylheti_using_Eastern Nagari(Bengali /Eastern Neo-Brahmic)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/thaana.htm",
+    "base_path": "/writing/thaana.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Maldivian (Dhivehi)"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Thaana"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Thaana"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Maldivian_using_Devanagari"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/ugaritic.htm",
+    "base_path": "/writing/ugaritic.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Ugaritic"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Ugaritic"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Ugaritic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Ugaritic_using_Cuneiform scripts"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/zhuang.htm",
+    "base_path": "/writing/zhuang.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Zhuang"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Sawndip (Old Zhuang)"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Zhuang (話僮 / Sawndip)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Zhuang_using_Latin / Roman"
+      }
+    ]
+  }
+]

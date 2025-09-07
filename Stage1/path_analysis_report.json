@@ -1,0 +1,535 @@
+{
+  "summary": {
+    "total_paths": 2498,
+    "existing_files": 2493,
+    "missing_files": 5,
+    "fragment_paths": 33,
+    "php_paths": 83
+  },
+  "source_distribution": {
+    "language.csv": 2241,
+    "langalphMap.json": 2449,
+    "writing.csv": 369,
+    "langalphSingle.csv": 130
+  },
+  "fragment_analysis": {
+    "kufa": {
+      "count": 1,
+      "examples": [
+        {
+          "path": "kanga.htm#kufa",
+          "sources": [
+            {
+              "source": "language.csv",
+              "label": "Kufa"
+            }
+          ]
+        }
+      ]
+    },
+    "hm": {
+      "count": 1,
+      "examples": [
+        {
+          "path": "mari.htm#hm",
+          "sources": [
+            {
+              "source": "language.csv",
+              "label": "Mari (Hill)"
+            }
+          ]
+        }
+      ]
+    },
+    "mm": {
+      "count": 1,
+      "examples": [
+        {
+          "path": "mari.htm#mm",
+          "sources": [
+            {
+              "source": "language.csv",
+              "label": "Mari (Meadow)"
+            }
+          ]
+        }
+      ]
+    },
+    "nwm": {
+      "count": 1,
+      "examples": [
+        {
+          "path": "mari.htm#nwm",
+          "sources": [
+            {
+              "source": "language.csv",
+              "label": "Mari (Northwestern)"
+            }
+          ]
+        }
+      ]
+    },
+    "ls": {
+      "count": 1,
+      "examples": [
+        {
+          "path": "sorbian.htm#ls",
+          "sources": [
+            {
+              "source": "language.csv",
+              "label": "Sorbian (Lower)"
+            }
+          ]
+        }
+      ]
+    },
+    "us": {
+      "count": 1,
+      "examples": [
+        {
+          "path": "sorbian.htm#us",
+          "sources": [
+            {
+              "source": "language.csv",
+              "label": "Sorbian (Upper)"
+            }
+          ]
+        }
+      ]
+    },
+    "archaic": {
+      "count": 1,
+      "examples": [
+        {
+          "path": "latin.htm#archaic",
+          "sources": [
+            {
+              "source": "writing.csv",
+              "label": "Archaic Latin"
+            }
+          ]
+        }
+      ]
+    },
+    "elder": {
+      "count": 1,
+      "examples": [
+        {
+          "path": "runic.htm#elder",
+          "sources": [
+            {
+              "source": "writing.csv",
+              "label": "Elder Futhark"
+            }
+          ]
+        }
+      ]
+    },
+    "ibalnan": {
+      "count": 1,
+      "examples": [
+        {
+          "path": "palawano.htm#ibalnan",
+          "sources": [
+            {
+              "source": "writing.csv",
+              "label": "Ibalnan"
+            }
+          ]
+        }
+      ]
+    },
+    "irishunc": {
+      "count": 1,
+      "examples": [
+        {
+          "path": "irish.htm#irishunc",
+          "sources": [
+            {
+              "source": "writing.csv",
+              "label": "Irish (Uncial)"
+            }
+          ]
+        }
+      ]
+    },
+    "kaida": {
+      "count": 1,
+      "examples": [
+        {
+          "path": "yonaguni.htm#kaida",
+          "sources": [
+            {
+              "source": "writing.csv",
+              "label": "Kaida"
+            }
+          ]
+        }
+      ]
+    },
+    "marsiliana": {
+      "count": 1,
+      "examples": [
+        {
+          "path": "olditalic.htm#marsiliana",
+          "sources": [
+            {
+              "source": "writing.csv",
+              "label": "Marsiliana"
+            },
+            {
+              "source": "langalphSingle.csv",
+              "label": "Marsiliana"
+            }
+          ]
+        }
+      ]
+    },
+    "medieval": {
+      "count": 1,
+      "examples": [
+        {
+          "path": "runic.htm#medieval",
+          "sources": [
+            {
+              "source": "writing.csv",
+              "label": "Medieval (Latinised) Futhark"
+            }
+          ]
+        }
+      ]
+    },
+    "old": {
+      "count": 1,
+      "examples": [
+        {
+          "path": "elamite.htm#old",
+          "sources": [
+            {
+              "source": "writing.csv",
+              "label": "Old Elamite"
+            }
+          ]
+        }
+      ]
+    },
+    "oe": {
+      "count": 1,
+      "examples": [
+        {
+          "path": "oldenglish.htm#oe",
+          "sources": [
+            {
+              "source": "writing.csv",
+              "label": "Old English"
+            }
+          ]
+        }
+      ]
+    },
+    "proto": {
+      "count": 1,
+      "examples": [
+        {
+          "path": "elamite.htm#proto",
+          "sources": [
+            {
+              "source": "writing.csv",
+              "label": "Proto-Elamite"
+            }
+          ]
+        }
+      ]
+    },
+    "suetterlin": {
+      "count": 1,
+      "examples": [
+        {
+          "path": "german.htm#suetterlin",
+          "sources": [
+            {
+              "source": "writing.csv",
+              "label": "Sütterlin"
+            }
+          ]
+        }
+      ]
+    },
+    "yngrfuthark": {
+      "count": 1,
+      "examples": [
+        {
+          "path": "runic.htm#yngrfuthark",
+          "sources": [
+            {
+              "source": "writing.csv",
+              "label": "Younger Futhark"
+            }
+          ]
+        }
+      ]
+    },
+    "alatin": {
+      "count": 1,
+      "examples": [
+        {
+          "path": "olditalic.htm#alatin",
+          "sources": [
+            {
+              "source": "langalphSingle.csv",
+              "label": "Ancient Latin"
+            }
+          ]
+        }
+      ]
+    },
+    "borama": {
+      "count": 1,
+      "examples": [
+        {
+          "path": "somali.htm#borama",
+          "sources": [
+            {
+              "source": "langalphSingle.csv",
+              "label": "Borama"
+            }
+          ]
+        }
+      ]
+    },
+    "faliscan": {
+      "count": 1,
+      "examples": [
+        {
+          "path": "olditalic.htm#faliscan",
+          "sources": [
+            {
+              "source": "langalphSingle.csv",
+              "label": "Faliscan"
+            }
+          ]
+        }
+      ]
+    },
+    "messapic": {
+      "count": 1,
+      "examples": [
+        {
+          "path": "olditalic.htm#messapic",
+          "sources": [
+            {
+              "source": "langalphSingle.csv",
+              "label": "Messapic"
+            }
+          ]
+        }
+      ]
+    },
+    "spicene": {
+      "count": 1,
+      "examples": [
+        {
+          "path": "olditalic.htm#spicene",
+          "sources": [
+            {
+              "source": "langalphSingle.csv",
+              "label": "Middle Adriatic / South Picene"
+            }
+          ]
+        }
+      ]
+    },
+    "npicene": {
+      "count": 1,
+      "examples": [
+        {
+          "path": "olditalic.htm#npicene",
+          "sources": [
+            {
+              "source": "langalphSingle.csv",
+              "label": "North Picene"
+            }
+          ]
+        }
+      ]
+    },
+    "uighurvert": {
+      "count": 1,
+      "examples": [
+        {
+          "path": "uyghur.htm#uighurvert",
+          "sources": [
+            {
+              "source": "langalphSingle.csv",
+              "label": "Old Uyghur"
+            }
+          ]
+        }
+      ]
+    },
+    "oscan": {
+      "count": 1,
+      "examples": [
+        {
+          "path": "olditalic.htm#oscan",
+          "sources": [
+            {
+              "source": "langalphSingle.csv",
+              "label": "Oscan"
+            }
+          ]
+        }
+      ]
+    },
+    "osmanya": {
+      "count": 1,
+      "examples": [
+        {
+          "path": "somali.htm#osmanya",
+          "sources": [
+            {
+              "source": "langalphSingle.csv",
+              "label": "Osmanya (Somali)"
+            }
+          ]
+        }
+      ]
+    },
+    "umbrian": {
+      "count": 1,
+      "examples": [
+        {
+          "path": "olditalic.htm#umbrian",
+          "sources": [
+            {
+              "source": "langalphSingle.csv",
+              "label": "Umbrian"
+            }
+          ]
+        }
+      ]
+    },
+    "burmese": {
+      "count": 1,
+      "examples": [
+        {
+          "path": "/writing/pali.htm#burmese",
+          "sources": [
+            {
+              "source": "langalphMap.json",
+              "label": "Pali_using_Burmese / Myanmar"
+            }
+          ]
+        }
+      ]
+    },
+    "cuneiform": {
+      "count": 1,
+      "examples": [
+        {
+          "path": "/writing/elamite.htm#cuneiform",
+          "sources": [
+            {
+              "source": "langalphMap.json",
+              "label": "Elamite_using_Cuneiform scripts"
+            }
+          ]
+        }
+      ]
+    },
+    "dev": {
+      "count": 1,
+      "examples": [
+        {
+          "path": "/writing/pali.htm#dev",
+          "sources": [
+            {
+              "source": "langalphMap.json",
+              "label": "Pali_using_Devanagari"
+            }
+          ]
+        }
+      ]
+    },
+    "lao": {
+      "count": 1,
+      "examples": [
+        {
+          "path": "/writing/pali.htm#lao",
+          "sources": [
+            {
+              "source": "langalphMap.json",
+              "label": "Pali_using_Lao"
+            }
+          ]
+        }
+      ]
+    },
+    "thai": {
+      "count": 1,
+      "examples": [
+        {
+          "path": "/writing/pali.htm#thai",
+          "sources": [
+            {
+              "source": "langalphMap.json",
+              "label": "Pali_using_Thai"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "missing_files_sample": [
+    {
+      "path": "woleai.htm",
+      "base_path": "woleai.htm",
+      "sources": [
+        {
+          "source": "langalphSingle.csv",
+          "label": "Caroline Island Script"
+        }
+      ]
+    },
+    {
+      "path": "kayahli.htm",
+      "base_path": "kayahli.htm",
+      "sources": [
+        {
+          "source": "langalphSingle.csv",
+          "label": "Kayah Li"
+        }
+      ]
+    },
+    {
+      "path": "ojibwa.htm",
+      "base_path": "ojibwa.htm",
+      "sources": [
+        {
+          "source": "langalphSingle.csv",
+          "label": "Ojibwe"
+        }
+      ]
+    },
+    {
+      "path": "/writing/mbugu.php",
+      "base_path": "/writing/mbugu.php",
+      "sources": [
+        {
+          "source": "langalphMap.json",
+          "label": "Mbugu_using_Latin / Roman"
+        }
+      ]
+    },
+    {
+      "path": "/writing/yelmel.htm",
+      "base_path": "/writing/yelmel.htm",
+      "sources": [
+        {
+          "source": "langalphMap.json",
+          "label": "Yelmek_using_Latin / Roman"
+        }
+      ]
+    }
+  ]
+}

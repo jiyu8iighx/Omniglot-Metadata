@@ -1,0 +1,29 @@
+[
+  {
+    "absolute_url_path": "/writing/blackfoot.htm",
+    "base_path": "/writing/blackfoot.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Blackfoot"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Blackfoot"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Blackfoot"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Blackfoot_using_Canadian Aboriginal Syllabics"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Blackfoot_using_Latin / Roman"
+      }
+    ]
+  }
+]

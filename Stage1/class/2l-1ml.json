@@ -1,0 +1,124 @@
+[
+  {
+    "absolute_url_path": "/writing/ganda.php",
+    "base_path": "/writing/ganda.php",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Ganda"
+      },
+      {
+        "source": "language.csv",
+        "label": "Luganda"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Ganda_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kadazandusun.htm",
+    "base_path": "/writing/kadazandusun.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Dusun"
+      },
+      {
+        "source": "language.csv",
+        "label": "Kadazandusun"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kadazandusun_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/khoekhoe.htm",
+    "base_path": "/writing/khoekhoe.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Khoekhoe"
+      },
+      {
+        "source": "language.csv",
+        "label": "Nama"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Khoekohoe_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/ndebele.php",
+    "base_path": "/writing/ndebele.php",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Ndebele (Southern)"
+      },
+      {
+        "source": "language.csv",
+        "label": "Southern Ndebele"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Ndebele (Southern)_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/qeqchi.htm",
+    "base_path": "/writing/qeqchi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Kekchi"
+      },
+      {
+        "source": "language.csv",
+        "label": "Qʼeqchiʼ"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Qʼeqchiʼ_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/sahaptin.htm",
+    "base_path": "/writing/sahaptin.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Sahaptin"
+      },
+      {
+        "source": "language.csv",
+        "label": "Teino"
+      },
+      {
+        "source": "language.csv",
+        "label": "Umatilla"
+      },
+      {
+        "source": "language.csv",
+        "label": "Walla Walla"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Sahaptin_using_Latin / Roman"
+      }
+    ]
+  }
+]

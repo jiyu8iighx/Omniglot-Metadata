@@ -1,0 +1,541 @@
+[
+  {
+    "absolute_url_path": "/chinese/fuzhounese.htm",
+    "base_path": "/chinese/fuzhounese.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Chinese (Fuzhounese)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/chinese/gan.htm",
+    "base_path": "/chinese/gan.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Chinese (Gan)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/chinese/hakka.htm",
+    "base_path": "/chinese/hakka.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Chinese (Hakka)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/chinese/puxian.htm",
+    "base_path": "/chinese/puxian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Chinese (Puxian)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/chinese/shanghainese.htm",
+    "base_path": "/chinese/shanghainese.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Chinese (Shanghainese)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/chinese/teochew.htm",
+    "base_path": "/chinese/teochew.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Chinese (Teochew)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/chinese/weitou.htm",
+    "base_path": "/chinese/weitou.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Chinese (Weitou)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/chinese/wu.htm",
+    "base_path": "/chinese/wu.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Chinese (Wu)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/chinese/xiang.htm",
+    "base_path": "/chinese/xiang.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Chinese (Xiang)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/chinese/yue.htm",
+    "base_path": "/chinese/yue.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Chinese (Yue)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/akuapem.htm",
+    "base_path": "/writing/akuapem.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Akuapem"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/assamese.htm",
+    "base_path": "/writing/assamese.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Assamese"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/badaga.htm",
+    "base_path": "/writing/badaga.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Badaga"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/basaa.htm",
+    "base_path": "/writing/basaa.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Basaa"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/chayahuita.htm",
+    "base_path": "/writing/chayahuita.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Chayahuita"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/chungliao.htm",
+    "base_path": "/writing/chungliao.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Chungli Ao"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/gaulish.htm",
+    "base_path": "/writing/gaulish.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Gaulish"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/guanche.htm",
+    "base_path": "/writing/guanche.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Guanche"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/hmong.htm",
+    "base_path": "/writing/hmong.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Hmong"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/inabaknon.htm",
+    "base_path": "/writing/inabaknon.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Inabaknon"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/itbayat.htm",
+    "base_path": "/writing/itbayat.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Itbayat"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kanga.htm",
+    "base_path": "/writing/kanga.htm",
+    "fragment": "kufa",
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Kufa"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kankanaey.htm",
+    "base_path": "/writing/kankanaey.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Kankanaey"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/khun.htm",
+    "base_path": "/writing/khun.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Khün"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/mari.htm",
+    "base_path": "/writing/mari.htm",
+    "fragment": "hm",
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Mari (Hill)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/mari.htm",
+    "base_path": "/writing/mari.htm",
+    "fragment": "mm",
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Mari (Meadow)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/mari.htm",
+    "base_path": "/writing/mari.htm",
+    "fragment": "nwm",
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Mari (Northwestern)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/mbugu.htm",
+    "base_path": "/writing/mbugu.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Mbugu"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/northernthai.htm",
+    "base_path": "/writing/northernthai.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Northern Thai (Kam Mueang)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/nyangatom.htm",
+    "base_path": "/writing/nyangatom.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Nyangatom"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/oldenglish.htm",
+    "base_path": "/writing/oldenglish.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Old English"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/paici.htm",
+    "base_path": "/writing/paici.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Paicî"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/pali.htm",
+    "base_path": "/writing/pali.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Pali"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/pie.htm",
+    "base_path": "/writing/pie.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Proto-Indo-European"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/porja.htm",
+    "base_path": "/writing/porja.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Parji / Porja"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/redkaren.htm",
+    "base_path": "/writing/redkaren.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Karen (Red / Kayah Li)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/sorbian.htm",
+    "base_path": "/writing/sorbian.htm",
+    "fragment": "ls",
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Sorbian (Lower)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/sorbian.htm",
+    "base_path": "/writing/sorbian.htm",
+    "fragment": "us",
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Sorbian (Upper)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/sumi.htm",
+    "base_path": "/writing/sumi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Sümi"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/swissgerman.htm",
+    "base_path": "/writing/swissgerman.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Swiss German"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/tamazight.htm",
+    "base_path": "/writing/tamazight.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Tamazight"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/tampuan.htm",
+    "base_path": "/writing/tampuan.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Tampuan"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/tartessian.htm",
+    "base_path": "/writing/tartessian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Tartessian"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/tujia.htm",
+    "base_path": "/writing/tujia.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Tujia"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/tutelo.htm",
+    "base_path": "/writing/tutelo.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Tutelo"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/wandamen.htm",
+    "base_path": "/writing/wandamen.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Wandamen"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/yagua.htm",
+    "base_path": "/writing/yagua.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Yagua"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/yanomamo.htm",
+    "base_path": "/writing/yanomamo.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Yanomamö"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/yelmek.htm",
+    "base_path": "/writing/yelmek.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Yelmek"
+      }
+    ]
+  }
+]

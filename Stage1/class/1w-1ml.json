@@ -1,0 +1,122 @@
+[
+  {
+    "absolute_url_path": "/chinese/xiaoerjing.htm",
+    "base_path": "/chinese/xiaoerjing.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Xiao'erjing"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Xiao'erjing_using_Arabic"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/aljamiado.htm",
+    "base_path": "/writing/aljamiado.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Morisco (Aljamiado)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Morisco_using_Arabic"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/armenoturkish.htm",
+    "base_path": "/writing/armenoturkish.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Armeno-Turkish"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Armeno-Turkish_using_Armenian"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/bactrian.htm",
+    "base_path": "/writing/bactrian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Bactrian"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Bactrian_using_Greek"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/chorasmian.htm",
+    "base_path": "/writing/chorasmian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Chorasmian"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Khwarezmian_using_Arabic"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/dhankari.htm",
+    "base_path": "/writing/dhankari.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Dhankari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Simauri_using_Takri"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/jaunsaritakri.htm",
+    "base_path": "/writing/jaunsaritakri.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Jaunsari Takri"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Jaunsari_using_Takri"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/thaisanskrit.htm",
+    "base_path": "/writing/thaisanskrit.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Thai alphabet for Sanskrit"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Sanskrit_using_Thai"
+      }
+    ]
+  }
+]

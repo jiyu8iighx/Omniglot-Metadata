@@ -1,0 +1,40 @@
+[
+  {
+    "absolute_url_path": "/writing/chunom.htm",
+    "base_path": "/writing/chunom.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Chữ-nôm"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Chữ-nôm"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Vietnamese (chữ-nôm)_using_Chinese"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/opcuneiform.htm",
+    "base_path": "/writing/opcuneiform.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "writing.csv",
+        "label": "Old Persian Cuneiform"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Old Persian Cuneiform"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Old Persian Cuneiform_using_Cuneiform scripts"
+      }
+    ]
+  }
+]

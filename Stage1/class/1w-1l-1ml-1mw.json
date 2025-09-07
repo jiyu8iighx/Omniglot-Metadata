@@ -1,0 +1,370 @@
+[
+  {
+    "absolute_url_path": "/writing/balinese.htm",
+    "base_path": "/writing/balinese.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Balinese"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Balinese"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Balinese_for_1_languages"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Balinese_using_Balinese"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/bengali.htm",
+    "base_path": "/writing/bengali.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Bengali"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Bengali"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Eastern Nagari(Bengali /Eastern Neo-Brahmic)_for_25_languages"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Bengali_using_Eastern Nagari(Bengali /Eastern Neo-Brahmic)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/burmese.htm",
+    "base_path": "/writing/burmese.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Burmese (Myanmar)"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Burmese"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Burmese / Myanmar_for_15_languages"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Burmese_using_Burmese / Myanmar"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/coptic.htm",
+    "base_path": "/writing/coptic.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Coptic"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Coptic"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Coptic_for_2_languages"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Coptic_using_Coptic"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/ethiopic.htm",
+    "base_path": "/writing/ethiopic.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Ge'ez"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Ge'ez (Ethiopic)"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Ge'ez (Ethiopic)_for_18_languages"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Ge'ez_using_Ge'ez (Ethiopic)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/gujarati.htm",
+    "base_path": "/writing/gujarati.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Gujarati"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Gujarati"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Gujarati_for_3_languages"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Gujarati_using_Gujarati"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kannada.htm",
+    "base_path": "/writing/kannada.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Kannada"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Kannada"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kannada_for_6_languages"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kannada_using_Kannada"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kharosthi.htm",
+    "base_path": "/writing/kharosthi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Gandhari"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Kharosthi"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kharosthi_for_1_languages"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Gandhari and Sanskrit_using_Kharosthi"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/lao.htm",
+    "base_path": "/writing/lao.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Lao"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Lao"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Lao_for_6_languages"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Lao_using_Lao"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/malayalam.htm",
+    "base_path": "/writing/malayalam.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Malayalam"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Malayalam"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Malayalam_for_4_languages"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Malayalam_using_Malayalam"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/manchu.htm",
+    "base_path": "/writing/manchu.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Manchu"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Manchu"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Manchu_for_3_languages"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Manchu_using_Manchu"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/oriya.htm",
+    "base_path": "/writing/oriya.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Odia"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Odia"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Odia (Oriya)_for_11_languages"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Odia_using_Odia (Oriya)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/syriac.htm",
+    "base_path": "/writing/syriac.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Syriac"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Syriac"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Syriac_for_7_languages"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Aramaic_using_Syriac"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/tamil.htm",
+    "base_path": "/writing/tamil.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Tamil"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Tamil"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Tamil_for_3_languages"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Tamil_using_Tamil"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/telugu.htm",
+    "base_path": "/writing/telugu.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Telugu"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Telugu"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Telugu_for_2_languages"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Telugu_using_Telugu"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/thai.htm",
+    "base_path": "/writing/thai.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Thai"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Thai"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Thai_for_13_languages"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Thai_using_Thai"
+      }
+    ]
+  }
+]

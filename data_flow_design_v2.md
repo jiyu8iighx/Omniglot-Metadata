@@ -1,5 +1,60 @@
 # Omniglot数据处理设计文档
 
+## 0. Stage0: 源数据重建
+
+### HTML结构解析方法
+**标准列表页面**（languages.htm/index.htm/charts.html）：
+- 结构：`<ol><li><p><a href>标签</a>, ...</p></li></ol>`
+- 断言：应有唯一的ol元素
+- 解析：提取所有li元素中的a标签的href和文本
+
+**langalph.htm页面**：
+- p元素：包含两个p元素（各含5+个a标签），分别对应多语言和单语言书写系统
+- table元素：行宽度只能是1或2
+  - 宽度2：左列书写系统，右列语言列表
+  - 宽度1：`a(id), div(a href), a(语言), a(语言), ...`结构
+
+### 数据更新状态
+经Stage0重建后的数据状态（相比重建前）：
+- `language.csv`: 2241个链接（+9个）
+- `writing.csv`: 369个链接（相同）  
+- `charts.csv`: 1991个链接（新增）
+- `langalphSingle.csv`: 50个链接（相同）
+- `langalphMap.json`: 51个映射关系（+1个）
+
+### 重定向检查工具
+Stage0提供重定向检查工具，用于生成供Stage1使用的重定向映射数据：
+
+**路径收集**：
+```bash
+# 收集常规路径（language/writing/langalphMap）
+python3 generate_paths_to_check.py > paths_to_check.txt
+
+# 收集charts路径（使用/charts/基路径）
+python3 generate_paths_to_check.py --charts > charts_paths_to_check.txt
+
+# 查看收集的路径（不保存文件）
+python3 generate_paths_to_check.py --dry-run
+python3 generate_paths_to_check.py --charts --dry-run
+```
+
+**重定向检查**：
+```bash
+# 检查常规路径重定向
+cat paths_to_check.txt | ./check_redirects.sh > redirects.csv
+
+# 检查charts路径重定向  
+cat charts_paths_to_check.txt | ./check_redirects.sh > charts_redirects.csv
+
+# 管道组合（一步完成路径收集和检查）
+python3 generate_paths_to_check.py | ./check_redirects.sh > redirects.csv
+```
+
+**输出格式**：
+- CSV格式：`source_path,target_path,status_code,is_redirect,is_available`
+- 支持20个并发curl任务进行高效检查
+- 错误处理：连接失败标记为`CURL_ERROR`
+
 ## 1. 数据流程架构
 
 ### 数据演变过程
@@ -11,9 +66,9 @@
 ```
 language.csv, writing.csv, langalphSingle.csv, langalphMap.json
     ↓ [path_collector.py]
-paths_raw.json (原始路径，包含复杂相对路径)
-    ↓ [create_final_paths.py + redirects.csv]
-paths_final.json (标准化绝对路径，字段清理)
+paths_raw.json (原始路径，包含file_exists字段)
+    ↓ [create_final_paths.py + path_corrections.json可选]
+paths_final.json (字段清理，移除file_exists，sources合并)
     ↓ [entity_builder.py - 待实现]
 entities.json (实体标准化)
     ↓ [iso_mapper.py - 待实现]  
@@ -21,8 +76,8 @@ entities_with_iso.json (ISO代码映射)
 ```
 
 ### 处理层次
-1. **路径收集层**: 提取原始路径，保留完整信息用于调试
-2. **路径标准化层**: 应用修正+重定向，输出清洁的最终路径
+1. **路径收集层**: 提取原始路径，检查文件存在性，保留完整信息
+2. **路径标准化层**: 移除file_exists字段，应用可选修正，合并sources
 3. **实体标准化层**: 基于路径生成实体，处理去重和分类
 4. **ISO映射层**: 将实体映射到ISO 639-3/15924标准
 5. **输出层**: 生成结构化数据集
@@ -44,10 +99,10 @@ PathEntryRaw = {
 ### PathEntryFinal (最终路径集合 - paths_final.json) 
 ```python
 PathEntryFinal = {
-    'absolute_url_path': str,       # 最终标准化路径（应用修正+重定向）
+    'absolute_url_path': str,       # 标准化路径（应用可选修正）
     'base_path': str,               # 去除fragment的基础路径
     'fragment': str | None,         # HTML锚点
-    'sources': List[Source]         # 合并的来源信息
+    'sources': List[Source]         # 合并的来源信息（去重后）
 }
 ```
 
@@ -130,51 +185,45 @@ absolute_url = urljoin("/writing/", base_path)
 - **重定向检查**: 移除fragment进行HTTP请求
 - **实体识别**: fragment表示页面内不同语言/书写系统
 
-### 重定向处理
+### Stage1数据处理流程
 
-#### 检查流程
+#### 当前实际流程
 ```bash
-# 1. 收集所有路径
-python stage1/path_collector.py
+# 1. 收集所有路径并检查文件存在性
+cd Stage1
+python3 path_collector.py
 
-# 2. 生成缺失文件列表
-python stage1/generate_missing_paths.py > missing_paths.txt
+# 2. 生成最终路径集合（移除file_exists，合并sources）
+python3 create_final_paths.py [path_corrections.json]
 
-# 3. 执行重定向检查（用户手动执行）
-stage1/check_redirects_csv.sh < missing_paths.txt > redirects.csv
-
-# 4. 集成重定向信息
-python stage1/integrate_redirects_csv.py
+# 3. 生成source组合统计
+python3 source_stats.py
 ```
 
-#### 数据格式
-- **输入**: `source_path,target_path`
-- **逻辑**: 仅当target ≠ source时记录重定向
-- **输出**: 所有PathEntry都有`redirect_target`字段（null或目标路径）
+#### 数据处理说明
+- **path_collector.py**: 从Stage0读取CSV/JSON，检查文件存在性，生成paths_raw.json
+- **create_final_paths.py**: 移除file_exists字段，应用可选修正，合并重复条目的sources
+- **source_stats.py**: 分析source角色组合，生成统计报告
 
-### 脚本文件 (`stage1/`)
-- `path_collector.py`: 主要路径收集脚本，生成`paths_raw.json`
-- `generate_missing_paths.py`: 提取缺失文件路径列表
-- `check_redirects_csv.sh`: HTTP重定向检查脚本（用户执行）
-- `integrate_redirects_csv.py`: 集成重定向信息到路径数据
-- `create_final_paths.py`: 生成最终标准化路径`paths_final.json`
+### 脚本文件 (`Stage1/`)
+- `path_collector.py`: 主要路径收集脚本，从Stage0读取数据，生成`paths_raw.json`
+- `create_final_paths.py`: 字段清理和sources合并，生成`paths_final.json`  
 - `source_stats.py`: 生成source组合统计`source_combinations.json`
-- `extract_low_frequency_data.py`: 提取低频组合数据
-- `summarize_low_frequency.py`: 低频组合汇总分析
+- `extract_low_frequency_data.py`: 提取低频组合数据（可选）
+- `summarize_low_frequency.py`: 低频组合汇总分析（可选）
 
-### 数据文件 (`stage1/`)
-- `paths_raw.json`: 原始路径收集结果 (2488个实体)
-- `paths_final.json`: 最终标准化路径 (2488个实体)
+### 数据文件 (`Stage1/`)
+- `paths_raw.json`: 原始路径收集结果 (2535个实体，包含file_exists字段)
+- `paths_final.json`: 最终标准化路径 (2535个实体，已移除file_exists字段)
 - `path_analysis_report.json`: 路径分析报告
-- `source_combinations.json`: Source组合统计 (40种组合)
-- `low_frequency_combinations.csv`: 低频组合数据表格 (56个实体)
+- `source_combinations.json`: source组合统计 (30种唯一组合)
 
 ### 核心成果
 1. **路径标准化**: 所有相对路径转换为绝对URL路径
-2. **Fragment处理**: 正确处理HTML锚点作为实体标识符
-3. **重定向处理**: 集成HTTP重定向信息，解决文件不存在问题
-4. **Source统计**: 识别出40种不同的source组合模式
-5. **异常识别**: 提取56个低频组合实体供人工检视
+2. **Fragment处理**: 正确处理HTML锚点作为实体标识符  
+3. **文件存在性检查**: 在Stage0已完成，Stage1移除该字段
+4. **Sources合并**: 正确处理重复条目的来源信息合并
+5. **Source统计**: 识别出30种不同的source组合模式
 
 ## 6. 下一阶段规划
 

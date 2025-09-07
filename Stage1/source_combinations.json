@@ -1,0 +1,317 @@
+{
+  "total_entities": 2498,
+  "unique_combinations": 40,
+  "combinations": [
+    {
+      "combination": {
+        "langalphMap.json:language": 1,
+        "language.csv:language": 1
+      },
+      "frequency": 1837
+    },
+    {
+      "combination": {
+        "writing.csv:writing_system": 1
+      },
+      "frequency": 160
+    },
+    {
+      "combination": {
+        "langalphMap.json:language": 2,
+        "language.csv:language": 1
+      },
+      "frequency": 151
+    },
+    {
+      "combination": {
+        "language.csv:language": 1
+      },
+      "frequency": 49
+    },
+    {
+      "combination": {
+        "langalphSingle.csv:writing_system": 1,
+        "writing.csv:writing_system": 1
+      },
+      "frequency": 40
+    },
+    {
+      "combination": {
+        "langalphMap.json:language": 3,
+        "language.csv:language": 1
+      },
+      "frequency": 38
+    },
+    {
+      "combination": {
+        "langalphSingle.csv:writing_system": 1,
+        "language.csv:language": 1,
+        "writing.csv:writing_system": 1
+      },
+      "frequency": 35
+    },
+    {
+      "combination": {
+        "language.csv:language": 1,
+        "writing.csv:writing_system": 1
+      },
+      "frequency": 28
+    },
+    {
+      "combination": {
+        "langalphMap.json:language": 1
+      },
+      "frequency": 21
+    },
+    {
+      "combination": {
+        "langalphMap.json:writing_system": 1,
+        "writing.csv:writing_system": 1
+      },
+      "frequency": 20
+    },
+    {
+      "combination": {
+        "langalphMap.json:language": 1,
+        "langalphSingle.csv:writing_system": 1,
+        "language.csv:language": 1,
+        "writing.csv:writing_system": 1
+      },
+      "frequency": 16
+    },
+    {
+      "combination": {
+        "langalphMap.json:language": 1,
+        "langalphMap.json:writing_system": 1,
+        "language.csv:language": 1,
+        "writing.csv:writing_system": 1
+      },
+      "frequency": 16
+    },
+    {
+      "combination": {
+        "langalphMap.json:language": 1,
+        "language.csv:language": 1,
+        "writing.csv:writing_system": 1
+      },
+      "frequency": 14
+    },
+    {
+      "combination": {
+        "langalphSingle.csv:writing_system": 1
+      },
+      "frequency": 13
+    },
+    {
+      "combination": {
+        "langalphMap.json:language": 1,
+        "writing.csv:writing_system": 1
+      },
+      "frequency": 8
+    },
+    {
+      "combination": {
+        "langalphMap.json:language": 1,
+        "langalphSingle.csv:writing_system": 1,
+        "language.csv:language": 1
+      },
+      "frequency": 7
+    },
+    {
+      "combination": {
+        "langalphMap.json:language": 2,
+        "langalphMap.json:writing_system": 1,
+        "language.csv:language": 1,
+        "writing.csv:writing_system": 1
+      },
+      "frequency": 5
+    },
+    {
+      "combination": {
+        "langalphMap.json:language": 1,
+        "language.csv:language": 2
+      },
+      "frequency": 5
+    },
+    {
+      "combination": {
+        "langalphSingle.csv:writing_system": 1,
+        "language.csv:language": 1
+      },
+      "frequency": 5
+    },
+    {
+      "combination": {
+        "langalphMap.json:language": 1,
+        "langalphMap.json:writing_system": 1,
+        "writing.csv:writing_system": 1
+      },
+      "frequency": 4
+    },
+    {
+      "combination": {
+        "langalphMap.json:language": 1,
+        "langalphMap.json:writing_system": 1,
+        "language.csv:language": 2,
+        "writing.csv:writing_system": 1
+      },
+      "frequency": 2
+    },
+    {
+      "combination": {
+        "langalphMap.json:language": 2,
+        "langalphSingle.csv:writing_system": 1,
+        "language.csv:language": 1
+      },
+      "frequency": 2
+    },
+    {
+      "combination": {
+        "langalphMap.json:language": 1,
+        "langalphSingle.csv:writing_system": 1,
+        "writing.csv:writing_system": 1
+      },
+      "frequency": 2
+    },
+    {
+      "combination": {
+        "langalphMap.json:language": 4,
+        "language.csv:language": 1
+      },
+      "frequency": 2
+    },
+    {
+      "combination": {
+        "langalphMap.json:language": 2,
+        "language.csv:language": 1,
+        "writing.csv:writing_system": 1
+      },
+      "frequency": 2
+    },
+    {
+      "combination": {
+        "langalphMap.json:language": 3,
+        "langalphSingle.csv:writing_system": 1,
+        "language.csv:language": 1
+      },
+      "frequency": 2
+    },
+    {
+      "combination": {
+        "langalphMap.json:language": 2,
+        "langalphSingle.csv:writing_system": 1,
+        "language.csv:language": 1,
+        "writing.csv:writing_system": 1
+      },
+      "frequency": 1
+    },
+    {
+      "combination": {
+        "langalphSingle.csv:writing_system": 2,
+        "writing.csv:writing_system": 2
+      },
+      "frequency": 1
+    },
+    {
+      "combination": {
+        "langalphSingle.csv:writing_system": 1,
+        "writing.csv:writing_system": 2
+      },
+      "frequency": 1
+    },
+    {
+      "combination": {
+        "langalphMap.json:writing_system": 1
+      },
+      "frequency": 1
+    },
+    {
+      "combination": {
+        "langalphSingle.csv:writing_system": 1,
+        "language.csv:language": 2,
+        "writing.csv:writing_system": 1
+      },
+      "frequency": 1
+    },
+    {
+      "combination": {
+        "langalphMap.json:language": 2,
+        "langalphMap.json:writing_system": 1,
+        "langalphSingle.csv:writing_system": 1,
+        "language.csv:language": 1,
+        "writing.csv:writing_system": 2
+      },
+      "frequency": 1
+    },
+    {
+      "combination": {
+        "langalphMap.json:language": 4,
+        "langalphMap.json:writing_system": 1,
+        "language.csv:language": 1,
+        "writing.csv:writing_system": 1
+      },
+      "frequency": 1
+    },
+    {
+      "combination": {
+        "langalphSingle.csv:writing_system": 1,
+        "language.csv:language": 1,
+        "writing.csv:writing_system": 2
+      },
+      "frequency": 1
+    },
+    {
+      "combination": {
+        "langalphMap.json:language": 1,
+        "language.csv:language": 4
+      },
+      "frequency": 1
+    },
+    {
+      "combination": {
+        "langalphMap.json:language": 5,
+        "language.csv:language": 1
+      },
+      "frequency": 1
+    },
+    {
+      "combination": {
+        "language.csv:language": 3,
+        "writing.csv:writing_system": 1
+      },
+      "frequency": 1
+    },
+    {
+      "combination": {
+        "langalphSingle.csv:writing_system": 1,
+        "language.csv:language": 2,
+        "writing.csv:writing_system": 2
+      },
+      "frequency": 1
+    },
+    {
+      "combination": {
+        "langalphMap.json:language": 3,
+        "langalphMap.json:writing_system": 1,
+        "language.csv:language": 1,
+        "writing.csv:writing_system": 1
+      },
+      "frequency": 1
+    },
+    {
+      "combination": {
+        "langalphMap.json:language": 1,
+        "language.csv:language": 1,
+        "writing.csv:writing_system": 2
+      },
+      "frequency": 1
+    }
+  ],
+  "role_totals": {
+    "langalphMap.json:language": 2398,
+    "language.csv:language": 2241,
+    "writing.csv:writing_system": 369,
+    "langalphMap.json:writing_system": 51,
+    "langalphSingle.csv:writing_system": 130
+  }
+}

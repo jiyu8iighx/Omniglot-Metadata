@@ -1,0 +1,401 @@
+[
+  {
+    "absolute_url_path": "/writing/adaizan.htm",
+    "base_path": "/writing/adaizan.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Adaizan"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Adaizan"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Adaizan_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/bamum.htm",
+    "base_path": "/writing/bamum.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Bamum"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Bamum"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Bamum_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/bantawa.htm",
+    "base_path": "/writing/bantawa.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Bantawa"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Kirat Rai"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Bantawa_using_Devanagari"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/dagaare.htm",
+    "base_path": "/writing/dagaare.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Dagaare"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Dagaare"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Dagaare_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/ebira.htm",
+    "base_path": "/writing/ebira.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Ebira"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Ebira"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Ebira_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/elfdalian.htm",
+    "base_path": "/writing/elfdalian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Elfdalian"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Elfdalian"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Elfdalian_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/gondi.htm",
+    "base_path": "/writing/gondi.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Gondi"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Gondi"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Gondi_using_Devanagari"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/hittite.htm",
+    "base_path": "/writing/hittite.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Hittite"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Hittite"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Hittite_using_Cuneiform scripts"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/jebero.htm",
+    "base_path": "/writing/jebero.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Jebero"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Jebero"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Jebero_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kasem.htm",
+    "base_path": "/writing/kasem.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Kasem"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Kasem"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kasem_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/kuukthaayorre.htm",
+    "base_path": "/writing/kuukthaayorre.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Kuuk Thaayorre"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Kuuk Thaayorre"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Kuuk Thaayorre_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/manipuri.htm",
+    "base_path": "/writing/manipuri.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Manipuri"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Manipuri"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Manipuri_using_Eastern Nagari(Bengali /Eastern Neo-Brahmic)"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/ojibwe.htm",
+    "base_path": "/writing/ojibwe.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Ojibwe"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Ojibwe"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Ojibwe_using_Canadian Aboriginal Syllabics"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/oldnubian.htm",
+    "base_path": "/writing/oldnubian.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Old Nubian"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Old Nubian"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Old Nubian_using_Coptic"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/sumbawa.htm",
+    "base_path": "/writing/sumbawa.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Sumbawa"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Satera Jontal"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Sumbawa_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/tammari.htm",
+    "base_path": "/writing/tammari.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Tammari"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Tammari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Tammari_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/tangsa.htm",
+    "base_path": "/writing/tangsa.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Tangsa"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Tangsa"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Tangsa_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/tulu.htm",
+    "base_path": "/writing/tulu.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Tulu"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Tigalari"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Tulu_using_Kannada"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/vai.htm",
+    "base_path": "/writing/vai.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Vai"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Vai"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Vai_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/yamdena.htm",
+    "base_path": "/writing/yamdena.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Yamdena"
+      },
+      {
+        "source": "writing.csv",
+        "label": "Yamdena"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Yamdena_using_Latin / Roman"
+      }
+    ]
+  },
+  {
+    "absolute_url_path": "/writing/zaghawa.htm",
+    "base_path": "/writing/zaghawa.htm",
+    "fragment": null,
+    "sources": [
+      {
+        "source": "language.csv",
+        "label": "Zaghawa"
+      },
+      {
+        "source": "langalphSingle.csv",
+        "label": "Zaghawa"
+      },
+      {
+        "source": "langalphMap.json",
+        "label": "Zaghawa_using_Latin / Roman"
+      }
+    ]
+  }
+]

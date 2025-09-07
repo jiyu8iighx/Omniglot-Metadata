@@ -54,8 +54,7 @@ def parse_langalph_page(html_file):
     multi_language_links = []
     
     if len(target_p_elements) >= 2:
-        # 按a标签数量排序，取前两个
-        target_p_elements.sort(key=lambda x: x[1], reverse=True)
+        # 按HTML中的原始顺序处理（不排序）
         
         for i, (p, count) in enumerate(target_p_elements[:2]):
             print(f"处理第 {i+1} 个p元素（{count}个a标签）")
@@ -74,13 +73,13 @@ def parse_langalph_page(html_file):
                         print(f"处理链接时出错: {href}, 错误: {str(e)}")
             
             if i == 0:
-                # 假设第一个是多语言书写系统
+                # 第一个p元素（按HTML顺序）
                 multi_language_links = links
-                print(f"多语言书写系统: {len(links)} 个链接")
+                print(f"第一个p元素（多语言书写系统）: {len(links)} 个链接")
             else:
-                # 第二个是单语言书写系统
+                # 第二个p元素（按HTML顺序）
                 single_language_links = links
-                print(f"单语言书写系统: {len(links)} 个链接")
+                print(f"第二个p元素（单语言书写系统）: {len(links)} 个链接")
     
     # 保存单语言书写系统链接
     if single_language_links:
